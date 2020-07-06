@@ -1,0 +1,52 @@
+STATE,ICU OCCUPIED,ICU COLOR,BEDS OCCUPIED,BED COLOR,NEW CASES PER MILLION PER DAY,DAILY INCIDENTS PER MILLION COLOR,CURRENTLY HOSPITALIZED PER MILLION,HOSPITALIZED-13,HOSPITALIZED-12,HOSPITALIZED-11,HOSPITALIZED-10,HOSPITALIZED-09,HOSPITALIZED-08,HOSPITALIZED-07,HOSPITALIZED-06,HOSPITALIZED-05,HOSPITALIZED-04,HOSPITALIZED-03,HOSPITALIZED-02,HOSPITALIZED-01,HOSPITALIZED-00,CURRENTLY HOSPITALIZED TREND,HOSPITALIZED TREND COLOR,CASE FATALITY RATE,CASE FATALITY RATE COLOR
+Alabama,74% ^Elevated^,Elevated,74% ^Elevated^,Elevated,248,Red,180,134,139,136,141,134,134,134,146,158,163,172,166,163,180,34% ^Increasing^,Red,2.29,Yellow
+Alaska,57% ^Normal^,Normal,55% ^Normal^,Normal,45,Yellow,31,18,19,22,19,16,15,16,22,25,27,25,34,31,31,77% ^Increasing^,Red,1.44,Yellow
+Arizona,77% ^Elevated^,Elevated,73% ^Elevated^,Elevated,475,Red,437,274,293,312,337,290,354,370,374,384,395,404,414,428,437,60% ^Increasing^,Red,1.84,Yellow
+Arkansas,70% ^Elevated^,Elevated,57% ^Normal^,Normal,185,Red,94,79,82,88,94,94,94,92,99,96,91,90,94,94,94,20% ^Increasing^,Red,1.23,Yellow
+California,67% ^Normal^,Normal,65% ^Normal^,Normal,177,Red,181,122,128,137,140,143,147,151,156,164,167,172,178,179,181,49% ^Increasing^,Red,2.43,Yellow
+Colorado,62% ^Normal^,Normal,56% ^Normal^,Normal,46,Yellow,49,44,43,41,43,43,39,41,41,47,41,45,47,47,49,11% ^Increasing^,Red,4.49,Yellow
+Connecticut,60% ^Normal^,Normal,61% ^Normal^,Normal,17,Green,27,39,39,35,34,36,30,29,28,27,28,28,27,27,27,-32% ^Decreasing^,Green,9.28,Red
+Delaware,58% ^Normal^,Normal,72% ^Elevated^,Elevated,132,Red,54,91,93,87,96,80,85,80,74,66,70,69,59,55,54,-40% ^Decreasing^,Green,4.22,Yellow
+District of Columbia,72% ^Elevated^,Elevated,71% ^Elevated^,Elevated,47,Yellow,123,220,242,237,222,208,193,179,171,179,169,170,156,135,123,-44% ^Decreasing^,Green,5.33,Red
+Florida,67% ^Normal^,Normal,70% ^Elevated^,Elevated,393,Red,State not reporting,null,null,null,null,null,null,null,null,null,null,null,null,null,0,------ ^Not enough data^,Red,1.91,Yellow
+Georgia,78% ^Elevated^,Elevated,69% ^Normal^,Normal,246,Red,170,94,99,106,107,112,111,116,128,137,148,155,157,163,170,81% ^Increasing^,Red,2.99,Yellow
+Hawaii,63% ^Normal^,Normal,71% ^Elevated^,Elevated,13,Green,State not reporting,null,null,null,null,null,null,null,null,null,null,null,null,null,0,------ ^Not enough data^,Red,1.9,Yellow
+Idaho,49% ^Normal^,Normal,47% ^Normal^,Normal,164,Red,42,20,19,17,23,25,20,24,24,24,24,24,24,42,42,108% ^Increasing^,Red,1.26,Yellow
+Illinois,50% ^Normal^,Normal,60% ^Normal^,Normal,63,Yellow,105,128,130,127,128,120,120,116,118,123,119,130,106,106,105,-19% ^Decreasing^,Green,4.87,Yellow
+Indiana,60% ^Normal^,Normal,58% ^Normal^,Normal,65,Yellow,94,112,109,104,107,103,88,92,93,103,99,96,94,94,94,-16% ^Decreasing^,Green,5.61,Red
+Iowa,48% ^Normal^,Normal,52% ^Normal^,Normal,130,Red,45,54,52,44,43,45,42,37,38,42,47,46,46,42,45,-17% ^Decreasing^,Green,2.3,Yellow
+Kansas,54% ^Normal^,Normal,50% ^Normal^,Normal,117,Red,State not reporting,null,null,null,null,null,null,null,null,null,null,null,null,null,0,------ ^Not enough data^,Red,1.74,Yellow
+Kentucky,73% ^Elevated^,Elevated,71% ^Elevated^,Elevated,37,Green,102,78,84,75,84,87,87,86,85,91,96,96,102,102,102,30% ^Increasing^,Red,3.57,Yellow
+Louisiana,63% ^Normal^,Normal,65% ^Normal^,Normal,276,Red,199,136,139,136,140,151,151,154,159,168,172,181,183,183,199,47% ^Increasing^,Red,5.04,Red
+Maine,61% ^Normal^,Normal,67% ^Normal^,Normal,24,Green,19,20,18,19,19,21,18,23,23,22,22,22,20,20,19,-7% ^Decreasing^,Green,3.19,Yellow
+Maryland,61% ^Normal^,Normal,73% ^Elevated^,Elevated,67,Yellow,68,100,93,90,85,81,79,74,74,75,76,73,70,68,68,-32% ^Decreasing^,Green,4.66,Yellow
+Massachusetts,62% ^Normal^,Normal,78% ^Elevated^,Elevated,27,Green,92,132,137,135,118,114,111,108,110,105,109,98,94,92,92,-31% ^Decreasing^,Green,7.44,Red
+Michigan,66% ^Normal^,Normal,63% ^Normal^,Normal,43,Yellow,55,56,56,56,56,56,56,56,56,47,47,55,55,55,55,-2% ^Decreasing^,Green,8.52,Red
+Minnesota,61% ^Normal^,Normal,60% ^Normal^,Normal,66,Yellow,45,59,60,60,60,59,53,51,49,48,46,49,48,48,45,-24% ^Decreasing^,Green,3.95,Yellow
+Mississippi,70% ^Elevated^,Elevated,66% ^Normal^,Normal,240,Red,293,239,223,258,254,258,246,227,242,262,264,290,290,293,293,23% ^Increasing^,Red,3.6,Yellow
+Missouri,61% ^Normal^,Normal,62% ^Normal^,Normal,67,Yellow,120,68,97,89,89,98,111,67,98,98,96,117,117,121,120,78% ^Increasing^,Red,4.39,Yellow
+Montana,66% ^Normal^,Normal,54% ^Normal^,Normal,47,Yellow,19,14,14,16,14,13,8,10,12,11,13,13,16,19,19,33% ^Increasing^,Red,1.9,Yellow
+Nebraska,54% ^Normal^,Normal,59% ^Normal^,Normal,78,Yellow,56,73,70,65,68,65,65,64,60,63,62,60,63,57,56,-23% ^Decreasing^,Green,1.43,Yellow
+Nevada,71% ^Elevated^,Elevated,74% ^Elevated^,Elevated,244,Red,247,121,126,143,152,153,163,166,180,193,205,215,229,243,247,104% ^Increasing^,Red,2.38,Yellow
+New Hampshire,52% ^Normal^,Normal,64% ^Normal^,Normal,15,Green,18,40,40,38,36,24,24,26,25,25,27,24,23,18,18,-55% ^Decreasing^,Green,6.42,Red
+New Jersey,45% ^Normal^,Normal,64% ^Normal^,Normal,36,Green,103,116,123,135,133,126,124,114,110,112,122,116,116,111,103,-11% ^Decreasing^,Green,8.77,Red
+New Mexico,57% ^Normal^,Normal,65% ^Normal^,Normal,98,Red,58,64,66,67,71,64,61,58,54,57,61,61,61,62,58,-10% ^Decreasing^,Green,3.93,Yellow
+New York,53% ^Normal^,Normal,68% ^Normal^,Normal,34,Green,43,58,57,55,51,49,47,45,44,46,45,45,44,43,43,-26% ^Decreasing^,Green,6.27,Red
+North Carolina,70% ^Elevated^,Elevated,70% ^Elevated^,Elevated,148,Red,90,83,87,86,85,85,85,85,80,87,86,87,91,90,90,9% ^Increasing^,Red,1.91,Yellow
+North Dakota,37% ^Normal^,Normal,48% ^Normal^,Normal,60,Yellow,29,41,37,35,33,30,30,31,33,33,26,25,26,29,29,-29% ^Decreasing^,Green,2.33,Yellow
+Ohio,46% ^Normal^,Normal,61% ^Normal^,Normal,84,Red,59,47,49,51,53,53,48,57,57,62,62,62,63,59,59,26% ^Increasing^,Red,5.09,Red
+Oklahoma,67% ^Normal^,Normal,57% ^Normal^,Normal,106,Red,99,50,67,68,70,78,83,83,83,80,95,93,99,99,99,98% ^Increasing^,Red,2.5,Yellow
+Oregon,64% ^Normal^,Normal,62% ^Normal^,Normal,64,Yellow,41,34,44,44,45,35,35,35,36,35,46,41,41,41,41,19% ^Increasing^,Red,2.1,Yellow
+Pennsylvania,63% ^Normal^,Normal,71% ^Elevated^,Elevated,49,Yellow,46,58,58,55,55,52,51,51,50,50,49,49,47,46,46,-21% ^Decreasing^,Green,7.52,Red
+Rhode Island,88% ^Constrained^,Constrained,84% ^Constrained^,Constrained,45,Yellow,58,100,99,98,97,86,86,86,69,70,65,63,58,58,58,-42% ^Decreasing^,Green,5.65,Red
+South Carolina,73% ^Elevated^,Elevated,73% ^Elevated^,Elevated,320,Red,243,142,160,162,171,176,176,185,200,198,225,219,223,231,243,71% ^Increasing^,Red,1.83,Yellow
+South Dakota,42% ^Normal^,Normal,36% ^Normal^,Normal,62,Yellow,67,99,96,92,89,89,83,85,79,70,73,72,66,61,67,-33% ^Decreasing^,Green,1.37,Yellow
+Tennessee,76% ^Elevated^,Elevated,64% ^Normal^,Normal,235,Red,139,97,106,102,108,108,103,117,123,130,140,139,139,139,139,43% ^Increasing^,Red,1.26,Yellow
+Texas,67% ^Normal^,Normal,66% ^Normal^,Normal,229,Red,282,128,141,151,163,176,190,190,204,225,238,255,264,272,282,120% ^Increasing^,Red,1.35,Yellow
+Utah,63% ^Normal^,Normal,58% ^Normal^,Normal,172,Red,74,62,67,76,72,74,90,90,79,78,81,71,72,80,74,20% ^Increasing^,Red,0.74,Green
+Vermont,62% ^Normal^,Normal,62% ^Normal^,Normal,11,Green,24,13,30,21,24,22,22,24,21,26,27,34,26,26,24,88% ^Increasing^,Red,4.48,Yellow
+Virginia,68% ^Normal^,Normal,59% ^Normal^,Normal,67,Yellow,93,99,99,104,100,100,96,96,93,106,105,104,96,95,93,-7% ^Decreasing^,Green,2.82,Yellow
+Washington,66% ^Normal^,Normal,71% ^Elevated^,Elevated,72,Yellow,40,27,27,31,40,36,40,40,35,37,38,41,44,41,40,49% ^Increasing^,Red,3.84,Yellow
+West Virginia,72% ^Elevated^,Elevated,70% ^Normal^,Normal,35,Green,15,12,12,13,13,18,18,18,16,15,13,13,14,14,15,29% ^Increasing^,Red,2.88,Yellow
+Wisconsin,47% ^Normal^,Normal,55% ^Normal^,Normal,99,Red,42,42,41,41,43,45,43,41,41,42,41,41,42,40,42,-1% ^Decreasing^,Green,2.31,Yellow
+Wyoming,59% ^Normal^,Normal,50% ^Normal^,Normal,54,Yellow,14,14,14,12,12,9,9,9,12,10,16,16,14,14,14,0% ^Decreasing^,Green,1.22,Yellow
