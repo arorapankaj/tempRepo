@@ -1,53 +1,53 @@
 STATE,STATE NAME,NEW GATING SCORE,TESTS CONDUCTED (7-DAY AVG),ICU OCCUPIED,ICU COLOR,BEDS OCCUPIED,BED COLOR,NEW CASES PER MILLION PER DAY,DAILY INCIDENTS PER MILLION COLOR,CURRENTLY HOSPITALIZED PER MILLION,HOSPITALIZED-13,HOSPITALIZED-12,HOSPITALIZED-11,HOSPITALIZED-10,HOSPITALIZED-09,HOSPITALIZED-08,HOSPITALIZED-07,HOSPITALIZED-06,HOSPITALIZED-05,HOSPITALIZED-04,HOSPITALIZED-03,HOSPITALIZED-02,HOSPITALIZED-01,HOSPITALIZED-00,CURRENTLY HOSPITALIZED TREND,HOSPITALIZED TREND COLOR,CASE FATALITY RATE,CASE FATALITY RATE COLOR
-Alabama,Alabama 😷,Bruised Red,9165,84% ^Constrained^,Constrained,77% ^Elevated^,Elevated,358,Bruised Red,307,272,278,272,285,292,298,311,320,316,316,316,320,291,307,13% ^Increasing^,Red,1.86,Yellow
-Alaska,Alaska,Bruised Red,4893,49% ^Normal^,Normal,47% ^Normal^,Normal,161,Bruised Red,59,30,34,44,44,44,36,37,40,44,46,49,51,52,59,95% ^Increasing^,Red,0.64,Green
-Arizona,Arizona,Bruised Red,11589,77% ^Elevated^,Elevated,77% ^Elevated^,Elevated,361,Bruised Red,364,463,483,480,475,476,445,431,424,418,425,407,391,379,364,-21% ^Decreasing^,Green,2.04,Yellow
-Arkansas,Arkansas 😷,Bruised Red,8299,70% ^Elevated^,Elevated,64% ^Normal^,Normal,288,Bruised Red,159,145,147,152,156,154,154,150,156,162,157,159,165,165,159,9% ^Increasing^,Red,1.04,Yellow
-California,California 😷,Bruised Red,125898,71% ^Elevated^,Elevated,67% ^Normal^,Normal,249,Bruised Red,223,200,206,211,212,214,215,213,213,220,223,223,223,223,223,12% ^Increasing^,Red,1.86,Yellow
-Colorado,Colorado 😷,Red,7780,58% ^Normal^,Normal,53% ^Normal^,Normal,99,Red,59,56,66,64,68,72,68,70,69,67,65,61,62,62,59,4% ^Increasing^,Red,3.79,Yellow
-Connecticut,Connecticut 😷,Green,7992,49% ^Normal^,Normal,71% ^Elevated^,Elevated,35,Green,20,21,19,19,19,19,19,19,15,17,18,20,20,20,20,-4% ^Decreasing^,Green,9.05,Red
-Delaware,Delaware 😷,Red,2428,67% ^Normal^,Normal,69% ^Normal^,Normal,113,Red,59,50,49,52,51,56,52,48,48,60,63,58,56,56,59,16% ^Increasing^,Red,4.05,Yellow
-District of Columbia,District of Columbia 😷,Red,3405,47% ^Normal^,Normal,49% ^Normal^,Normal,105,Red,120,132,129,135,122,123,125,129,118,118,115,129,137,137,120,-9% ^Decreasing^,Green,4.93,Yellow
-Florida,Florida,Bruised Red,54837,76% ^Elevated^,Elevated,79% ^Elevated^,Elevated,491,Bruised Red,417,375,389,383,424,417,426,436,442,443,441,439,428,421,417,11% ^Increasing^,Red,1.41,Yellow
-Georgia,Georgia,Bruised Red,24804,80% ^Constrained^,Constrained,75% ^Elevated^,Elevated,334,Bruised Red,290,245,258,262,268,273,276,286,300,297,299,297,295,291,290,18% ^Increasing^,Red,2.08,Yellow
-Hawaii,Hawaii,Yellow,1345,48% ^Normal^,Normal,59% ^Normal^,Normal,27,Green,20,null,16,22,28,28,28,28,23,32,33,28,28,20,20,------ ^Not enough data^,Red,1.6,Yellow
-Idaho,Idaho,Bruised Red,2863,64% ^Normal^,Normal,63% ^Normal^,Normal,282,Bruised Red,114,86,86,86,86,86,125,125,125,105,105,105,114,114,114,33% ^Increasing^,Red,0.82,Green
-Illinois,Illinois 😷,Red,38160,54% ^Normal^,Normal,59% ^Normal^,Normal,112,Red,110,107,112,115,113,113,107,107,111,116,115,116,116,113,110,2% ^Increasing^,Red,4.4,Yellow
-Indiana,Indiana 😷,Red,10633,50% ^Normal^,Normal,61% ^Normal^,Normal,123,Red,124,113,114,131,123,121,119,117,120,119,129,129,126,122,124,9% ^Increasing^,Red,4.65,Yellow
-Iowa,Iowa,Bruised Red,5015,48% ^Normal^,Normal,50% ^Normal^,Normal,157,Bruised Red,72,59,59,60,62,67,67,68,70,71,71,74,73,70,72,22% ^Increasing^,Red,1.96,Yellow
-Kansas,Kansas 😷,Bruised Red,4088,53% ^Normal^,Normal,50% ^Normal^,Normal,154,Bruised Red,108,null,null,null,null,null,null,null,null,null,null,null,null,108,108,------ ^Not enough data^,Red,1.3,Yellow
-Kentucky,Kentucky 😷,Red,7025,58% ^Normal^,Normal,60% ^Normal^,Normal,125,Red,133,98,100,100,94,101,115,114,121,119,135,130,138,133,133,35% ^Increasing^,Red,2.59,Yellow
-Louisiana,Louisiana 😷,Bruised Red,23423,71% ^Elevated^,Elevated,66% ^Normal^,Normal,488,Bruised Red,335,281,293,294,301,304,304,316,324,328,340,341,344,344,335,19% ^Increasing^,Red,3.5,Yellow
-Maine,Maine 😷,Green,2554,69% ^Normal^,Normal,71% ^Elevated^,Elevated,13,Green,10,13,13,9,10,9,7,7,9,9,7,9,9,8,10,-22% ^Decreasing^,Green,3.12,Yellow
-Maryland,Maryland 😷,Red,14112,59% ^Normal^,Normal,76% ^Elevated^,Elevated,133,Red,89,64,69,74,72,72,74,74,77,80,84,87,88,90,89,40% ^Increasing^,Red,4.11,Yellow
-Massachusetts,Massachusetts 😷,Yellow,11461,62% ^Normal^,Normal,79% ^Elevated^,Elevated,43,Yellow,52,82,81,83,80,74,72,72,70,74,77,77,51,53,52,-36% ^Decreasing^,Green,7.38,Red
-Michigan,Michigan 😷,Yellow,26612,65% ^Normal^,Normal,70% ^Elevated^,Elevated,69,Yellow,68,54,54,54,68,68,68,68,68,68,68,68,75,75,68,25% ^Increasing^,Red,7.39,Red
-Minnesota,Minnesota 😷,Red,14884,63% ^Normal^,Normal,61% ^Normal^,Normal,125,Red,48,44,42,45,44,45,47,46,44,47,48,50,49,51,48,11% ^Increasing^,Red,3.16,Yellow
-Mississippi,Mississippi,Bruised Red,6431,63% ^Normal^,Normal,63% ^Normal^,Normal,464,Bruised Red,394,343,356,369,375,362,362,379,376,388,391,406,409,394,394,15% ^Increasing^,Red,2.86,Yellow
-Missouri,Missouri,Bruised Red,9696,65% ^Normal^,Normal,62% ^Normal^,Normal,206,Bruised Red,172,152,132,143,143,143,143,143,143,143,143,143,172,172,172,13% ^Increasing^,Red,2.85,Yellow
-Montana,Montana 😷,Red,2737,54% ^Normal^,Normal,55% ^Normal^,Normal,108,Red,58,26,27,35,35,42,43,44,45,46,49,51,52,55,58,121% ^Increasing^,Red,1.38,Yellow
-Nebraska,Nebraska,Red,3295,55% ^Normal^,Normal,63% ^Normal^,Normal,141,Red,53,51,52,57,53,50,54,58,63,59,61,65,65,63,53,5% ^Increasing^,Red,1.3,Yellow
-Nevada,Nevada 😷,Bruised Red,7020,81% ^Constrained^,Constrained,81% ^Constrained^,Constrained,328,Bruised Red,372,309,319,341,341,325,327,339,353,356,358,369,377,372,372,20% ^Increasing^,Red,1.71,Yellow
-New Hampshire,New Hampshire,Yellow,1462,71% ^Elevated^,Elevated,70% ^Elevated^,Elevated,24,Green,15,16,18,17,18,18,18,13,13,15,17,18,19,20,15,-9% ^Decreasing^,Green,6.35,Red
-New Jersey,New Jersey 😷,Yellow,23165,43% ^Normal^,Normal,70% ^Normal^,Normal,41,Yellow,82,100,100,104,97,98,90,86,90,94,98,98,90,94,82,-19% ^Decreasing^,Green,8.8,Red
-New Mexico,New Mexico 😷,Red,7394,61% ^Normal^,Normal,67% ^Normal^,Normal,140,Red,71,81,82,82,83,81,79,76,77,73,73,85,80,77,71,-13% ^Decreasing^,Green,3.23,Yellow
-New York,New York 😷,Green,64916,50% ^Normal^,Normal,67% ^Normal^,Normal,36,Green,33,41,42,43,42,39,38,37,37,37,37,36,33,33,33,-20% ^Decreasing^,Green,6.1,Red
-North Carolina,North Carolina 😷,Bruised Red,31217,69% ^Normal^,Normal,66% ^Normal^,Normal,176,Bruised Red,112,99,106,109,108,113,110,106,104,112,108,113,113,111,112,13% ^Increasing^,Red,1.58,Yellow
-North Dakota,North Dakota,Bruised Red,1804,28% ^Normal^,Normal,45% ^Normal^,Normal,161,Bruised Red,55,56,55,55,50,47,50,59,62,60,68,75,49,51,55,-2% ^Decreasing^,Green,1.55,Yellow
-Ohio,Ohio 😷,Red,23360,42% ^Normal^,Normal,59% ^Normal^,Normal,112,Red,92,81,87,88,88,87,88,91,91,94,94,95,93,90,92,13% ^Increasing^,Red,3.93,Yellow
-Oklahoma,Oklahoma,Bruised Red,12996,68% ^Normal^,Normal,64% ^Normal^,Normal,217,Bruised Red,158,126,138,142,161,153,138,138,153,155,159,153,159,158,158,25% ^Increasing^,Red,1.59,Yellow
-Oregon,Oregon 😷,Yellow,6126,58% ^Normal^,Normal,62% ^Normal^,Normal,74,Yellow,55,58,56,49,52,57,57,57,55,56,55,53,55,55,55,-5% ^Decreasing^,Green,1.72,Yellow
-Pennsylvania,Pennsylvania 😷,Yellow,15546,62% ^Normal^,Normal,67% ^Normal^,Normal,71,Yellow,55,53,53,52,51,53,55,55,55,57,57,57,57,55,55,4% ^Increasing^,Red,6.63,Red
-Rhode Island,Rhode Island 😷,Yellow,1547,85% ^Severely constrained^,Severely constrained,86% ^Constrained^,Constrained,58,Yellow,62,63,65,56,60,59,59,59,58,60,63,63,62,62,62,-1% ^Decreasing^,Green,5.5,Red
-South Carolina,South Carolina,Bruised Red,10061,78% ^Elevated^,Elevated,76% ^Elevated^,Elevated,311,Bruised Red,324,289,301,303,306,309,309,309,309,309,312,335,324,324,324,12% ^Increasing^,Red,1.84,Yellow
-South Dakota,South Dakota,Yellow,1263,N/A% ^N/A^,N/A,32% ^Normal^,Normal,79,Yellow,54,71,70,67,69,69,79,71,73,70,63,57,51,52,54,-24% ^Decreasing^,Green,1.47,Yellow
-Tennessee,Tennessee,Bruised Red,26508,75% ^Elevated^,Elevated,68% ^Normal^,Normal,331,Bruised Red,192,164,179,188,207,210,202,194,200,214,212,214,214,207,192,17% ^Increasing^,Red,1.03,Yellow
-Texas,Texas 😷,Bruised Red,62516,78% ^Elevated^,Elevated,71% ^Elevated^,Elevated,279,Bruised Red,376,359,365,361,361,367,368,365,365,374,376,376,376,376,376,5% ^Increasing^,Red,1.32,Yellow
-Utah,Utah,Bruised Red,6076,58% ^Normal^,Normal,49% ^Normal^,Normal,172,Bruised Red,78,79,72,78,74,80,78,92,77,68,73,78,78,72,78,0% ^Decreasing^,Green,0.72,Green
-Vermont,Vermont,Green,1044,60% ^Normal^,Normal,65% ^Normal^,Normal,11,Green,16,16,24,30,40,53,40,38,35,30,22,19,19,21,16,0% ^Decreasing^,Green,4,Yellow
-Virginia,Virginia 😷,Red,17268,70% ^Elevated^,Elevated,59% ^Normal^,Normal,119,Red,138,132,132,127,133,137,137,139,136,139,136,143,146,141,138,4% ^Increasing^,Red,2.46,Yellow
-Washington,Washington 😷,Red,15984,68% ^Normal^,Normal,55% ^Normal^,Normal,109,Red,53,43,44,46,49,50,46,48,46,48,51,51,51,53,53,23% ^Increasing^,Red,2.88,Yellow
-West Virginia,West Virginia 😷,Yellow,4391,68% ^Normal^,Normal,73% ^Elevated^,Elevated,73,Yellow,46,35,33,35,36,39,41,42,43,43,44,49,42,45,46,30% ^Increasing^,Red,1.73,Yellow
-Wisconsin,Wisconsin,Bruised Red,13340,45% ^Normal^,Normal,46% ^Normal^,Normal,165,Bruised Red,28,49,50,51,53,57,54,58,63,61,29,32,54,36,28,-42% ^Decreasing^,Green,1.71,Yellow
-Wyoming,Wyoming,Red,606,N/A% ^N/A^,N/A,34% ^Normal^,Normal,86,Red,24,29,24,29,31,33,28,29,22,22,22,26,24,24,24,-18% ^Decreasing^,Green,1.01,Yellow
-Puerto Rico,Puerto Rico,Red,7612,49% ^Normal^,Normal,55% ^Normal^,Normal,138,Red,155,50,65,80,88,95,99,99,105,117,130,138,144,155,155,212% ^Increasing^,Red,1.33,Yellow
+Alabama,Alabama 😷,Bruised Red,9167,84% ^Constrained^,Constrained,77% ^Elevated^,Elevated,356,Bruised Red,326,278,272,285,292,298,311,320,316,316,316,320,291,307,326,17% ^Increasing^,Red,1.84,Yellow
+Alaska,Alaska,Bruised Red,4540,49% ^Normal^,Normal,47% ^Normal^,Normal,155,Bruised Red,52,34,44,44,44,36,37,40,44,46,49,51,52,59,52,52% ^Increasing^,Red,0.66,Green
+Arizona,Arizona,Bruised Red,12116,77% ^Elevated^,Elevated,77% ^Elevated^,Elevated,366,Bruised Red,361,483,480,475,476,445,431,424,418,425,407,391,379,364,361,-25% ^Decreasing^,Green,2.02,Yellow
+Arkansas,Arkansas 😷,Bruised Red,7439,70% ^Elevated^,Elevated,64% ^Normal^,Normal,261,Bruised Red,162,147,152,156,154,154,150,156,162,157,159,165,165,159,162,10% ^Increasing^,Red,1.03,Yellow
+California,California 😷,Bruised Red,126037,71% ^Elevated^,Elevated,67% ^Normal^,Normal,250,Bruised Red,223,206,211,212,214,215,213,213,220,223,223,223,223,223,223,8% ^Increasing^,Red,1.83,Yellow
+Colorado,Colorado 😷,Red,7946,58% ^Normal^,Normal,53% ^Normal^,Normal,104,Red,63,66,64,68,72,68,70,69,67,65,61,62,62,59,63,-3% ^Decreasing^,Green,3.75,Yellow
+Connecticut,Connecticut 😷,Green,11751,49% ^Normal^,Normal,71% ^Elevated^,Elevated,37,Green,17,19,19,19,19,19,19,15,17,18,20,20,20,20,17,-11% ^Decreasing^,Green,9.02,Red
+Delaware,Delaware 😷,Red,2866,67% ^Normal^,Normal,69% ^Normal^,Normal,130,Red,65,49,52,51,56,52,48,48,60,63,58,56,56,59,65,31% ^Increasing^,Red,4.02,Yellow
+District of Columbia,District of Columbia 😷,Red,3201,47% ^Normal^,Normal,49% ^Normal^,Normal,105,Red,145,129,135,122,123,125,129,118,118,115,129,137,137,120,145,12% ^Increasing^,Red,4.91,Yellow
+Florida,Florida,Bruised Red,54199,76% ^Elevated^,Elevated,79% ^Elevated^,Elevated,481,Bruised Red,424,389,383,424,417,426,436,442,443,441,439,428,421,417,424,9% ^Increasing^,Red,1.4,Yellow
+Georgia,Georgia,Bruised Red,25597,80% ^Constrained^,Constrained,75% ^Elevated^,Elevated,340,Bruised Red,300,258,262,268,273,276,286,300,297,299,297,295,291,290,300,16% ^Increasing^,Red,2.05,Yellow
+Hawaii,Hawaii,Yellow,1166,48% ^Normal^,Normal,59% ^Normal^,Normal,30,Green,18,16,22,28,28,28,28,23,32,33,28,28,20,20,18,13% ^Increasing^,Red,1.54,Yellow
+Idaho,Idaho,Bruised Red,2872,64% ^Normal^,Normal,63% ^Normal^,Normal,264,Bruised Red,114,86,86,86,86,125,125,125,105,105,105,114,114,114,114,33% ^Increasing^,Red,0.8,Green
+Illinois,Illinois 😷,Red,37585,54% ^Normal^,Normal,59% ^Normal^,Normal,112,Red,112,112,115,113,113,107,107,111,116,115,116,116,113,110,112,0% ^Increasing^,Red,4.38,Yellow
+Indiana,Indiana 😷,Red,10304,50% ^Normal^,Normal,61% ^Normal^,Normal,121,Red,124,114,131,123,121,119,117,120,119,129,129,126,122,124,124,9% ^Increasing^,Red,4.62,Yellow
+Iowa,Iowa,Bruised Red,5186,48% ^Normal^,Normal,50% ^Normal^,Normal,153,Bruised Red,76,59,60,62,67,67,68,70,71,71,74,73,70,72,76,30% ^Increasing^,Red,1.96,Yellow
+Kansas,Kansas 😷,Bruised Red,2486,53% ^Normal^,Normal,50% ^Normal^,Normal,139,Red,73,null,null,null,null,null,null,null,null,null,null,null,108,108,73,------ ^Not enough data^,Red,1.28,Yellow
+Kentucky,Kentucky 😷,Red,7614,58% ^Normal^,Normal,60% ^Normal^,Normal,134,Red,136,100,100,94,101,115,114,121,119,135,130,138,133,133,136,36% ^Increasing^,Red,2.57,Yellow
+Louisiana,Louisiana 😷,Bruised Red,22443,71% ^Elevated^,Elevated,66% ^Normal^,Normal,462,Bruised Red,344,293,294,301,304,304,316,324,328,340,341,344,344,335,344,17% ^Increasing^,Red,3.44,Yellow
+Maine,Maine 😷,Green,2603,69% ^Normal^,Normal,71% ^Elevated^,Elevated,13,Green,10,13,9,10,9,7,7,9,9,7,9,9,8,10,10,-24% ^Decreasing^,Green,3.11,Yellow
+Maryland,Maryland 😷,Red,15177,59% ^Normal^,Normal,76% ^Elevated^,Elevated,146,Red,89,69,74,72,72,74,74,77,80,84,87,88,90,89,89,29% ^Increasing^,Red,4.06,Yellow
+Massachusetts,Massachusetts 😷,Yellow,11411,62% ^Normal^,Normal,79% ^Elevated^,Elevated,44,Yellow,50,81,83,80,74,72,72,70,74,77,77,51,53,52,50,-38% ^Decreasing^,Green,7.36,Red
+Michigan,Michigan 😷,Yellow,27671,65% ^Normal^,Normal,70% ^Elevated^,Elevated,68,Yellow,67,54,54,68,68,68,68,68,68,68,68,75,75,68,67,23% ^Increasing^,Red,7.35,Red
+Minnesota,Minnesota 😷,Red,14759,63% ^Normal^,Normal,61% ^Normal^,Normal,119,Red,46,42,45,44,45,47,46,44,47,48,50,49,51,48,46,9% ^Increasing^,Red,3.12,Yellow
+Mississippi,Mississippi,Bruised Red,5375,63% ^Normal^,Normal,63% ^Normal^,Normal,435,Bruised Red,396,356,369,375,362,362,379,376,388,391,406,409,394,394,396,11% ^Increasing^,Red,2.83,Yellow
+Missouri,Missouri,Bruised Red,9999,65% ^Normal^,Normal,62% ^Normal^,Normal,219,Bruised Red,172,132,143,143,143,143,143,143,143,143,143,172,172,172,172,30% ^Increasing^,Red,2.79,Yellow
+Montana,Montana 😷,Red,2802,54% ^Normal^,Normal,55% ^Normal^,Normal,102,Red,57,27,35,35,42,43,44,45,46,49,51,52,55,58,57,110% ^Increasing^,Red,1.39,Yellow
+Nebraska,Nebraska,Bruised Red,3419,55% ^Normal^,Normal,63% ^Normal^,Normal,150,Bruised Red,56,52,57,53,50,54,58,63,59,61,65,65,63,53,56,8% ^Increasing^,Red,1.28,Yellow
+Nevada,Nevada 😷,Bruised Red,7037,81% ^Constrained^,Constrained,81% ^Constrained^,Constrained,330,Bruised Red,361,319,341,341,325,327,339,353,356,358,369,377,372,372,361,13% ^Increasing^,Red,1.69,Yellow
+New Hampshire,New Hampshire,Yellow,1462,71% ^Elevated^,Elevated,70% ^Elevated^,Elevated,24,Green,15,18,17,18,18,18,13,13,15,17,18,19,20,15,15,-17% ^Decreasing^,Green,6.35,Red
+New Jersey,New Jersey 😷,Yellow,25852,43% ^Normal^,Normal,70% ^Normal^,Normal,46,Yellow,78,100,104,97,98,90,86,90,94,98,98,90,94,82,78,-22% ^Decreasing^,Green,8.79,Red
+New Mexico,New Mexico 😷,Red,7358,61% ^Normal^,Normal,67% ^Normal^,Normal,141,Red,69,82,82,83,81,79,76,77,73,73,85,80,77,71,69,-16% ^Decreasing^,Green,3.22,Yellow
+New York,New York 😷,Green,66048,50% ^Normal^,Normal,67% ^Normal^,Normal,37,Green,33,42,43,42,39,38,37,37,37,37,36,33,33,33,33,-22% ^Decreasing^,Green,6.09,Red
+North Carolina,North Carolina 😷,Bruised Red,30227,69% ^Normal^,Normal,66% ^Normal^,Normal,181,Bruised Red,111,106,109,108,113,110,106,104,112,108,113,113,111,112,111,5% ^Increasing^,Red,1.57,Yellow
+North Dakota,North Dakota,Bruised Red,1770,28% ^Normal^,Normal,45% ^Normal^,Normal,161,Bruised Red,56,55,55,50,47,50,59,62,60,68,75,49,51,55,56,2% ^Increasing^,Red,1.52,Yellow
+Ohio,Ohio 😷,Red,23169,42% ^Normal^,Normal,59% ^Normal^,Normal,110,Red,95,87,88,88,87,88,91,91,94,94,95,93,90,92,95,9% ^Increasing^,Red,3.93,Yellow
+Oklahoma,Oklahoma,Bruised Red,13172,68% ^Normal^,Normal,64% ^Normal^,Normal,262,Bruised Red,158,138,142,161,153,138,138,153,155,159,153,159,158,158,158,14% ^Increasing^,Red,1.52,Yellow
+Oregon,Oregon 😷,Yellow,6075,58% ^Normal^,Normal,62% ^Normal^,Normal,76,Yellow,56,56,49,52,57,57,57,55,56,55,53,55,55,55,56,1% ^Increasing^,Red,1.69,Yellow
+Pennsylvania,Pennsylvania 😷,Yellow,15825,62% ^Normal^,Normal,67% ^Normal^,Normal,73,Yellow,55,53,52,51,53,55,55,55,57,57,57,57,55,55,55,4% ^Increasing^,Red,6.58,Red
+Rhode Island,Rhode Island 😷,Red,1856,85% ^Severely constrained^,Severely constrained,86% ^Constrained^,Constrained,82,Red,67,65,56,60,59,59,59,58,60,63,63,62,62,62,67,3% ^Increasing^,Red,5.42,Red
+South Carolina,South Carolina,Bruised Red,10084,78% ^Elevated^,Elevated,76% ^Elevated^,Elevated,304,Bruised Red,324,301,303,306,309,309,309,309,309,312,335,324,324,324,324,8% ^Increasing^,Red,1.83,Yellow
+South Dakota,South Dakota,Red,1182,N/A% ^N/A^,N/A,32% ^Normal^,Normal,81,Red,53,70,67,69,69,79,71,73,70,63,57,51,52,54,53,-24% ^Decreasing^,Green,1.46,Yellow
+Tennessee,Tennessee,Bruised Red,28041,75% ^Elevated^,Elevated,68% ^Normal^,Normal,350,Bruised Red,194,179,188,207,210,202,194,200,214,212,214,214,207,192,194,9% ^Increasing^,Red,1.01,Yellow
+Texas,Texas 😷,Bruised Red,63475,78% ^Elevated^,Elevated,71% ^Elevated^,Elevated,264,Bruised Red,376,365,361,361,367,368,365,365,374,376,376,376,376,376,376,3% ^Increasing^,Red,1.48,Yellow
+Utah,Utah,Bruised Red,5779,58% ^Normal^,Normal,49% ^Normal^,Normal,173,Bruised Red,70,72,78,74,80,78,92,77,68,73,78,78,72,78,70,-3% ^Decreasing^,Green,0.73,Green
+Vermont,Vermont 😷,Green,964,60% ^Normal^,Normal,65% ^Normal^,Normal,10,Green,21,24,30,40,53,40,38,35,30,22,19,19,21,16,21,-13% ^Decreasing^,Green,3.99,Yellow
+Virginia,Virginia 😷,Red,16964,70% ^Elevated^,Elevated,59% ^Normal^,Normal,129,Red,141,132,127,133,137,137,139,136,139,136,143,146,141,138,141,6% ^Increasing^,Red,2.42,Yellow
+Washington,Washington 😷,Red,15715,68% ^Normal^,Normal,55% ^Normal^,Normal,107,Red,52,44,46,49,50,46,48,46,48,51,51,51,53,53,52,19% ^Increasing^,Red,2.85,Yellow
+West Virginia,West Virginia 😷,Yellow,4436,68% ^Normal^,Normal,73% ^Elevated^,Elevated,73,Yellow,47,33,35,36,39,41,42,43,43,44,49,42,45,46,47,44% ^Increasing^,Red,1.75,Yellow
+Wisconsin,Wisconsin,Bruised Red,13331,45% ^Normal^,Normal,46% ^Normal^,Normal,162,Bruised Red,43,50,51,53,57,54,58,63,61,29,32,54,36,28,43,-15% ^Decreasing^,Green,1.69,Yellow
+Wyoming,Wyoming,Red,604,N/A% ^N/A^,N/A,34% ^Normal^,Normal,82,Red,29,24,29,31,33,28,29,22,22,22,26,24,24,24,29,21% ^Increasing^,Red,0.99,Green
+Puerto Rico,Puerto Rico,Red,7597,49% ^Normal^,Normal,55% ^Normal^,Normal,133,Red,159,65,80,88,95,99,99,105,117,130,138,144,155,155,159,147% ^Increasing^,Red,1.3,Yellow
