@@ -1,8 +1,7 @@
 Percentage of ED visits by syndrome: COVID-19-Like Illness Shortness of Breath and Pneumonia
-Date generated: Tue Sep 08 2020 14:22:16 GMT+0530 (India Standard Time)
+Date generated: Wed Sep 09 2020 13:01:44 GMT+0530 (India Standard Time)
 
 Geography,Date,Syndrome,Percent
-Alabama,2020-07-10,CLI,6.8
 Alabama,2020-07-11,CLI,6.9
 Alabama,2020-07-12,CLI,7.1
 Alabama,2020-07-13,CLI,8
@@ -50,16 +49,16 @@ Alabama,2020-08-23,CLI,3.4
 Alabama,2020-08-24,CLI,3.3
 Alabama,2020-08-25,CLI,3.6
 Alabama,2020-08-26,CLI,3.5
-Alabama,2020-08-27,CLI,2.6
+Alabama,2020-08-27,CLI,2.7
 Alabama,2020-08-28,CLI,3.2
 Alabama,2020-08-29,CLI,3.2
 Alabama,2020-08-30,CLI,3.3
-Alabama,2020-08-31,CLI,2.8
+Alabama,2020-08-31,CLI,2.9
 Alabama,2020-09-01,CLI,2.4
 Alabama,2020-09-02,CLI,2.3
 Alabama,2020-09-03,CLI,1.4
-Alabama,2020-09-04,CLI,1.5
-Alaska,2020-07-10,CLI,1.5
+Alabama,2020-09-04,CLI,1.6
+Alabama,2020-09-05,CLI,1.7
 Alaska,2020-07-11,CLI,2.4
 Alaska,2020-07-12,CLI,1.4
 Alaska,2020-07-13,CLI,1.7
@@ -109,14 +108,14 @@ Alaska,2020-08-25,CLI,2.3
 Alaska,2020-08-26,CLI,2.1
 Alaska,2020-08-27,CLI,1.9
 Alaska,2020-08-28,CLI,1.2
-Alaska,2020-08-29,CLI,2.4
+Alaska,2020-08-29,CLI,2.5
 Alaska,2020-08-30,CLI,2.8
 Alaska,2020-08-31,CLI,2.3
 Alaska,2020-09-01,CLI,1.5
 Alaska,2020-09-02,CLI,2.3
 Alaska,2020-09-03,CLI,1.6
 Alaska,2020-09-04,CLI,1.6
-Arizona,2020-07-10,CLI,13.7
+Alaska,2020-09-05,CLI,1.8
 Arizona,2020-07-11,CLI,13.2
 Arizona,2020-07-12,CLI,12.7
 Arizona,2020-07-13,CLI,13.2
@@ -168,12 +167,12 @@ Arizona,2020-08-27,CLI,2.6
 Arizona,2020-08-28,CLI,2.2
 Arizona,2020-08-29,CLI,2.5
 Arizona,2020-08-30,CLI,2.4
-Arizona,2020-08-31,CLI,2.2
+Arizona,2020-08-31,CLI,2.3
 Arizona,2020-09-01,CLI,1.7
-Arizona,2020-09-02,CLI,1.5
+Arizona,2020-09-02,CLI,1.6
 Arizona,2020-09-03,CLI,1.7
-Arizona,2020-09-04,CLI,0.8
-Arkansas,2020-07-10,CLI,2.7
+Arizona,2020-09-04,CLI,1.3
+Arizona,2020-09-05,CLI,1.5
 Arkansas,2020-07-11,CLI,2.4
 Arkansas,2020-07-12,CLI,3.1
 Arkansas,2020-07-13,CLI,2.5
@@ -213,7 +212,7 @@ Arkansas,2020-08-15,CLI,2.5
 Arkansas,2020-08-16,CLI,2.7
 Arkansas,2020-08-17,CLI,2.1
 Arkansas,2020-08-18,CLI,2.1
-Arkansas,2020-08-19,CLI,2.2
+Arkansas,2020-08-19,CLI,2.3
 Arkansas,2020-08-20,CLI,2
 Arkansas,2020-08-21,CLI,2.1
 Arkansas,2020-08-22,CLI,1.8
@@ -222,15 +221,15 @@ Arkansas,2020-08-24,CLI,2.3
 Arkansas,2020-08-25,CLI,2
 Arkansas,2020-08-26,CLI,2.4
 Arkansas,2020-08-27,CLI,2.3
-Arkansas,2020-08-28,CLI,2
+Arkansas,2020-08-28,CLI,2.1
 Arkansas,2020-08-29,CLI,2.5
 Arkansas,2020-08-30,CLI,2.5
-Arkansas,2020-08-31,CLI,1.8
-Arkansas,2020-09-01,CLI,1.7
+Arkansas,2020-08-31,CLI,1.9
+Arkansas,2020-09-01,CLI,1.8
 Arkansas,2020-09-02,CLI,1.7
 Arkansas,2020-09-03,CLI,1.7
 Arkansas,2020-09-04,CLI,2
-Connecticut,2020-07-10,CLI,1.4
+Arkansas,2020-09-05,CLI,1.8
 Connecticut,2020-07-11,CLI,1.6
 Connecticut,2020-07-12,CLI,1.1
 Connecticut,2020-07-13,CLI,1.2
@@ -287,7 +286,7 @@ Connecticut,2020-09-01,CLI,1.2
 Connecticut,2020-09-02,CLI,1.4
 Connecticut,2020-09-03,CLI,1.1
 Connecticut,2020-09-04,CLI,1.2
-Delaware,2020-07-10,CLI,2.4
+Connecticut,2020-09-05,CLI,0.9
 Delaware,2020-07-11,CLI,2.9
 Delaware,2020-07-12,CLI,2.3
 Delaware,2020-07-13,CLI,2.5
@@ -342,9 +341,9 @@ Delaware,2020-08-30,CLI,1.3
 Delaware,2020-08-31,CLI,1.9
 Delaware,2020-09-01,CLI,1.8
 Delaware,2020-09-02,CLI,1.2
-Delaware,2020-09-03,CLI,1.9
-Delaware,2020-09-04,CLI,1
-District of Columbia,2020-07-10,CLI,3
+Delaware,2020-09-03,CLI,2
+Delaware,2020-09-04,CLI,1.2
+Delaware,2020-09-05,CLI,1.1
 District of Columbia,2020-07-11,CLI,2.1
 District of Columbia,2020-07-12,CLI,1.8
 District of Columbia,2020-07-13,CLI,2.7
@@ -400,8 +399,8 @@ District of Columbia,2020-08-31,CLI,1.7
 District of Columbia,2020-09-01,CLI,1.5
 District of Columbia,2020-09-02,CLI,1.1
 District of Columbia,2020-09-03,CLI,0.4
-District of Columbia,2020-09-04,CLI,1
-Florida,2020-07-10,CLI,9.3
+District of Columbia,2020-09-04,CLI,1.1
+District of Columbia,2020-09-05,CLI,1.2
 Florida,2020-07-11,CLI,9.5
 Florida,2020-07-12,CLI,9.3
 Florida,2020-07-13,CLI,9.6
@@ -448,17 +447,17 @@ Florida,2020-08-22,CLI,3
 Florida,2020-08-23,CLI,3.1
 Florida,2020-08-24,CLI,3
 Florida,2020-08-25,CLI,3
-Florida,2020-08-26,CLI,2.8
+Florida,2020-08-26,CLI,2.9
 Florida,2020-08-27,CLI,2.7
-Florida,2020-08-28,CLI,2.7
+Florida,2020-08-28,CLI,2.8
 Florida,2020-08-29,CLI,2.5
 Florida,2020-08-30,CLI,2.5
 Florida,2020-08-31,CLI,2.5
-Florida,2020-09-01,CLI,2.4
-Florida,2020-09-02,CLI,2.2
-Florida,2020-09-03,CLI,2
-Florida,2020-09-04,CLI,1.8
-Georgia,2020-07-10,CLI,5.5
+Florida,2020-09-01,CLI,2.5
+Florida,2020-09-02,CLI,2.3
+Florida,2020-09-03,CLI,2.1
+Florida,2020-09-04,CLI,1.9
+Florida,2020-09-05,CLI,1.8
 Georgia,2020-07-11,CLI,6.1
 Georgia,2020-07-12,CLI,6.1
 Georgia,2020-07-13,CLI,6
@@ -515,7 +514,7 @@ Georgia,2020-09-01,CLI,3
 Georgia,2020-09-02,CLI,2.5
 Georgia,2020-09-03,CLI,2.2
 Georgia,2020-09-04,CLI,2.8
-Idaho,2020-07-10,CLI,4.4
+Georgia,2020-09-05,CLI,1.8
 Idaho,2020-07-11,CLI,5.2
 Idaho,2020-07-12,CLI,4.4
 Idaho,2020-07-13,CLI,5.7
@@ -559,10 +558,10 @@ Idaho,2020-08-19,CLI,5.1
 Idaho,2020-08-20,CLI,3
 Idaho,2020-08-21,CLI,3.5
 Idaho,2020-08-22,CLI,2.8
-Idaho,2020-08-23,CLI,3.5
+Idaho,2020-08-23,CLI,3.6
 Idaho,2020-08-24,CLI,2.8
 Idaho,2020-08-25,CLI,3.1
-Idaho,2020-08-26,CLI,3.2
+Idaho,2020-08-26,CLI,3.3
 Idaho,2020-08-27,CLI,3.2
 Idaho,2020-08-28,CLI,3
 Idaho,2020-08-29,CLI,3.6
@@ -571,8 +570,8 @@ Idaho,2020-08-31,CLI,2.7
 Idaho,2020-09-01,CLI,2.9
 Idaho,2020-09-02,CLI,2.5
 Idaho,2020-09-03,CLI,2.2
-Idaho,2020-09-04,CLI,2.2
-Illinois,2020-07-10,CLI,2.2
+Idaho,2020-09-04,CLI,2.3
+Idaho,2020-09-05,CLI,2.5
 Illinois,2020-07-11,CLI,2.1
 Illinois,2020-07-12,CLI,2.3
 Illinois,2020-07-13,CLI,2.2
@@ -598,7 +597,7 @@ Illinois,2020-08-01,CLI,3.1
 Illinois,2020-08-02,CLI,2.9
 Illinois,2020-08-03,CLI,2.7
 Illinois,2020-08-04,CLI,3
-Illinois,2020-08-05,CLI,2.8
+Illinois,2020-08-05,CLI,2.9
 Illinois,2020-08-06,CLI,3
 Illinois,2020-08-07,CLI,3
 Illinois,2020-08-08,CLI,2.5
@@ -623,13 +622,13 @@ Illinois,2020-08-26,CLI,2.6
 Illinois,2020-08-27,CLI,2.6
 Illinois,2020-08-28,CLI,2.4
 Illinois,2020-08-29,CLI,2.3
-Illinois,2020-08-30,CLI,2.6
-Illinois,2020-08-31,CLI,2.3
-Illinois,2020-09-01,CLI,2.1
+Illinois,2020-08-30,CLI,2.7
+Illinois,2020-08-31,CLI,2.4
+Illinois,2020-09-01,CLI,2.2
 Illinois,2020-09-02,CLI,2.1
 Illinois,2020-09-03,CLI,2
-Illinois,2020-09-04,CLI,1.7
-Kansas,2020-07-10,CLI,3.6
+Illinois,2020-09-04,CLI,1.9
+Illinois,2020-09-05,CLI,1.8
 Kansas,2020-07-11,CLI,3.9
 Kansas,2020-07-12,CLI,4.6
 Kansas,2020-07-13,CLI,4.4
@@ -680,13 +679,13 @@ Kansas,2020-08-26,CLI,3.2
 Kansas,2020-08-27,CLI,3.4
 Kansas,2020-08-28,CLI,2.6
 Kansas,2020-08-29,CLI,2.7
-Kansas,2020-08-30,CLI,2.9
+Kansas,2020-08-30,CLI,3
 Kansas,2020-08-31,CLI,3.1
 Kansas,2020-09-01,CLI,2.7
-Kansas,2020-09-02,CLI,3.1
-Kansas,2020-09-03,CLI,2.1
+Kansas,2020-09-02,CLI,3.2
+Kansas,2020-09-03,CLI,2.2
 Kansas,2020-09-04,CLI,2.2
-Kentucky,2020-07-10,CLI,2.3
+Kansas,2020-09-05,CLI,2.2
 Kentucky,2020-07-11,CLI,2.7
 Kentucky,2020-07-12,CLI,2.2
 Kentucky,2020-07-13,CLI,2
@@ -741,9 +740,9 @@ Kentucky,2020-08-30,CLI,1.9
 Kentucky,2020-08-31,CLI,2
 Kentucky,2020-09-01,CLI,1.8
 Kentucky,2020-09-02,CLI,2.2
-Kentucky,2020-09-03,CLI,1.4
+Kentucky,2020-09-03,CLI,1.5
 Kentucky,2020-09-04,CLI,1.5
-Louisiana,2020-07-10,CLI,4.7
+Kentucky,2020-09-05,CLI,1.4
 Louisiana,2020-07-11,CLI,4.7
 Louisiana,2020-07-12,CLI,5.4
 Louisiana,2020-07-13,CLI,5.3
@@ -791,7 +790,7 @@ Louisiana,2020-08-23,CLI,1.9
 Louisiana,2020-08-24,CLI,1.9
 Louisiana,2020-08-25,CLI,2.3
 Louisiana,2020-08-26,CLI,2
-Louisiana,2020-08-27,CLI,2
+Louisiana,2020-08-27,CLI,2.1
 Louisiana,2020-08-28,CLI,2
 Louisiana,2020-08-29,CLI,1.8
 Louisiana,2020-08-30,CLI,1.8
@@ -800,7 +799,7 @@ Louisiana,2020-09-01,CLI,1.3
 Louisiana,2020-09-02,CLI,1.4
 Louisiana,2020-09-03,CLI,1.4
 Louisiana,2020-09-04,CLI,1.2
-Maine,2020-07-10,CLI,0.6
+Louisiana,2020-09-05,CLI,1
 Maine,2020-07-11,CLI,0.6
 Maine,2020-07-12,CLI,0.5
 Maine,2020-07-13,CLI,0.9
@@ -854,10 +853,10 @@ Maine,2020-08-29,CLI,0.4
 Maine,2020-08-30,CLI,0.7
 Maine,2020-08-31,CLI,0.5
 Maine,2020-09-01,CLI,0.9
-Maine,2020-09-02,CLI,0.6
+Maine,2020-09-02,CLI,0.7
 Maine,2020-09-03,CLI,0.5
 Maine,2020-09-04,CLI,0.5
-Maryland,2020-07-10,CLI,3.3
+Maine,2020-09-05,CLI,0.9
 Maryland,2020-07-11,CLI,2.9
 Maryland,2020-07-12,CLI,3.3
 Maryland,2020-07-13,CLI,3.1
@@ -911,10 +910,10 @@ Maryland,2020-08-29,CLI,2.5
 Maryland,2020-08-30,CLI,2.7
 Maryland,2020-08-31,CLI,2.3
 Maryland,2020-09-01,CLI,2.8
-Maryland,2020-09-02,CLI,2.3
-Maryland,2020-09-03,CLI,2
+Maryland,2020-09-02,CLI,2.4
+Maryland,2020-09-03,CLI,2.1
 Maryland,2020-09-04,CLI,1.8
-Massachusetts,2020-07-10,CLI,1
+Maryland,2020-09-05,CLI,1.6
 Massachusetts,2020-07-11,CLI,1.1
 Massachusetts,2020-07-12,CLI,1.1
 Massachusetts,2020-07-13,CLI,1.2
@@ -960,7 +959,7 @@ Massachusetts,2020-08-21,CLI,1.1
 Massachusetts,2020-08-22,CLI,1.3
 Massachusetts,2020-08-23,CLI,1.2
 Massachusetts,2020-08-24,CLI,1.5
-Massachusetts,2020-08-25,CLI,1
+Massachusetts,2020-08-25,CLI,1.1
 Massachusetts,2020-08-26,CLI,1
 Massachusetts,2020-08-27,CLI,1.5
 Massachusetts,2020-08-28,CLI,1.1
@@ -969,9 +968,9 @@ Massachusetts,2020-08-30,CLI,1
 Massachusetts,2020-08-31,CLI,1.2
 Massachusetts,2020-09-01,CLI,1.2
 Massachusetts,2020-09-02,CLI,1.2
-Massachusetts,2020-09-03,CLI,1
+Massachusetts,2020-09-03,CLI,1.1
 Massachusetts,2020-09-04,CLI,1.1
-Michigan,2020-07-10,CLI,1.3
+Massachusetts,2020-09-05,CLI,0.7
 Michigan,2020-07-11,CLI,1.6
 Michigan,2020-07-12,CLI,1.6
 Michigan,2020-07-13,CLI,1.7
@@ -1028,7 +1027,7 @@ Michigan,2020-09-01,CLI,1.1
 Michigan,2020-09-02,CLI,1.3
 Michigan,2020-09-03,CLI,1.2
 Michigan,2020-09-04,CLI,1.3
-Mississippi,2020-07-10,CLI,5.9
+Michigan,2020-09-05,CLI,1.3
 Mississippi,2020-07-11,CLI,6.4
 Mississippi,2020-07-12,CLI,6
 Mississippi,2020-07-13,CLI,5.7
@@ -1072,7 +1071,7 @@ Mississippi,2020-08-19,CLI,3.7
 Mississippi,2020-08-20,CLI,3
 Mississippi,2020-08-21,CLI,2.8
 Mississippi,2020-08-22,CLI,3.8
-Mississippi,2020-08-23,CLI,3.8
+Mississippi,2020-08-23,CLI,3.9
 Mississippi,2020-08-24,CLI,3
 Mississippi,2020-08-25,CLI,2.7
 Mississippi,2020-08-26,CLI,3
@@ -1080,12 +1079,12 @@ Mississippi,2020-08-27,CLI,3
 Mississippi,2020-08-28,CLI,2.8
 Mississippi,2020-08-29,CLI,2.7
 Mississippi,2020-08-30,CLI,2.8
-Mississippi,2020-08-31,CLI,2.3
-Mississippi,2020-09-01,CLI,2.3
-Mississippi,2020-09-02,CLI,2.2
-Mississippi,2020-09-03,CLI,1.6
-Mississippi,2020-09-04,CLI,1.5
-Missouri,2020-07-10,CLI,1
+Mississippi,2020-08-31,CLI,2.4
+Mississippi,2020-09-01,CLI,2.4
+Mississippi,2020-09-02,CLI,2.3
+Mississippi,2020-09-03,CLI,1.7
+Mississippi,2020-09-04,CLI,1.7
+Mississippi,2020-09-05,CLI,1.8
 Missouri,2020-07-11,CLI,0.8
 Missouri,2020-07-12,CLI,1.4
 Missouri,2020-07-13,CLI,1.2
@@ -1142,7 +1141,7 @@ Missouri,2020-09-01,CLI,1
 Missouri,2020-09-02,CLI,1.4
 Missouri,2020-09-03,CLI,1
 Missouri,2020-09-04,CLI,1
-Montana,2020-07-10,CLI,2.2
+Missouri,2020-09-05,CLI,1
 Montana,2020-07-11,CLI,1.9
 Montana,2020-07-12,CLI,3
 Montana,2020-07-13,CLI,1.4
@@ -1198,8 +1197,8 @@ Montana,2020-08-31,CLI,2.8
 Montana,2020-09-01,CLI,2.7
 Montana,2020-09-02,CLI,2.4
 Montana,2020-09-03,CLI,1.5
-Montana,2020-09-04,CLI,1.8
-Nebraska,2020-07-10,CLI,1.2
+Montana,2020-09-04,CLI,1.9
+Montana,2020-09-05,CLI,1.7
 Nebraska,2020-07-11,CLI,1.4
 Nebraska,2020-07-12,CLI,1.4
 Nebraska,2020-07-13,CLI,1.6
@@ -1256,7 +1255,7 @@ Nebraska,2020-09-01,CLI,2.2
 Nebraska,2020-09-02,CLI,0.8
 Nebraska,2020-09-03,CLI,1.8
 Nebraska,2020-09-04,CLI,1.2
-Nevada,2020-07-10,CLI,7.8
+Nebraska,2020-09-05,CLI,1.1
 Nevada,2020-07-11,CLI,7.2
 Nevada,2020-07-12,CLI,6.4
 Nevada,2020-07-13,CLI,7.5
@@ -1307,13 +1306,13 @@ Nevada,2020-08-26,CLI,3.2
 Nevada,2020-08-27,CLI,3
 Nevada,2020-08-28,CLI,2.7
 Nevada,2020-08-29,CLI,2.7
-Nevada,2020-08-30,CLI,2.9
+Nevada,2020-08-30,CLI,3
 Nevada,2020-08-31,CLI,2.7
-Nevada,2020-09-01,CLI,2.2
+Nevada,2020-09-01,CLI,2.3
 Nevada,2020-09-02,CLI,2.3
-Nevada,2020-09-03,CLI,2.3
-Nevada,2020-09-04,CLI,2
-New Jersey,2020-07-10,CLI,1
+Nevada,2020-09-03,CLI,2.4
+Nevada,2020-09-04,CLI,1.9
+Nevada,2020-09-05,CLI,2.1
 New Jersey,2020-07-11,CLI,1
 New Jersey,2020-07-12,CLI,0.9
 New Jersey,2020-07-13,CLI,0.7
@@ -1369,8 +1368,8 @@ New Jersey,2020-08-31,CLI,0.9
 New Jersey,2020-09-01,CLI,0.8
 New Jersey,2020-09-02,CLI,0.8
 New Jersey,2020-09-03,CLI,0.6
-New Jersey,2020-09-04,CLI,0.6
-New Mexico,2020-07-10,CLI,2.9
+New Jersey,2020-09-04,CLI,0.7
+New Jersey,2020-09-05,CLI,0.4
 New Mexico,2020-07-11,CLI,2.7
 New Mexico,2020-07-12,CLI,2.5
 New Mexico,2020-07-13,CLI,2.8
@@ -1427,7 +1426,7 @@ New Mexico,2020-09-01,CLI,1.3
 New Mexico,2020-09-02,CLI,1.2
 New Mexico,2020-09-03,CLI,0.8
 New Mexico,2020-09-04,CLI,0.4
-New York,2020-07-10,CLI,1
+New Mexico,2020-09-05,CLI,0.5
 New York,2020-07-11,CLI,0.9
 New York,2020-07-12,CLI,0.9
 New York,2020-07-13,CLI,1.1
@@ -1484,7 +1483,7 @@ New York,2020-09-01,CLI,0.8
 New York,2020-09-02,CLI,0.8
 New York,2020-09-03,CLI,0.8
 New York,2020-09-04,CLI,0.8
-North Carolina,2020-07-10,CLI,3.8
+New York,2020-09-05,CLI,0.9
 North Carolina,2020-07-11,CLI,3.8
 North Carolina,2020-07-12,CLI,3.9
 North Carolina,2020-07-13,CLI,4.2
@@ -1501,9 +1500,9 @@ North Carolina,2020-07-23,CLI,3.9
 North Carolina,2020-07-24,CLI,3.6
 North Carolina,2020-07-25,CLI,3.5
 North Carolina,2020-07-26,CLI,3.6
-North Carolina,2020-07-27,CLI,3.7
+North Carolina,2020-07-27,CLI,3.8
 North Carolina,2020-07-28,CLI,3.4
-North Carolina,2020-07-29,CLI,3.4
+North Carolina,2020-07-29,CLI,3.5
 North Carolina,2020-07-30,CLI,3.7
 North Carolina,2020-07-31,CLI,3.4
 North Carolina,2020-08-01,CLI,3.1
@@ -1525,23 +1524,23 @@ North Carolina,2020-08-16,CLI,3.1
 North Carolina,2020-08-17,CLI,3
 North Carolina,2020-08-18,CLI,3.1
 North Carolina,2020-08-19,CLI,3.4
-North Carolina,2020-08-20,CLI,2.8
+North Carolina,2020-08-20,CLI,2.9
 North Carolina,2020-08-21,CLI,2.7
 North Carolina,2020-08-22,CLI,2.8
 North Carolina,2020-08-23,CLI,3.3
 North Carolina,2020-08-24,CLI,3.2
 North Carolina,2020-08-25,CLI,2.8
 North Carolina,2020-08-26,CLI,2.6
-North Carolina,2020-08-27,CLI,2.9
+North Carolina,2020-08-27,CLI,3
 North Carolina,2020-08-28,CLI,2.7
 North Carolina,2020-08-29,CLI,2.5
 North Carolina,2020-08-30,CLI,2.3
 North Carolina,2020-08-31,CLI,2
-North Carolina,2020-09-01,CLI,1.9
-North Carolina,2020-09-02,CLI,1.8
-North Carolina,2020-09-03,CLI,1.3
-North Carolina,2020-09-04,CLI,1.3
-North Dakota,2020-07-10,CLI,3
+North Carolina,2020-09-01,CLI,2
+North Carolina,2020-09-02,CLI,2
+North Carolina,2020-09-03,CLI,1.4
+North Carolina,2020-09-04,CLI,1.4
+North Carolina,2020-09-05,CLI,1.2
 North Dakota,2020-07-11,CLI,2.1
 North Dakota,2020-07-12,CLI,2.8
 North Dakota,2020-07-13,CLI,2
@@ -1596,9 +1595,9 @@ North Dakota,2020-08-30,CLI,4.2
 North Dakota,2020-08-31,CLI,2.7
 North Dakota,2020-09-01,CLI,4.6
 North Dakota,2020-09-02,CLI,4
-North Dakota,2020-09-03,CLI,2.4
+North Dakota,2020-09-03,CLI,3
 North Dakota,2020-09-04,CLI,3.5
-Ohio,2020-07-10,CLI,2.3
+North Dakota,2020-09-05,CLI,2.7
 Ohio,2020-07-11,CLI,2.3
 Ohio,2020-07-12,CLI,2.5
 Ohio,2020-07-13,CLI,2.4
@@ -1652,10 +1651,10 @@ Ohio,2020-08-29,CLI,1.2
 Ohio,2020-08-30,CLI,1.2
 Ohio,2020-08-31,CLI,1.4
 Ohio,2020-09-01,CLI,1.1
-Ohio,2020-09-02,CLI,1.3
+Ohio,2020-09-02,CLI,1.2
 Ohio,2020-09-03,CLI,1.1
 Ohio,2020-09-04,CLI,1
-Oregon,2020-07-10,CLI,1.5
+Ohio,2020-09-05,CLI,1.2
 Oregon,2020-07-11,CLI,1.7
 Oregon,2020-07-12,CLI,1.8
 Oregon,2020-07-13,CLI,1.7
@@ -1700,7 +1699,7 @@ Oregon,2020-08-20,CLI,1.4
 Oregon,2020-08-21,CLI,1.2
 Oregon,2020-08-22,CLI,1.4
 Oregon,2020-08-23,CLI,1.3
-Oregon,2020-08-24,CLI,1.2
+Oregon,2020-08-24,CLI,1.3
 Oregon,2020-08-25,CLI,1.4
 Oregon,2020-08-26,CLI,1.2
 Oregon,2020-08-27,CLI,1.4
@@ -1712,7 +1711,7 @@ Oregon,2020-09-01,CLI,0.8
 Oregon,2020-09-02,CLI,1.1
 Oregon,2020-09-03,CLI,0.9
 Oregon,2020-09-04,CLI,1.2
-Pennsylvania,2020-07-10,CLI,1.7
+Oregon,2020-09-05,CLI,1.1
 Pennsylvania,2020-07-11,CLI,1.5
 Pennsylvania,2020-07-12,CLI,1.6
 Pennsylvania,2020-07-13,CLI,1.6
@@ -1766,10 +1765,10 @@ Pennsylvania,2020-08-29,CLI,1.1
 Pennsylvania,2020-08-30,CLI,1
 Pennsylvania,2020-08-31,CLI,1.2
 Pennsylvania,2020-09-01,CLI,1.1
-Pennsylvania,2020-09-02,CLI,1
+Pennsylvania,2020-09-02,CLI,1.1
 Pennsylvania,2020-09-03,CLI,1.1
 Pennsylvania,2020-09-04,CLI,0.9
-Region 1,2020-07-10,CLI,1
+Pennsylvania,2020-09-05,CLI,0.9
 Region 1,2020-07-11,CLI,1.1
 Region 1,2020-07-12,CLI,1
 Region 1,2020-07-13,CLI,1.4
@@ -1815,18 +1814,18 @@ Region 1,2020-08-21,CLI,1.1
 Region 1,2020-08-22,CLI,1.2
 Region 1,2020-08-23,CLI,1.3
 Region 1,2020-08-24,CLI,1.4
-Region 1,2020-08-25,CLI,1.2
+Region 1,2020-08-25,CLI,1.3
 Region 1,2020-08-26,CLI,1
 Region 1,2020-08-27,CLI,1.2
 Region 1,2020-08-28,CLI,1
-Region 1,2020-08-29,CLI,1.1
+Region 1,2020-08-29,CLI,1
 Region 1,2020-08-30,CLI,0.9
 Region 1,2020-08-31,CLI,1.1
 Region 1,2020-09-01,CLI,1.1
 Region 1,2020-09-02,CLI,1.2
 Region 1,2020-09-03,CLI,1
 Region 1,2020-09-04,CLI,1
-Region 10,2020-07-10,CLI,2.6
+Region 1,2020-09-05,CLI,0.7
 Region 10,2020-07-11,CLI,2.6
 Region 10,2020-07-12,CLI,2.7
 Region 10,2020-07-13,CLI,2.8
@@ -1883,7 +1882,7 @@ Region 10,2020-09-01,CLI,1.4
 Region 10,2020-09-02,CLI,1.7
 Region 10,2020-09-03,CLI,1.2
 Region 10,2020-09-04,CLI,1.5
-Region 2,2020-07-10,CLI,1
+Region 10,2020-09-05,CLI,1.3
 Region 2,2020-07-11,CLI,1
 Region 2,2020-07-12,CLI,0.9
 Region 2,2020-07-13,CLI,0.9
@@ -1939,8 +1938,8 @@ Region 2,2020-08-31,CLI,0.8
 Region 2,2020-09-01,CLI,0.8
 Region 2,2020-09-02,CLI,0.8
 Region 2,2020-09-03,CLI,0.7
-Region 2,2020-09-04,CLI,0.7
-Region 3,2020-07-10,CLI,2.4
+Region 2,2020-09-04,CLI,0.8
+Region 2,2020-09-05,CLI,0.7
 Region 3,2020-07-11,CLI,2
 Region 3,2020-07-12,CLI,2.2
 Region 3,2020-07-13,CLI,2.1
@@ -1997,7 +1996,7 @@ Region 3,2020-09-01,CLI,1.7
 Region 3,2020-09-02,CLI,1.6
 Region 3,2020-09-03,CLI,1.6
 Region 3,2020-09-04,CLI,1.3
-Region 4,2020-07-10,CLI,6.6
+Region 3,2020-09-05,CLI,1.3
 Region 4,2020-07-11,CLI,6.8
 Region 4,2020-07-12,CLI,6.7
 Region 4,2020-07-13,CLI,6.9
@@ -2011,7 +2010,7 @@ Region 4,2020-07-20,CLI,6.3
 Region 4,2020-07-21,CLI,5.9
 Region 4,2020-07-22,CLI,5.8
 Region 4,2020-07-23,CLI,6
-Region 4,2020-07-24,CLI,5.6
+Region 4,2020-07-24,CLI,5.7
 Region 4,2020-07-25,CLI,5.4
 Region 4,2020-07-26,CLI,5.5
 Region 4,2020-07-27,CLI,5.5
@@ -2040,7 +2039,7 @@ Region 4,2020-08-18,CLI,3.4
 Region 4,2020-08-19,CLI,3.4
 Region 4,2020-08-20,CLI,3.2
 Region 4,2020-08-21,CLI,3.1
-Region 4,2020-08-22,CLI,3
+Region 4,2020-08-22,CLI,3.1
 Region 4,2020-08-23,CLI,3.2
 Region 4,2020-08-24,CLI,3
 Region 4,2020-08-25,CLI,3
@@ -2048,13 +2047,13 @@ Region 4,2020-08-26,CLI,2.8
 Region 4,2020-08-27,CLI,2.8
 Region 4,2020-08-28,CLI,2.8
 Region 4,2020-08-29,CLI,2.7
-Region 4,2020-08-30,CLI,2.6
-Region 4,2020-08-31,CLI,2.5
+Region 4,2020-08-30,CLI,2.7
+Region 4,2020-08-31,CLI,2.6
 Region 4,2020-09-01,CLI,2.5
-Region 4,2020-09-02,CLI,2.3
-Region 4,2020-09-03,CLI,1.9
-Region 4,2020-09-04,CLI,1.8
-Region 5,2020-07-10,CLI,1.9
+Region 4,2020-09-02,CLI,2.4
+Region 4,2020-09-03,CLI,2
+Region 4,2020-09-04,CLI,1.9
+Region 4,2020-09-05,CLI,1.7
 Region 5,2020-07-11,CLI,2
 Region 5,2020-07-12,CLI,2.3
 Region 5,2020-07-13,CLI,2.1
@@ -2101,17 +2100,17 @@ Region 5,2020-08-22,CLI,1.7
 Region 5,2020-08-23,CLI,1.8
 Region 5,2020-08-24,CLI,1.9
 Region 5,2020-08-25,CLI,1.9
-Region 5,2020-08-26,CLI,1.7
-Region 5,2020-08-27,CLI,1.7
+Region 5,2020-08-26,CLI,1.8
+Region 5,2020-08-27,CLI,1.8
 Region 5,2020-08-28,CLI,1.7
 Region 5,2020-08-29,CLI,1.6
 Region 5,2020-08-30,CLI,1.8
 Region 5,2020-08-31,CLI,1.7
 Region 5,2020-09-01,CLI,1.5
 Region 5,2020-09-02,CLI,1.6
-Region 5,2020-09-03,CLI,1.4
+Region 5,2020-09-03,CLI,1.5
 Region 5,2020-09-04,CLI,1.3
-Region 6,2020-07-10,CLI,6.9
+Region 5,2020-09-05,CLI,1.4
 Region 6,2020-07-11,CLI,7.1
 Region 6,2020-07-12,CLI,7
 Region 6,2020-07-13,CLI,6.8
@@ -2167,8 +2166,8 @@ Region 6,2020-08-31,CLI,2.2
 Region 6,2020-09-01,CLI,2.1
 Region 6,2020-09-02,CLI,2
 Region 6,2020-09-03,CLI,1.9
-Region 6,2020-09-04,CLI,1.7
-Region 7,2020-07-10,CLI,1.6
+Region 6,2020-09-04,CLI,1.8
+Region 6,2020-09-05,CLI,1.8
 Region 7,2020-07-11,CLI,1.7
 Region 7,2020-07-12,CLI,2.2
 Region 7,2020-07-13,CLI,2
@@ -2225,7 +2224,7 @@ Region 7,2020-09-01,CLI,1.6
 Region 7,2020-09-02,CLI,1.7
 Region 7,2020-09-03,CLI,1.4
 Region 7,2020-09-04,CLI,1.3
-Region 8,2020-07-10,CLI,2.7
+Region 7,2020-09-05,CLI,1.4
 Region 8,2020-07-11,CLI,2.8
 Region 8,2020-07-12,CLI,3
 Region 8,2020-07-13,CLI,2.7
@@ -2267,7 +2266,7 @@ Region 8,2020-08-17,CLI,2.3
 Region 8,2020-08-18,CLI,2.2
 Region 8,2020-08-19,CLI,2.3
 Region 8,2020-08-20,CLI,2.1
-Region 8,2020-08-21,CLI,1.6
+Region 8,2020-08-21,CLI,1.7
 Region 8,2020-08-22,CLI,1.8
 Region 8,2020-08-23,CLI,2
 Region 8,2020-08-24,CLI,2.4
@@ -2280,9 +2279,9 @@ Region 8,2020-08-30,CLI,2.1
 Region 8,2020-08-31,CLI,2
 Region 8,2020-09-01,CLI,2.2
 Region 8,2020-09-02,CLI,2.2
-Region 8,2020-09-03,CLI,1.7
+Region 8,2020-09-03,CLI,1.8
 Region 8,2020-09-04,CLI,1.7
-Region 9,2020-07-10,CLI,8.3
+Region 8,2020-09-05,CLI,1.8
 Region 9,2020-07-11,CLI,8.9
 Region 9,2020-07-12,CLI,8
 Region 9,2020-07-13,CLI,8.1
@@ -2297,7 +2296,7 @@ Region 9,2020-07-21,CLI,6.7
 Region 9,2020-07-22,CLI,6.4
 Region 9,2020-07-23,CLI,6.3
 Region 9,2020-07-24,CLI,5.7
-Region 9,2020-07-25,CLI,5.9
+Region 9,2020-07-25,CLI,6
 Region 9,2020-07-26,CLI,5.6
 Region 9,2020-07-27,CLI,5.4
 Region 9,2020-07-28,CLI,5.3
@@ -2332,14 +2331,14 @@ Region 9,2020-08-25,CLI,2.6
 Region 9,2020-08-26,CLI,2.4
 Region 9,2020-08-27,CLI,2.3
 Region 9,2020-08-28,CLI,2.1
-Region 9,2020-08-29,CLI,2.4
+Region 9,2020-08-29,CLI,2.5
 Region 9,2020-08-30,CLI,2.3
 Region 9,2020-08-31,CLI,2.1
 Region 9,2020-09-01,CLI,1.6
 Region 9,2020-09-02,CLI,1.6
-Region 9,2020-09-03,CLI,1.6
-Region 9,2020-09-04,CLI,1.2
-Rhode Island,2020-07-10,CLI,0.8
+Region 9,2020-09-03,CLI,1.7
+Region 9,2020-09-04,CLI,1.4
+Region 9,2020-09-05,CLI,1.6
 Rhode Island,2020-07-11,CLI,0.7
 Rhode Island,2020-07-12,CLI,1
 Rhode Island,2020-07-13,CLI,1.2
@@ -2394,9 +2393,9 @@ Rhode Island,2020-08-30,CLI,1
 Rhode Island,2020-08-31,CLI,1.3
 Rhode Island,2020-09-01,CLI,0.7
 Rhode Island,2020-09-02,CLI,1.9
-Rhode Island,2020-09-03,CLI,1.2
+Rhode Island,2020-09-03,CLI,1.3
 Rhode Island,2020-09-04,CLI,1.4
-South Carolina,2020-07-10,CLI,8.9
+Rhode Island,2020-09-05,CLI,0.6
 South Carolina,2020-07-11,CLI,8.5
 South Carolina,2020-07-12,CLI,8.9
 South Carolina,2020-07-13,CLI,8.6
@@ -2452,8 +2451,8 @@ South Carolina,2020-08-31,CLI,3.5
 South Carolina,2020-09-01,CLI,3
 South Carolina,2020-09-02,CLI,2.7
 South Carolina,2020-09-03,CLI,2.7
-South Carolina,2020-09-04,CLI,2.5
-Tennessee,2020-07-10,CLI,4.8
+South Carolina,2020-09-04,CLI,2.6
+South Carolina,2020-09-05,CLI,2.4
 Tennessee,2020-07-11,CLI,5
 Tennessee,2020-07-12,CLI,5.3
 Tennessee,2020-07-13,CLI,5
@@ -2507,10 +2506,10 @@ Tennessee,2020-08-29,CLI,3.2
 Tennessee,2020-08-30,CLI,3.3
 Tennessee,2020-08-31,CLI,3.4
 Tennessee,2020-09-01,CLI,3.6
-Tennessee,2020-09-02,CLI,2.9
-Tennessee,2020-09-03,CLI,2.6
-Tennessee,2020-09-04,CLI,2.2
-United States,2020-07-10,CLI,4.1
+Tennessee,2020-09-02,CLI,3
+Tennessee,2020-09-03,CLI,2.7
+Tennessee,2020-09-04,CLI,2.3
+Tennessee,2020-09-05,CLI,2
 United States,2020-07-11,CLI,4.2
 United States,2020-07-12,CLI,4.2
 United States,2020-07-13,CLI,4.2
@@ -2553,21 +2552,21 @@ United States,2020-08-18,CLI,2.3
 United States,2020-08-19,CLI,2.3
 United States,2020-08-20,CLI,2.3
 United States,2020-08-21,CLI,2.1
-United States,2020-08-22,CLI,2.1
+United States,2020-08-22,CLI,2.2
 United States,2020-08-23,CLI,2.2
 United States,2020-08-24,CLI,2.2
 United States,2020-08-25,CLI,2.2
-United States,2020-08-26,CLI,2
+United States,2020-08-26,CLI,2.1
 United States,2020-08-27,CLI,2
 United States,2020-08-28,CLI,2
 United States,2020-08-29,CLI,1.9
 United States,2020-08-30,CLI,2
 United States,2020-08-31,CLI,1.9
 United States,2020-09-01,CLI,1.8
-United States,2020-09-02,CLI,1.7
-United States,2020-09-03,CLI,1.5
-United States,2020-09-04,CLI,1.4
-Utah,2020-07-10,CLI,4.2
+United States,2020-09-02,CLI,1.8
+United States,2020-09-03,CLI,1.6
+United States,2020-09-04,CLI,1.5
+United States,2020-09-05,CLI,1.4
 Utah,2020-07-11,CLI,4.8
 Utah,2020-07-12,CLI,4.3
 Utah,2020-07-13,CLI,5.4
@@ -2621,10 +2620,10 @@ Utah,2020-08-29,CLI,2.5
 Utah,2020-08-30,CLI,3.3
 Utah,2020-08-31,CLI,2.7
 Utah,2020-09-01,CLI,2.1
-Utah,2020-09-02,CLI,3
-Utah,2020-09-03,CLI,2.4
+Utah,2020-09-02,CLI,2.9
+Utah,2020-09-03,CLI,2.5
 Utah,2020-09-04,CLI,2.6
-Vermont,2020-07-10,CLI,1.2
+Utah,2020-09-05,CLI,2.3
 Vermont,2020-07-11,CLI,1.1
 Vermont,2020-07-12,CLI,1.3
 Vermont,2020-07-13,CLI,6.6
@@ -2681,7 +2680,7 @@ Vermont,2020-09-01,CLI,0.5
 Vermont,2020-09-02,CLI,0.8
 Vermont,2020-09-03,CLI,0.5
 Vermont,2020-09-04,CLI,0.5
-Virginia,2020-07-10,CLI,3
+Vermont,2020-09-05,CLI,0.6
 Virginia,2020-07-11,CLI,2.2
 Virginia,2020-07-12,CLI,2.3
 Virginia,2020-07-13,CLI,2.3
@@ -2728,7 +2727,7 @@ Virginia,2020-08-22,CLI,2.3
 Virginia,2020-08-23,CLI,2.5
 Virginia,2020-08-24,CLI,2.3
 Virginia,2020-08-25,CLI,2.4
-Virginia,2020-08-26,CLI,2.4
+Virginia,2020-08-26,CLI,2.5
 Virginia,2020-08-27,CLI,2.2
 Virginia,2020-08-28,CLI,2.3
 Virginia,2020-08-29,CLI,2
@@ -2738,7 +2737,7 @@ Virginia,2020-09-01,CLI,2
 Virginia,2020-09-02,CLI,2.1
 Virginia,2020-09-03,CLI,2.3
 Virginia,2020-09-04,CLI,1.8
-Washington,2020-07-10,CLI,3
+Virginia,2020-09-05,CLI,2
 Washington,2020-07-11,CLI,2.5
 Washington,2020-07-12,CLI,3
 Washington,2020-07-13,CLI,2.9
@@ -2793,9 +2792,9 @@ Washington,2020-08-30,CLI,2.1
 Washington,2020-08-31,CLI,1.8
 Washington,2020-09-01,CLI,1.5
 Washington,2020-09-02,CLI,1.7
-Washington,2020-09-03,CLI,1.1
+Washington,2020-09-03,CLI,1.2
 Washington,2020-09-04,CLI,1.5
-West Virginia,2020-07-10,CLI,1.5
+Washington,2020-09-05,CLI,1.1
 West Virginia,2020-07-11,CLI,1.5
 West Virginia,2020-07-12,CLI,2.2
 West Virginia,2020-07-13,CLI,1.2
@@ -2848,11 +2847,11 @@ West Virginia,2020-08-28,CLI,1.3
 West Virginia,2020-08-29,CLI,1.6
 West Virginia,2020-08-30,CLI,1.7
 West Virginia,2020-08-31,CLI,1.4
-West Virginia,2020-09-01,CLI,1.3
+West Virginia,2020-09-01,CLI,1.4
 West Virginia,2020-09-02,CLI,1
-West Virginia,2020-09-03,CLI,0.9
+West Virginia,2020-09-03,CLI,1
 West Virginia,2020-09-04,CLI,0.7
-Wisconsin,2020-07-10,CLI,1.4
+West Virginia,2020-09-05,CLI,0.9
 Wisconsin,2020-07-11,CLI,2.2
 Wisconsin,2020-07-12,CLI,2.4
 Wisconsin,2020-07-13,CLI,1.7
@@ -2909,7 +2908,7 @@ Wisconsin,2020-09-01,CLI,1.3
 Wisconsin,2020-09-02,CLI,1.3
 Wisconsin,2020-09-03,CLI,1.1
 Wisconsin,2020-09-04,CLI,1
-Alabama,2020-07-10,ILI,1.7
+Wisconsin,2020-09-05,CLI,1.3
 Alabama,2020-07-11,ILI,1.5
 Alabama,2020-07-12,ILI,1.5
 Alabama,2020-07-13,ILI,1.9
@@ -2966,7 +2965,7 @@ Alabama,2020-09-01,ILI,0.7
 Alabama,2020-09-02,ILI,0.7
 Alabama,2020-09-03,ILI,0.8
 Alabama,2020-09-04,ILI,0.8
-Alaska,2020-07-10,ILI,1.1
+Alabama,2020-09-05,ILI,0.9
 Alaska,2020-07-11,ILI,0.1
 Alaska,2020-07-12,ILI,0.6
 Alaska,2020-07-13,ILI,0.6
@@ -3021,9 +3020,9 @@ Alaska,2020-08-30,ILI,0.6
 Alaska,2020-08-31,ILI,0.6
 Alaska,2020-09-01,ILI,0.5
 Alaska,2020-09-02,ILI,0.5
-Alaska,2020-09-03,ILI,0.7
+Alaska,2020-09-03,ILI,0.6
 Alaska,2020-09-04,ILI,0.6
-Arizona,2020-07-10,ILI,2.8
+Alaska,2020-09-05,ILI,1.1
 Arizona,2020-07-11,ILI,2.9
 Arizona,2020-07-12,ILI,2.8
 Arizona,2020-07-13,ILI,2.6
@@ -3079,8 +3078,8 @@ Arizona,2020-08-31,ILI,0.7
 Arizona,2020-09-01,ILI,0.7
 Arizona,2020-09-02,ILI,0.6
 Arizona,2020-09-03,ILI,0.8
-Arizona,2020-09-04,ILI,0.4
-Arkansas,2020-07-10,ILI,0.9
+Arizona,2020-09-04,ILI,0.6
+Arizona,2020-09-05,ILI,0.9
 Arkansas,2020-07-11,ILI,0.4
 Arkansas,2020-07-12,ILI,1
 Arkansas,2020-07-13,ILI,0.6
@@ -3137,7 +3136,7 @@ Arkansas,2020-09-01,ILI,0.4
 Arkansas,2020-09-02,ILI,0.6
 Arkansas,2020-09-03,ILI,0.6
 Arkansas,2020-09-04,ILI,0.9
-Connecticut,2020-07-10,ILI,0.6
+Arkansas,2020-09-05,ILI,0.6
 Connecticut,2020-07-11,ILI,0.7
 Connecticut,2020-07-12,ILI,0.4
 Connecticut,2020-07-13,ILI,0.4
@@ -3194,7 +3193,7 @@ Connecticut,2020-09-01,ILI,0.6
 Connecticut,2020-09-02,ILI,0.4
 Connecticut,2020-09-03,ILI,0.4
 Connecticut,2020-09-04,ILI,0.3
-Delaware,2020-07-10,ILI,0.5
+Connecticut,2020-09-05,ILI,0.6
 Delaware,2020-07-11,ILI,1
 Delaware,2020-07-12,ILI,0.6
 Delaware,2020-07-13,ILI,0.2
@@ -3251,7 +3250,7 @@ Delaware,2020-09-01,ILI,0.5
 Delaware,2020-09-02,ILI,0.6
 Delaware,2020-09-03,ILI,0.7
 Delaware,2020-09-04,ILI,0.5
-District of Columbia,2020-07-10,ILI,0.4
+Delaware,2020-09-05,ILI,0.6
 District of Columbia,2020-07-11,ILI,0.4
 District of Columbia,2020-07-12,ILI,0.4
 District of Columbia,2020-07-13,ILI,0.9
@@ -3308,7 +3307,7 @@ District of Columbia,2020-09-01,ILI,0.9
 District of Columbia,2020-09-02,ILI,0.2
 District of Columbia,2020-09-03,ILI,0.2
 District of Columbia,2020-09-04,ILI,0.2
-Florida,2020-07-10,ILI,2.2
+District of Columbia,2020-09-05,ILI,0.9
 Florida,2020-07-11,ILI,2.2
 Florida,2020-07-12,ILI,2.3
 Florida,2020-07-13,ILI,2.3
@@ -3365,7 +3364,7 @@ Florida,2020-09-01,ILI,1
 Florida,2020-09-02,ILI,0.9
 Florida,2020-09-03,ILI,1
 Florida,2020-09-04,ILI,0.8
-Georgia,2020-07-10,ILI,1.9
+Florida,2020-09-05,ILI,0.9
 Georgia,2020-07-11,ILI,2.2
 Georgia,2020-07-12,ILI,2.3
 Georgia,2020-07-13,ILI,2.2
@@ -3422,7 +3421,7 @@ Georgia,2020-09-01,ILI,1.6
 Georgia,2020-09-02,ILI,1.3
 Georgia,2020-09-03,ILI,1
 Georgia,2020-09-04,ILI,1.3
-Idaho,2020-07-10,ILI,0.8
+Georgia,2020-09-05,ILI,1.4
 Idaho,2020-07-11,ILI,1
 Idaho,2020-07-12,ILI,0.9
 Idaho,2020-07-13,ILI,0.9
@@ -3479,7 +3478,7 @@ Idaho,2020-09-01,ILI,0.8
 Idaho,2020-09-02,ILI,0.6
 Idaho,2020-09-03,ILI,0.7
 Idaho,2020-09-04,ILI,0.8
-Illinois,2020-07-10,ILI,0.6
+Idaho,2020-09-05,ILI,1
 Illinois,2020-07-11,ILI,0.6
 Illinois,2020-07-12,ILI,0.6
 Illinois,2020-07-13,ILI,0.6
@@ -3535,8 +3534,8 @@ Illinois,2020-08-31,ILI,0.6
 Illinois,2020-09-01,ILI,0.9
 Illinois,2020-09-02,ILI,0.7
 Illinois,2020-09-03,ILI,0.6
-Illinois,2020-09-04,ILI,0.5
-Kansas,2020-07-10,ILI,1.3
+Illinois,2020-09-04,ILI,0.7
+Illinois,2020-09-05,ILI,0.5
 Kansas,2020-07-11,ILI,1.4
 Kansas,2020-07-12,ILI,2
 Kansas,2020-07-13,ILI,2
@@ -3593,7 +3592,7 @@ Kansas,2020-09-01,ILI,0.7
 Kansas,2020-09-02,ILI,1.2
 Kansas,2020-09-03,ILI,0.8
 Kansas,2020-09-04,ILI,0.6
-Kentucky,2020-07-10,ILI,0.7
+Kansas,2020-09-05,ILI,1.1
 Kentucky,2020-07-11,ILI,0.7
 Kentucky,2020-07-12,ILI,0.8
 Kentucky,2020-07-13,ILI,0.4
@@ -3650,7 +3649,7 @@ Kentucky,2020-09-01,ILI,0.4
 Kentucky,2020-09-02,ILI,0.7
 Kentucky,2020-09-03,ILI,0.3
 Kentucky,2020-09-04,ILI,0.3
-Louisiana,2020-07-10,ILI,0.8
+Kentucky,2020-09-05,ILI,0.5
 Louisiana,2020-07-11,ILI,1.1
 Louisiana,2020-07-12,ILI,1.2
 Louisiana,2020-07-13,ILI,1
@@ -3707,7 +3706,7 @@ Louisiana,2020-09-01,ILI,0.3
 Louisiana,2020-09-02,ILI,0.4
 Louisiana,2020-09-03,ILI,0.4
 Louisiana,2020-09-04,ILI,0.3
-Maine,2020-07-10,ILI,0.3
+Louisiana,2020-09-05,ILI,0.3
 Maine,2020-07-11,ILI,0.3
 Maine,2020-07-12,ILI,0.5
 Maine,2020-07-13,ILI,0.4
@@ -3764,7 +3763,7 @@ Maine,2020-09-01,ILI,0.4
 Maine,2020-09-02,ILI,0.3
 Maine,2020-09-03,ILI,0.3
 Maine,2020-09-04,ILI,0.3
-Maryland,2020-07-10,ILI,0.7
+Maine,2020-09-05,ILI,0.7
 Maryland,2020-07-11,ILI,1.3
 Maryland,2020-07-12,ILI,1.1
 Maryland,2020-07-13,ILI,0.9
@@ -3821,7 +3820,7 @@ Maryland,2020-09-01,ILI,0.7
 Maryland,2020-09-02,ILI,0.7
 Maryland,2020-09-03,ILI,0.9
 Maryland,2020-09-04,ILI,0.6
-Massachusetts,2020-07-10,ILI,0.3
+Maryland,2020-09-05,ILI,0.7
 Massachusetts,2020-07-11,ILI,0.5
 Massachusetts,2020-07-12,ILI,0.4
 Massachusetts,2020-07-13,ILI,0.3
@@ -3878,7 +3877,7 @@ Massachusetts,2020-09-01,ILI,0.7
 Massachusetts,2020-09-02,ILI,0.7
 Massachusetts,2020-09-03,ILI,0.5
 Massachusetts,2020-09-04,ILI,0.5
-Michigan,2020-07-10,ILI,0.5
+Massachusetts,2020-09-05,ILI,0.5
 Michigan,2020-07-11,ILI,0.5
 Michigan,2020-07-12,ILI,0.6
 Michigan,2020-07-13,ILI,0.6
@@ -3935,7 +3934,7 @@ Michigan,2020-09-01,ILI,0.5
 Michigan,2020-09-02,ILI,0.5
 Michigan,2020-09-03,ILI,0.4
 Michigan,2020-09-04,ILI,0.4
-Mississippi,2020-07-10,ILI,1.3
+Michigan,2020-09-05,ILI,0.5
 Mississippi,2020-07-11,ILI,1
 Mississippi,2020-07-12,ILI,1.5
 Mississippi,2020-07-13,ILI,0.9
@@ -3992,7 +3991,7 @@ Mississippi,2020-09-01,ILI,0.4
 Mississippi,2020-09-02,ILI,0.4
 Mississippi,2020-09-03,ILI,0.5
 Mississippi,2020-09-04,ILI,0.3
-Missouri,2020-07-10,ILI,0.9
+Mississippi,2020-09-05,ILI,0.6
 Missouri,2020-07-11,ILI,0.9
 Missouri,2020-07-12,ILI,1.3
 Missouri,2020-07-13,ILI,1.1
@@ -4049,7 +4048,7 @@ Missouri,2020-09-01,ILI,1.2
 Missouri,2020-09-02,ILI,1.1
 Missouri,2020-09-03,ILI,1
 Missouri,2020-09-04,ILI,1
-Montana,2020-07-10,ILI,1.3
+Missouri,2020-09-05,ILI,1
 Montana,2020-07-11,ILI,0.7
 Montana,2020-07-12,ILI,1.1
 Montana,2020-07-13,ILI,0.6
@@ -4106,7 +4105,7 @@ Montana,2020-09-01,ILI,0.7
 Montana,2020-09-02,ILI,0.8
 Montana,2020-09-03,ILI,0.7
 Montana,2020-09-04,ILI,0.6
-Nebraska,2020-07-10,ILI,0.4
+Montana,2020-09-05,ILI,0.7
 Nebraska,2020-07-11,ILI,0.7
 Nebraska,2020-07-12,ILI,0.5
 Nebraska,2020-07-13,ILI,0.6
@@ -4163,7 +4162,7 @@ Nebraska,2020-09-01,ILI,1
 Nebraska,2020-09-02,ILI,0.4
 Nebraska,2020-09-03,ILI,0.8
 Nebraska,2020-09-04,ILI,0.8
-Nevada,2020-07-10,ILI,2
+Nebraska,2020-09-05,ILI,0.5
 Nevada,2020-07-11,ILI,2.4
 Nevada,2020-07-12,ILI,2.1
 Nevada,2020-07-13,ILI,2.9
@@ -4220,7 +4219,7 @@ Nevada,2020-09-01,ILI,0.7
 Nevada,2020-09-02,ILI,1
 Nevada,2020-09-03,ILI,0.6
 Nevada,2020-09-04,ILI,1.3
-New Jersey,2020-07-10,ILI,0.3
+Nevada,2020-09-05,ILI,1.1
 New Jersey,2020-07-11,ILI,0.5
 New Jersey,2020-07-12,ILI,0.4
 New Jersey,2020-07-13,ILI,0.2
@@ -4277,7 +4276,7 @@ New Jersey,2020-09-01,ILI,0.6
 New Jersey,2020-09-02,ILI,0.6
 New Jersey,2020-09-03,ILI,0.4
 New Jersey,2020-09-04,ILI,0.5
-New Mexico,2020-07-10,ILI,0.4
+New Jersey,2020-09-05,ILI,0.2
 New Mexico,2020-07-11,ILI,0.7
 New Mexico,2020-07-12,ILI,0.6
 New Mexico,2020-07-13,ILI,0.7
@@ -4334,7 +4333,7 @@ New Mexico,2020-09-01,ILI,0.5
 New Mexico,2020-09-02,ILI,0.4
 New Mexico,2020-09-03,ILI,0.3
 New Mexico,2020-09-04,ILI,0.3
-New York,2020-07-10,ILI,0.3
+New Mexico,2020-09-05,ILI,0.7
 New York,2020-07-11,ILI,0.5
 New York,2020-07-12,ILI,0.5
 New York,2020-07-13,ILI,0.5
@@ -4391,7 +4390,7 @@ New York,2020-09-01,ILI,0.4
 New York,2020-09-02,ILI,0.5
 New York,2020-09-03,ILI,0.6
 New York,2020-09-04,ILI,0.4
-North Carolina,2020-07-10,ILI,0.6
+New York,2020-09-05,ILI,0.5
 North Carolina,2020-07-11,ILI,0.5
 North Carolina,2020-07-12,ILI,0.7
 North Carolina,2020-07-13,ILI,0.7
@@ -4448,7 +4447,7 @@ North Carolina,2020-09-01,ILI,0.5
 North Carolina,2020-09-02,ILI,0.4
 North Carolina,2020-09-03,ILI,0.4
 North Carolina,2020-09-04,ILI,0.4
-North Dakota,2020-07-10,ILI,0.9
+North Carolina,2020-09-05,ILI,0.3
 North Dakota,2020-07-11,ILI,0.6
 North Dakota,2020-07-12,ILI,1.1
 North Dakota,2020-07-13,ILI,1.1
@@ -4505,7 +4504,7 @@ North Dakota,2020-09-01,ILI,1.1
 North Dakota,2020-09-02,ILI,1.8
 North Dakota,2020-09-03,ILI,0
 North Dakota,2020-09-04,ILI,0.6
-Ohio,2020-07-10,ILI,0.8
+North Dakota,2020-09-05,ILI,0.8
 Ohio,2020-07-11,ILI,0.7
 Ohio,2020-07-12,ILI,0.9
 Ohio,2020-07-13,ILI,0.9
@@ -4562,7 +4561,7 @@ Ohio,2020-09-01,ILI,0.5
 Ohio,2020-09-02,ILI,0.6
 Ohio,2020-09-03,ILI,0.6
 Ohio,2020-09-04,ILI,0.4
-Oregon,2020-07-10,ILI,0.3
+Ohio,2020-09-05,ILI,0.6
 Oregon,2020-07-11,ILI,0.5
 Oregon,2020-07-12,ILI,0.4
 Oregon,2020-07-13,ILI,0.4
@@ -4619,7 +4618,7 @@ Oregon,2020-09-01,ILI,0.4
 Oregon,2020-09-02,ILI,0.4
 Oregon,2020-09-03,ILI,0.3
 Oregon,2020-09-04,ILI,0.4
-Pennsylvania,2020-07-10,ILI,0.5
+Oregon,2020-09-05,ILI,0.4
 Pennsylvania,2020-07-11,ILI,0.5
 Pennsylvania,2020-07-12,ILI,0.6
 Pennsylvania,2020-07-13,ILI,0.5
@@ -4676,7 +4675,7 @@ Pennsylvania,2020-09-01,ILI,0.6
 Pennsylvania,2020-09-02,ILI,0.6
 Pennsylvania,2020-09-03,ILI,0.5
 Pennsylvania,2020-09-04,ILI,0.4
-Region 1,2020-07-10,ILI,0.4
+Pennsylvania,2020-09-05,ILI,0.5
 Region 1,2020-07-11,ILI,0.5
 Region 1,2020-07-12,ILI,0.4
 Region 1,2020-07-13,ILI,0.3
@@ -4733,7 +4732,7 @@ Region 1,2020-09-01,ILI,0.6
 Region 1,2020-09-02,ILI,0.6
 Region 1,2020-09-03,ILI,0.5
 Region 1,2020-09-04,ILI,0.4
-Region 10,2020-07-10,ILI,0.7
+Region 1,2020-09-05,ILI,0.5
 Region 10,2020-07-11,ILI,0.6
 Region 10,2020-07-12,ILI,0.7
 Region 10,2020-07-13,ILI,0.6
@@ -4790,7 +4789,7 @@ Region 10,2020-09-01,ILI,0.4
 Region 10,2020-09-02,ILI,0.5
 Region 10,2020-09-03,ILI,0.4
 Region 10,2020-09-04,ILI,0.6
-Region 2,2020-07-10,ILI,0.3
+Region 10,2020-09-05,ILI,0.5
 Region 2,2020-07-11,ILI,0.5
 Region 2,2020-07-12,ILI,0.4
 Region 2,2020-07-13,ILI,0.4
@@ -4847,7 +4846,7 @@ Region 2,2020-09-01,ILI,0.5
 Region 2,2020-09-02,ILI,0.5
 Region 2,2020-09-03,ILI,0.5
 Region 2,2020-09-04,ILI,0.4
-Region 3,2020-07-10,ILI,0.5
+Region 2,2020-09-05,ILI,0.4
 Region 3,2020-07-11,ILI,0.6
 Region 3,2020-07-12,ILI,0.7
 Region 3,2020-07-13,ILI,0.6
@@ -4904,7 +4903,7 @@ Region 3,2020-09-01,ILI,0.6
 Region 3,2020-09-02,ILI,0.5
 Region 3,2020-09-03,ILI,0.5
 Region 3,2020-09-04,ILI,0.4
-Region 4,2020-07-10,ILI,1.5
+Region 3,2020-09-05,ILI,0.5
 Region 4,2020-07-11,ILI,1.6
 Region 4,2020-07-12,ILI,1.7
 Region 4,2020-07-13,ILI,1.6
@@ -4961,7 +4960,7 @@ Region 4,2020-09-01,ILI,0.9
 Region 4,2020-09-02,ILI,0.8
 Region 4,2020-09-03,ILI,0.8
 Region 4,2020-09-04,ILI,0.7
-Region 5,2020-07-10,ILI,0.6
+Region 4,2020-09-05,ILI,0.7
 Region 5,2020-07-11,ILI,0.7
 Region 5,2020-07-12,ILI,0.8
 Region 5,2020-07-13,ILI,0.7
@@ -5018,7 +5017,7 @@ Region 5,2020-09-01,ILI,0.6
 Region 5,2020-09-02,ILI,0.6
 Region 5,2020-09-03,ILI,0.6
 Region 5,2020-09-04,ILI,0.5
-Region 6,2020-07-10,ILI,1.3
+Region 5,2020-09-05,ILI,0.6
 Region 6,2020-07-11,ILI,1.4
 Region 6,2020-07-12,ILI,1.5
 Region 6,2020-07-13,ILI,1.3
@@ -5075,7 +5074,7 @@ Region 6,2020-09-01,ILI,0.6
 Region 6,2020-09-02,ILI,0.7
 Region 6,2020-09-03,ILI,0.6
 Region 6,2020-09-04,ILI,0.6
-Region 7,2020-07-10,ILI,0.9
+Region 6,2020-09-05,ILI,0.6
 Region 7,2020-07-11,ILI,1
 Region 7,2020-07-12,ILI,1.4
 Region 7,2020-07-13,ILI,1.2
@@ -5132,7 +5131,7 @@ Region 7,2020-09-01,ILI,1
 Region 7,2020-09-02,ILI,1
 Region 7,2020-09-03,ILI,0.9
 Region 7,2020-09-04,ILI,0.9
-Region 8,2020-07-10,ILI,0.9
+Region 7,2020-09-05,ILI,1
 Region 8,2020-07-11,ILI,0.8
 Region 8,2020-07-12,ILI,0.9
 Region 8,2020-07-13,ILI,0.8
@@ -5189,7 +5188,7 @@ Region 8,2020-09-01,ILI,0.6
 Region 8,2020-09-02,ILI,0.8
 Region 8,2020-09-03,ILI,0.7
 Region 8,2020-09-04,ILI,0.5
-Region 9,2020-07-10,ILI,1.8
+Region 8,2020-09-05,ILI,0.8
 Region 9,2020-07-11,ILI,2.1
 Region 9,2020-07-12,ILI,2.1
 Region 9,2020-07-13,ILI,1.9
@@ -5245,8 +5244,8 @@ Region 9,2020-08-31,ILI,0.6
 Region 9,2020-09-01,ILI,0.5
 Region 9,2020-09-02,ILI,0.6
 Region 9,2020-09-03,ILI,0.5
-Region 9,2020-09-04,ILI,0.6
-Rhode Island,2020-07-10,ILI,0.2
+Region 9,2020-09-04,ILI,0.7
+Region 9,2020-09-05,ILI,0.8
 Rhode Island,2020-07-11,ILI,0.1
 Rhode Island,2020-07-12,ILI,0.4
 Rhode Island,2020-07-13,ILI,0.3
@@ -5303,7 +5302,7 @@ Rhode Island,2020-09-01,ILI,0.2
 Rhode Island,2020-09-02,ILI,0.7
 Rhode Island,2020-09-03,ILI,0.3
 Rhode Island,2020-09-04,ILI,0.3
-South Carolina,2020-07-10,ILI,1.4
+Rhode Island,2020-09-05,ILI,0.2
 South Carolina,2020-07-11,ILI,1.7
 South Carolina,2020-07-12,ILI,1.9
 South Carolina,2020-07-13,ILI,1.4
@@ -5360,7 +5359,7 @@ South Carolina,2020-09-01,ILI,0.8
 South Carolina,2020-09-02,ILI,0.6
 South Carolina,2020-09-03,ILI,0.8
 South Carolina,2020-09-04,ILI,0.8
-Tennessee,2020-07-10,ILI,1
+South Carolina,2020-09-05,ILI,0.7
 Tennessee,2020-07-11,ILI,1.3
 Tennessee,2020-07-12,ILI,1.2
 Tennessee,2020-07-13,ILI,1.2
@@ -5417,7 +5416,7 @@ Tennessee,2020-09-01,ILI,0.9
 Tennessee,2020-09-02,ILI,0.7
 Tennessee,2020-09-03,ILI,0.9
 Tennessee,2020-09-04,ILI,0.7
-United States,2020-07-10,ILI,1
+Tennessee,2020-09-05,ILI,0.8
 United States,2020-07-11,ILI,1.1
 United States,2020-07-12,ILI,1.1
 United States,2020-07-13,ILI,1.1
@@ -5474,7 +5473,7 @@ United States,2020-09-01,ILI,0.7
 United States,2020-09-02,ILI,0.7
 United States,2020-09-03,ILI,0.6
 United States,2020-09-04,ILI,0.6
-Utah,2020-07-10,ILI,1.5
+United States,2020-09-05,ILI,0.6
 Utah,2020-07-11,ILI,1.7
 Utah,2020-07-12,ILI,1.4
 Utah,2020-07-13,ILI,1.6
@@ -5531,7 +5530,7 @@ Utah,2020-09-01,ILI,0.8
 Utah,2020-09-02,ILI,1.1
 Utah,2020-09-03,ILI,1.5
 Utah,2020-09-04,ILI,0.9
-Vermont,2020-07-10,ILI,0
+Utah,2020-09-05,ILI,1.3
 Vermont,2020-07-11,ILI,0.6
 Vermont,2020-07-12,ILI,0.8
 Vermont,2020-07-13,ILI,0.7
@@ -5588,7 +5587,7 @@ Vermont,2020-09-01,ILI,0.7
 Vermont,2020-09-02,ILI,1
 Vermont,2020-09-03,ILI,0.8
 Vermont,2020-09-04,ILI,0.6
-Virginia,2020-07-10,ILI,0.4
+Vermont,2020-09-05,ILI,0.4
 Virginia,2020-07-11,ILI,0.3
 Virginia,2020-07-12,ILI,0.5
 Virginia,2020-07-13,ILI,0.5
@@ -5645,7 +5644,7 @@ Virginia,2020-09-01,ILI,0.5
 Virginia,2020-09-02,ILI,0.5
 Virginia,2020-09-03,ILI,0.5
 Virginia,2020-09-04,ILI,0.4
-Washington,2020-07-10,ILI,0.8
+Virginia,2020-09-05,ILI,0.5
 Washington,2020-07-11,ILI,0.6
 Washington,2020-07-12,ILI,0.9
 Washington,2020-07-13,ILI,0.7
@@ -5702,7 +5701,7 @@ Washington,2020-09-01,ILI,0.3
 Washington,2020-09-02,ILI,0.6
 Washington,2020-09-03,ILI,0.4
 Washington,2020-09-04,ILI,0.6
-West Virginia,2020-07-10,ILI,0.5
+Washington,2020-09-05,ILI,0.4
 West Virginia,2020-07-11,ILI,0.3
 West Virginia,2020-07-12,ILI,0.8
 West Virginia,2020-07-13,ILI,0.6
@@ -5759,7 +5758,7 @@ West Virginia,2020-09-01,ILI,0.5
 West Virginia,2020-09-02,ILI,0.2
 West Virginia,2020-09-03,ILI,0.5
 West Virginia,2020-09-04,ILI,0.5
-Wisconsin,2020-07-10,ILI,0.5
+West Virginia,2020-09-05,ILI,0.3
 Wisconsin,2020-07-11,ILI,0.8
 Wisconsin,2020-07-12,ILI,1.1
 Wisconsin,2020-07-13,ILI,0.6
@@ -5816,7 +5815,7 @@ Wisconsin,2020-09-01,ILI,0.5
 Wisconsin,2020-09-02,ILI,0.4
 Wisconsin,2020-09-03,ILI,0.4
 Wisconsin,2020-09-04,ILI,0.4
-Alabama,2020-07-10,Pneu,2.2
+Wisconsin,2020-09-05,ILI,0.6
 Alabama,2020-07-11,Pneu,2.5
 Alabama,2020-07-12,Pneu,2.7
 Alabama,2020-07-13,Pneu,2.6
@@ -5843,9 +5842,9 @@ Alabama,2020-08-02,Pneu,2.1
 Alabama,2020-08-03,Pneu,2.4
 Alabama,2020-08-04,Pneu,2.3
 Alabama,2020-08-05,Pneu,2.5
-Alabama,2020-08-06,Pneu,2.4
+Alabama,2020-08-06,Pneu,2.3
 Alabama,2020-08-07,Pneu,2.4
-Alabama,2020-08-08,Pneu,2.5
+Alabama,2020-08-08,Pneu,2.6
 Alabama,2020-08-09,Pneu,2.4
 Alabama,2020-08-10,Pneu,2.1
 Alabama,2020-08-11,Pneu,2
@@ -5865,15 +5864,15 @@ Alabama,2020-08-24,Pneu,1.5
 Alabama,2020-08-25,Pneu,1.9
 Alabama,2020-08-26,Pneu,1.6
 Alabama,2020-08-27,Pneu,1.4
-Alabama,2020-08-28,Pneu,1.5
+Alabama,2020-08-28,Pneu,1.6
 Alabama,2020-08-29,Pneu,1.4
 Alabama,2020-08-30,Pneu,1.1
 Alabama,2020-08-31,Pneu,1.3
-Alabama,2020-09-01,Pneu,0.8
-Alabama,2020-09-02,Pneu,0.7
+Alabama,2020-09-01,Pneu,1
+Alabama,2020-09-02,Pneu,0.8
 Alabama,2020-09-03,Pneu,0.8
 Alabama,2020-09-04,Pneu,0.7
-Alaska,2020-07-10,Pneu,1.1
+Alabama,2020-09-05,Pneu,0.7
 Alaska,2020-07-11,Pneu,1.6
 Alaska,2020-07-12,Pneu,1.3
 Alaska,2020-07-13,Pneu,1.4
@@ -5917,7 +5916,7 @@ Alaska,2020-08-19,Pneu,1.3
 Alaska,2020-08-20,Pneu,0.9
 Alaska,2020-08-21,Pneu,0.6
 Alaska,2020-08-22,Pneu,2.1
-Alaska,2020-08-23,Pneu,1
+Alaska,2020-08-23,Pneu,1.2
 Alaska,2020-08-24,Pneu,1.1
 Alaska,2020-08-25,Pneu,1.4
 Alaska,2020-08-26,Pneu,1
@@ -5930,7 +5929,7 @@ Alaska,2020-09-01,Pneu,0.6
 Alaska,2020-09-02,Pneu,1.3
 Alaska,2020-09-03,Pneu,2.1
 Alaska,2020-09-04,Pneu,1.3
-Arizona,2020-07-10,Pneu,6.5
+Alaska,2020-09-05,Pneu,0.9
 Arizona,2020-07-11,Pneu,6.6
 Arizona,2020-07-12,Pneu,6.2
 Arizona,2020-07-13,Pneu,6.7
@@ -5956,13 +5955,13 @@ Arizona,2020-08-01,Pneu,3.5
 Arizona,2020-08-02,Pneu,3.3
 Arizona,2020-08-03,Pneu,3.6
 Arizona,2020-08-04,Pneu,3.6
-Arizona,2020-08-05,Pneu,3.7
+Arizona,2020-08-05,Pneu,3.8
 Arizona,2020-08-06,Pneu,4.2
 Arizona,2020-08-07,Pneu,3.3
 Arizona,2020-08-08,Pneu,2.8
-Arizona,2020-08-09,Pneu,3.5
+Arizona,2020-08-09,Pneu,3.6
 Arizona,2020-08-10,Pneu,2.8
-Arizona,2020-08-11,Pneu,2.8
+Arizona,2020-08-11,Pneu,2.9
 Arizona,2020-08-12,Pneu,2.8
 Arizona,2020-08-13,Pneu,3.2
 Arizona,2020-08-14,Pneu,3.1
@@ -5975,19 +5974,19 @@ Arizona,2020-08-20,Pneu,2.8
 Arizona,2020-08-21,Pneu,3.1
 Arizona,2020-08-22,Pneu,3
 Arizona,2020-08-23,Pneu,2.9
-Arizona,2020-08-24,Pneu,2.3
-Arizona,2020-08-25,Pneu,2.6
+Arizona,2020-08-24,Pneu,2.4
+Arizona,2020-08-25,Pneu,2.7
 Arizona,2020-08-26,Pneu,2.8
-Arizona,2020-08-27,Pneu,2.5
-Arizona,2020-08-28,Pneu,2.4
-Arizona,2020-08-29,Pneu,2.7
+Arizona,2020-08-27,Pneu,2.6
+Arizona,2020-08-28,Pneu,2.5
+Arizona,2020-08-29,Pneu,2.8
 Arizona,2020-08-30,Pneu,2.7
-Arizona,2020-08-31,Pneu,2
+Arizona,2020-08-31,Pneu,2.1
 Arizona,2020-09-01,Pneu,2.1
 Arizona,2020-09-02,Pneu,2.2
-Arizona,2020-09-03,Pneu,1.5
-Arizona,2020-09-04,Pneu,1.3
-Arkansas,2020-07-10,Pneu,2.2
+Arizona,2020-09-03,Pneu,1.6
+Arizona,2020-09-04,Pneu,1.5
+Arizona,2020-09-05,Pneu,2
 Arkansas,2020-07-11,Pneu,1.7
 Arkansas,2020-07-12,Pneu,2
 Arkansas,2020-07-13,Pneu,2.6
@@ -6038,13 +6037,13 @@ Arkansas,2020-08-26,Pneu,1.8
 Arkansas,2020-08-27,Pneu,1.6
 Arkansas,2020-08-28,Pneu,2.1
 Arkansas,2020-08-29,Pneu,1.6
-Arkansas,2020-08-30,Pneu,2
+Arkansas,2020-08-30,Pneu,2.1
 Arkansas,2020-08-31,Pneu,1.8
 Arkansas,2020-09-01,Pneu,1.4
 Arkansas,2020-09-02,Pneu,1.5
 Arkansas,2020-09-03,Pneu,1
-Arkansas,2020-09-04,Pneu,1.6
-Connecticut,2020-07-10,Pneu,0.5
+Arkansas,2020-09-04,Pneu,1.7
+Arkansas,2020-09-05,Pneu,1.5
 Connecticut,2020-07-11,Pneu,0.7
 Connecticut,2020-07-12,Pneu,0.5
 Connecticut,2020-07-13,Pneu,0.8
@@ -6101,7 +6100,7 @@ Connecticut,2020-09-01,Pneu,0.4
 Connecticut,2020-09-02,Pneu,0.9
 Connecticut,2020-09-03,Pneu,0.9
 Connecticut,2020-09-04,Pneu,0.6
-Delaware,2020-07-10,Pneu,1.5
+Connecticut,2020-09-05,Pneu,0.7
 Delaware,2020-07-11,Pneu,1
 Delaware,2020-07-12,Pneu,1.1
 Delaware,2020-07-13,Pneu,1
@@ -6155,10 +6154,10 @@ Delaware,2020-08-29,Pneu,1
 Delaware,2020-08-30,Pneu,1.4
 Delaware,2020-08-31,Pneu,0.8
 Delaware,2020-09-01,Pneu,1.2
-Delaware,2020-09-02,Pneu,1.1
+Delaware,2020-09-02,Pneu,1.2
 Delaware,2020-09-03,Pneu,0.9
 Delaware,2020-09-04,Pneu,0.9
-District of Columbia,2020-07-10,Pneu,1.5
+Delaware,2020-09-05,Pneu,0.6
 District of Columbia,2020-07-11,Pneu,1
 District of Columbia,2020-07-12,Pneu,1.7
 District of Columbia,2020-07-13,Pneu,1.4
@@ -6215,7 +6214,7 @@ District of Columbia,2020-09-01,Pneu,0.5
 District of Columbia,2020-09-02,Pneu,0.3
 District of Columbia,2020-09-03,Pneu,0.4
 District of Columbia,2020-09-04,Pneu,0.8
-Florida,2020-07-10,Pneu,4.3
+District of Columbia,2020-09-05,Pneu,0.5
 Florida,2020-07-11,Pneu,4.6
 Florida,2020-07-12,Pneu,4.8
 Florida,2020-07-13,Pneu,4.4
@@ -6229,7 +6228,7 @@ Florida,2020-07-20,Pneu,4.3
 Florida,2020-07-21,Pneu,4.1
 Florida,2020-07-22,Pneu,4
 Florida,2020-07-23,Pneu,3.9
-Florida,2020-07-24,Pneu,3.9
+Florida,2020-07-24,Pneu,4
 Florida,2020-07-25,Pneu,3.8
 Florida,2020-07-26,Pneu,3.9
 Florida,2020-07-27,Pneu,3.7
@@ -6239,7 +6238,7 @@ Florida,2020-07-30,Pneu,3.4
 Florida,2020-07-31,Pneu,3.6
 Florida,2020-08-01,Pneu,3.4
 Florida,2020-08-02,Pneu,3.6
-Florida,2020-08-03,Pneu,3.5
+Florida,2020-08-03,Pneu,3.6
 Florida,2020-08-04,Pneu,3.3
 Florida,2020-08-05,Pneu,3.4
 Florida,2020-08-06,Pneu,3.1
@@ -6272,7 +6271,7 @@ Florida,2020-09-01,Pneu,1.5
 Florida,2020-09-02,Pneu,1.6
 Florida,2020-09-03,Pneu,1.5
 Florida,2020-09-04,Pneu,1.4
-Georgia,2020-07-10,Pneu,2.5
+Florida,2020-09-05,Pneu,1.3
 Georgia,2020-07-11,Pneu,2.6
 Georgia,2020-07-12,Pneu,2.7
 Georgia,2020-07-13,Pneu,2.7
@@ -6329,7 +6328,7 @@ Georgia,2020-09-01,Pneu,1.5
 Georgia,2020-09-02,Pneu,1.3
 Georgia,2020-09-03,Pneu,1.4
 Georgia,2020-09-04,Pneu,1.2
-Idaho,2020-07-10,Pneu,2.3
+Georgia,2020-09-05,Pneu,0.8
 Idaho,2020-07-11,Pneu,2.5
 Idaho,2020-07-12,Pneu,2.5
 Idaho,2020-07-13,Pneu,2.5
@@ -6376,7 +6375,7 @@ Idaho,2020-08-22,Pneu,1.4
 Idaho,2020-08-23,Pneu,1.6
 Idaho,2020-08-24,Pneu,1.5
 Idaho,2020-08-25,Pneu,1.3
-Idaho,2020-08-26,Pneu,1.3
+Idaho,2020-08-26,Pneu,1.4
 Idaho,2020-08-27,Pneu,1.5
 Idaho,2020-08-28,Pneu,1.9
 Idaho,2020-08-29,Pneu,1.2
@@ -6385,8 +6384,8 @@ Idaho,2020-08-31,Pneu,1.8
 Idaho,2020-09-01,Pneu,1.4
 Idaho,2020-09-02,Pneu,1.1
 Idaho,2020-09-03,Pneu,1.8
-Idaho,2020-09-04,Pneu,2
-Illinois,2020-07-10,Pneu,2.1
+Idaho,2020-09-04,Pneu,1.9
+Idaho,2020-09-05,Pneu,1.4
 Illinois,2020-07-11,Pneu,2.2
 Illinois,2020-07-12,Pneu,2.2
 Illinois,2020-07-13,Pneu,1.7
@@ -6421,7 +6420,7 @@ Illinois,2020-08-10,Pneu,2.4
 Illinois,2020-08-11,Pneu,2.1
 Illinois,2020-08-12,Pneu,2.3
 Illinois,2020-08-13,Pneu,2
-Illinois,2020-08-14,Pneu,2.1
+Illinois,2020-08-14,Pneu,2.2
 Illinois,2020-08-15,Pneu,2.2
 Illinois,2020-08-16,Pneu,2
 Illinois,2020-08-17,Pneu,2.2
@@ -6432,18 +6431,18 @@ Illinois,2020-08-21,Pneu,2.3
 Illinois,2020-08-22,Pneu,1.9
 Illinois,2020-08-23,Pneu,2.1
 Illinois,2020-08-24,Pneu,1.9
-Illinois,2020-08-25,Pneu,2
-Illinois,2020-08-26,Pneu,1.7
+Illinois,2020-08-25,Pneu,2.1
+Illinois,2020-08-26,Pneu,1.8
 Illinois,2020-08-27,Pneu,1.9
 Illinois,2020-08-28,Pneu,2.1
 Illinois,2020-08-29,Pneu,1.8
 Illinois,2020-08-30,Pneu,1.6
 Illinois,2020-08-31,Pneu,1.9
-Illinois,2020-09-01,Pneu,1.8
+Illinois,2020-09-01,Pneu,1.9
 Illinois,2020-09-02,Pneu,1.9
 Illinois,2020-09-03,Pneu,1.7
 Illinois,2020-09-04,Pneu,1.7
-Kansas,2020-07-10,Pneu,2
+Illinois,2020-09-05,Pneu,1.6
 Kansas,2020-07-11,Pneu,1.6
 Kansas,2020-07-12,Pneu,1.8
 Kansas,2020-07-13,Pneu,2.2
@@ -6494,13 +6493,13 @@ Kansas,2020-08-26,Pneu,1.7
 Kansas,2020-08-27,Pneu,1.4
 Kansas,2020-08-28,Pneu,1.9
 Kansas,2020-08-29,Pneu,1.2
-Kansas,2020-08-30,Pneu,1.6
+Kansas,2020-08-30,Pneu,1.7
 Kansas,2020-08-31,Pneu,2.1
 Kansas,2020-09-01,Pneu,1.4
-Kansas,2020-09-02,Pneu,1.5
+Kansas,2020-09-02,Pneu,1.6
 Kansas,2020-09-03,Pneu,0.9
 Kansas,2020-09-04,Pneu,0.9
-Kentucky,2020-07-10,Pneu,1.9
+Kansas,2020-09-05,Pneu,1.1
 Kentucky,2020-07-11,Pneu,2.3
 Kentucky,2020-07-12,Pneu,2.4
 Kentucky,2020-07-13,Pneu,2.3
@@ -6514,7 +6513,7 @@ Kentucky,2020-07-20,Pneu,2.2
 Kentucky,2020-07-21,Pneu,2.3
 Kentucky,2020-07-22,Pneu,2
 Kentucky,2020-07-23,Pneu,2.2
-Kentucky,2020-07-24,Pneu,2
+Kentucky,2020-07-24,Pneu,2.1
 Kentucky,2020-07-25,Pneu,2.5
 Kentucky,2020-07-26,Pneu,2.3
 Kentucky,2020-07-27,Pneu,2.1
@@ -6557,7 +6556,7 @@ Kentucky,2020-09-01,Pneu,1.6
 Kentucky,2020-09-02,Pneu,1.9
 Kentucky,2020-09-03,Pneu,1.4
 Kentucky,2020-09-04,Pneu,1.6
-Louisiana,2020-07-10,Pneu,1.9
+Kentucky,2020-09-05,Pneu,1.5
 Louisiana,2020-07-11,Pneu,2.3
 Louisiana,2020-07-12,Pneu,2.5
 Louisiana,2020-07-13,Pneu,2.5
@@ -6605,7 +6604,7 @@ Louisiana,2020-08-23,Pneu,1.4
 Louisiana,2020-08-24,Pneu,1.5
 Louisiana,2020-08-25,Pneu,1.3
 Louisiana,2020-08-26,Pneu,1.6
-Louisiana,2020-08-27,Pneu,1.5
+Louisiana,2020-08-27,Pneu,1.6
 Louisiana,2020-08-28,Pneu,1.1
 Louisiana,2020-08-29,Pneu,1.3
 Louisiana,2020-08-30,Pneu,1
@@ -6613,8 +6612,8 @@ Louisiana,2020-08-31,Pneu,1.1
 Louisiana,2020-09-01,Pneu,0.8
 Louisiana,2020-09-02,Pneu,1
 Louisiana,2020-09-03,Pneu,1
-Louisiana,2020-09-04,Pneu,0.8
-Maine,2020-07-10,Pneu,1.1
+Louisiana,2020-09-04,Pneu,0.9
+Louisiana,2020-09-05,Pneu,0.7
 Maine,2020-07-11,Pneu,1.2
 Maine,2020-07-12,Pneu,0.7
 Maine,2020-07-13,Pneu,1.8
@@ -6664,14 +6663,14 @@ Maine,2020-08-25,Pneu,1
 Maine,2020-08-26,Pneu,0.9
 Maine,2020-08-27,Pneu,0.9
 Maine,2020-08-28,Pneu,0.9
-Maine,2020-08-29,Pneu,0.9
+Maine,2020-08-29,Pneu,1
 Maine,2020-08-30,Pneu,1.2
 Maine,2020-08-31,Pneu,1
 Maine,2020-09-01,Pneu,1.4
-Maine,2020-09-02,Pneu,1.4
-Maine,2020-09-03,Pneu,0.4
+Maine,2020-09-02,Pneu,1.6
+Maine,2020-09-03,Pneu,0.5
 Maine,2020-09-04,Pneu,0.4
-Maryland,2020-07-10,Pneu,2.2
+Maine,2020-09-05,Pneu,0.5
 Maryland,2020-07-11,Pneu,1.8
 Maryland,2020-07-12,Pneu,2.3
 Maryland,2020-07-13,Pneu,2.3
@@ -6725,10 +6724,10 @@ Maryland,2020-08-29,Pneu,1.8
 Maryland,2020-08-30,Pneu,1.8
 Maryland,2020-08-31,Pneu,2
 Maryland,2020-09-01,Pneu,1.6
-Maryland,2020-09-02,Pneu,1.9
-Maryland,2020-09-03,Pneu,1.4
-Maryland,2020-09-04,Pneu,1.4
-Massachusetts,2020-07-10,Pneu,1.3
+Maryland,2020-09-02,Pneu,2
+Maryland,2020-09-03,Pneu,1.6
+Maryland,2020-09-04,Pneu,1.5
+Maryland,2020-09-05,Pneu,0.9
 Massachusetts,2020-07-11,Pneu,1.4
 Massachusetts,2020-07-12,Pneu,1.3
 Massachusetts,2020-07-13,Pneu,1.3
@@ -6769,12 +6768,12 @@ Massachusetts,2020-08-16,Pneu,1.1
 Massachusetts,2020-08-17,Pneu,1.3
 Massachusetts,2020-08-18,Pneu,1.3
 Massachusetts,2020-08-19,Pneu,1.2
-Massachusetts,2020-08-20,Pneu,1.2
+Massachusetts,2020-08-20,Pneu,1.3
 Massachusetts,2020-08-21,Pneu,1.2
 Massachusetts,2020-08-22,Pneu,1.3
 Massachusetts,2020-08-23,Pneu,1.3
 Massachusetts,2020-08-24,Pneu,1.5
-Massachusetts,2020-08-25,Pneu,0.9
+Massachusetts,2020-08-25,Pneu,1
 Massachusetts,2020-08-26,Pneu,1.2
 Massachusetts,2020-08-27,Pneu,1.1
 Massachusetts,2020-08-28,Pneu,0.9
@@ -6784,8 +6783,8 @@ Massachusetts,2020-08-31,Pneu,1
 Massachusetts,2020-09-01,Pneu,1
 Massachusetts,2020-09-02,Pneu,0.8
 Massachusetts,2020-09-03,Pneu,1.2
-Massachusetts,2020-09-04,Pneu,0.7
-Michigan,2020-07-10,Pneu,1.4
+Massachusetts,2020-09-04,Pneu,0.8
+Massachusetts,2020-09-05,Pneu,0.9
 Michigan,2020-07-11,Pneu,1.2
 Michigan,2020-07-12,Pneu,1.3
 Michigan,2020-07-13,Pneu,1.2
@@ -6840,9 +6839,9 @@ Michigan,2020-08-30,Pneu,1.2
 Michigan,2020-08-31,Pneu,1.3
 Michigan,2020-09-01,Pneu,1.1
 Michigan,2020-09-02,Pneu,1
-Michigan,2020-09-03,Pneu,1.2
+Michigan,2020-09-03,Pneu,1.3
 Michigan,2020-09-04,Pneu,1.1
-Mississippi,2020-07-10,Pneu,3.1
+Michigan,2020-09-05,Pneu,1
 Mississippi,2020-07-11,Pneu,3.4
 Mississippi,2020-07-12,Pneu,2.7
 Mississippi,2020-07-13,Pneu,2.8
@@ -6886,20 +6885,20 @@ Mississippi,2020-08-19,Pneu,2.6
 Mississippi,2020-08-20,Pneu,1.9
 Mississippi,2020-08-21,Pneu,1.9
 Mississippi,2020-08-22,Pneu,2.1
-Mississippi,2020-08-23,Pneu,1.9
+Mississippi,2020-08-23,Pneu,2
 Mississippi,2020-08-24,Pneu,1.9
-Mississippi,2020-08-25,Pneu,1.9
+Mississippi,2020-08-25,Pneu,2
 Mississippi,2020-08-26,Pneu,1.6
-Mississippi,2020-08-27,Pneu,2
+Mississippi,2020-08-27,Pneu,2.1
 Mississippi,2020-08-28,Pneu,2.1
 Mississippi,2020-08-29,Pneu,1.9
-Mississippi,2020-08-30,Pneu,1.7
-Mississippi,2020-08-31,Pneu,2
+Mississippi,2020-08-30,Pneu,1.8
+Mississippi,2020-08-31,Pneu,2.1
 Mississippi,2020-09-01,Pneu,1.4
 Mississippi,2020-09-02,Pneu,1.2
-Mississippi,2020-09-03,Pneu,1.2
-Mississippi,2020-09-04,Pneu,1.2
-Missouri,2020-07-10,Pneu,0.2
+Mississippi,2020-09-03,Pneu,1.3
+Mississippi,2020-09-04,Pneu,1.3
+Mississippi,2020-09-05,Pneu,1.5
 Missouri,2020-07-11,Pneu,0.3
 Missouri,2020-07-12,Pneu,0.1
 Missouri,2020-07-13,Pneu,0.2
@@ -6956,7 +6955,7 @@ Missouri,2020-09-01,Pneu,0.3
 Missouri,2020-09-02,Pneu,0.2
 Missouri,2020-09-03,Pneu,0.3
 Missouri,2020-09-04,Pneu,0.2
-Montana,2020-07-10,Pneu,1.3
+Missouri,2020-09-05,Pneu,0.3
 Montana,2020-07-11,Pneu,1.1
 Montana,2020-07-12,Pneu,1.5
 Montana,2020-07-13,Pneu,0.8
@@ -7013,7 +7012,7 @@ Montana,2020-09-01,Pneu,1.5
 Montana,2020-09-02,Pneu,0.6
 Montana,2020-09-03,Pneu,1.7
 Montana,2020-09-04,Pneu,0.4
-Nebraska,2020-07-10,Pneu,1.2
+Montana,2020-09-05,Pneu,1.1
 Nebraska,2020-07-11,Pneu,1.1
 Nebraska,2020-07-12,Pneu,0.9
 Nebraska,2020-07-13,Pneu,0.9
@@ -7070,7 +7069,7 @@ Nebraska,2020-09-01,Pneu,0.8
 Nebraska,2020-09-02,Pneu,0.8
 Nebraska,2020-09-03,Pneu,0.4
 Nebraska,2020-09-04,Pneu,0.7
-Nevada,2020-07-10,Pneu,4.3
+Nebraska,2020-09-05,Pneu,0.5
 Nevada,2020-07-11,Pneu,4.2
 Nevada,2020-07-12,Pneu,3.5
 Nevada,2020-07-13,Pneu,4.9
@@ -7105,29 +7104,29 @@ Nevada,2020-08-10,Pneu,3.2
 Nevada,2020-08-11,Pneu,3.2
 Nevada,2020-08-12,Pneu,3.8
 Nevada,2020-08-13,Pneu,2.7
-Nevada,2020-08-14,Pneu,3.2
+Nevada,2020-08-14,Pneu,3.3
 Nevada,2020-08-15,Pneu,2.2
 Nevada,2020-08-16,Pneu,3.1
 Nevada,2020-08-17,Pneu,2.9
 Nevada,2020-08-18,Pneu,2.6
-Nevada,2020-08-19,Pneu,2.1
+Nevada,2020-08-19,Pneu,2.2
 Nevada,2020-08-20,Pneu,2.3
 Nevada,2020-08-21,Pneu,2.5
 Nevada,2020-08-22,Pneu,1.9
-Nevada,2020-08-23,Pneu,1.9
+Nevada,2020-08-23,Pneu,2
 Nevada,2020-08-24,Pneu,2.7
 Nevada,2020-08-25,Pneu,2.1
 Nevada,2020-08-26,Pneu,2.2
-Nevada,2020-08-27,Pneu,2.4
+Nevada,2020-08-27,Pneu,2.3
 Nevada,2020-08-28,Pneu,2.5
 Nevada,2020-08-29,Pneu,2.1
-Nevada,2020-08-30,Pneu,1.7
+Nevada,2020-08-30,Pneu,1.8
 Nevada,2020-08-31,Pneu,2
-Nevada,2020-09-01,Pneu,1.7
-Nevada,2020-09-02,Pneu,1.4
-Nevada,2020-09-03,Pneu,1.7
+Nevada,2020-09-01,Pneu,1.8
+Nevada,2020-09-02,Pneu,1.5
+Nevada,2020-09-03,Pneu,1.8
 Nevada,2020-09-04,Pneu,1.3
-New Jersey,2020-07-10,Pneu,0.6
+Nevada,2020-09-05,Pneu,1.6
 New Jersey,2020-07-11,Pneu,0.6
 New Jersey,2020-07-12,Pneu,0.6
 New Jersey,2020-07-13,Pneu,0.5
@@ -7182,9 +7181,9 @@ New Jersey,2020-08-30,Pneu,0.6
 New Jersey,2020-08-31,Pneu,0.5
 New Jersey,2020-09-01,Pneu,0.5
 New Jersey,2020-09-02,Pneu,0.5
-New Jersey,2020-09-03,Pneu,0.6
+New Jersey,2020-09-03,Pneu,0.7
 New Jersey,2020-09-04,Pneu,0.6
-New Mexico,2020-07-10,Pneu,1.7
+New Jersey,2020-09-05,Pneu,0.6
 New Mexico,2020-07-11,Pneu,1.8
 New Mexico,2020-07-12,Pneu,1.9
 New Mexico,2020-07-13,Pneu,1.7
@@ -7241,7 +7240,7 @@ New Mexico,2020-09-01,Pneu,0.9
 New Mexico,2020-09-02,Pneu,0.9
 New Mexico,2020-09-03,Pneu,0.8
 New Mexico,2020-09-04,Pneu,0.5
-New York,2020-07-10,Pneu,1
+New Mexico,2020-09-05,Pneu,0.5
 New York,2020-07-11,Pneu,1
 New York,2020-07-12,Pneu,1
 New York,2020-07-13,Pneu,1
@@ -7281,7 +7280,7 @@ New York,2020-08-15,Pneu,1
 New York,2020-08-16,Pneu,0.8
 New York,2020-08-17,Pneu,0.9
 New York,2020-08-18,Pneu,1
-New York,2020-08-19,Pneu,0.9
+New York,2020-08-19,Pneu,1
 New York,2020-08-20,Pneu,1.1
 New York,2020-08-21,Pneu,1
 New York,2020-08-22,Pneu,0.9
@@ -7298,7 +7297,7 @@ New York,2020-09-01,Pneu,0.9
 New York,2020-09-02,Pneu,0.6
 New York,2020-09-03,Pneu,0.9
 New York,2020-09-04,Pneu,0.9
-North Carolina,2020-07-10,Pneu,2.8
+New York,2020-09-05,Pneu,0.8
 North Carolina,2020-07-11,Pneu,2.8
 North Carolina,2020-07-12,Pneu,2.7
 North Carolina,2020-07-13,Pneu,2.7
@@ -7307,7 +7306,7 @@ North Carolina,2020-07-15,Pneu,2.7
 North Carolina,2020-07-16,Pneu,3
 North Carolina,2020-07-17,Pneu,2.7
 North Carolina,2020-07-18,Pneu,2.5
-North Carolina,2020-07-19,Pneu,2.7
+North Carolina,2020-07-19,Pneu,2.6
 North Carolina,2020-07-20,Pneu,2.6
 North Carolina,2020-07-21,Pneu,2.7
 North Carolina,2020-07-22,Pneu,2.4
@@ -7327,35 +7326,35 @@ North Carolina,2020-08-04,Pneu,2.8
 North Carolina,2020-08-05,Pneu,2.6
 North Carolina,2020-08-06,Pneu,2.6
 North Carolina,2020-08-07,Pneu,2.9
-North Carolina,2020-08-08,Pneu,2.4
+North Carolina,2020-08-08,Pneu,2.5
 North Carolina,2020-08-09,Pneu,2.5
 North Carolina,2020-08-10,Pneu,2.6
 North Carolina,2020-08-11,Pneu,2.6
 North Carolina,2020-08-12,Pneu,2.6
 North Carolina,2020-08-13,Pneu,2.3
 North Carolina,2020-08-14,Pneu,2.7
-North Carolina,2020-08-15,Pneu,2.5
-North Carolina,2020-08-16,Pneu,2.3
+North Carolina,2020-08-15,Pneu,2.6
+North Carolina,2020-08-16,Pneu,2.4
 North Carolina,2020-08-17,Pneu,2.6
-North Carolina,2020-08-18,Pneu,2.3
+North Carolina,2020-08-18,Pneu,2.4
 North Carolina,2020-08-19,Pneu,2.6
 North Carolina,2020-08-20,Pneu,2.4
 North Carolina,2020-08-21,Pneu,2.4
 North Carolina,2020-08-22,Pneu,2.1
-North Carolina,2020-08-23,Pneu,2.3
+North Carolina,2020-08-23,Pneu,2.4
 North Carolina,2020-08-24,Pneu,2.2
 North Carolina,2020-08-25,Pneu,2.2
 North Carolina,2020-08-26,Pneu,2
 North Carolina,2020-08-27,Pneu,1.9
-North Carolina,2020-08-28,Pneu,1.7
+North Carolina,2020-08-28,Pneu,1.8
 North Carolina,2020-08-29,Pneu,1.9
 North Carolina,2020-08-30,Pneu,1.6
-North Carolina,2020-08-31,Pneu,1.7
+North Carolina,2020-08-31,Pneu,1.8
 North Carolina,2020-09-01,Pneu,1.5
-North Carolina,2020-09-02,Pneu,1.4
-North Carolina,2020-09-03,Pneu,1.1
-North Carolina,2020-09-04,Pneu,1.1
-North Dakota,2020-07-10,Pneu,3.2
+North Carolina,2020-09-02,Pneu,1.5
+North Carolina,2020-09-03,Pneu,1.2
+North Carolina,2020-09-04,Pneu,1.2
+North Carolina,2020-09-05,Pneu,0.9
 North Dakota,2020-07-11,Pneu,1.7
 North Dakota,2020-07-12,Pneu,1.6
 North Dakota,2020-07-13,Pneu,1.6
@@ -7409,10 +7408,10 @@ North Dakota,2020-08-29,Pneu,2.8
 North Dakota,2020-08-30,Pneu,3.1
 North Dakota,2020-08-31,Pneu,2.3
 North Dakota,2020-09-01,Pneu,2.4
-North Dakota,2020-09-02,Pneu,1.8
-North Dakota,2020-09-03,Pneu,0.6
-North Dakota,2020-09-04,Pneu,2.2
-Ohio,2020-07-10,Pneu,1.2
+North Dakota,2020-09-02,Pneu,2.1
+North Dakota,2020-09-03,Pneu,1.7
+North Dakota,2020-09-04,Pneu,2.4
+North Dakota,2020-09-05,Pneu,1.5
 Ohio,2020-07-11,Pneu,1.1
 Ohio,2020-07-12,Pneu,1.1
 Ohio,2020-07-13,Pneu,1.1
@@ -7465,11 +7464,11 @@ Ohio,2020-08-28,Pneu,1.1
 Ohio,2020-08-29,Pneu,0.9
 Ohio,2020-08-30,Pneu,0.9
 Ohio,2020-08-31,Pneu,1.1
-Ohio,2020-09-01,Pneu,1
+Ohio,2020-09-01,Pneu,1.1
 Ohio,2020-09-02,Pneu,0.9
 Ohio,2020-09-03,Pneu,1.1
-Ohio,2020-09-04,Pneu,0.9
-Oregon,2020-07-10,Pneu,1.1
+Ohio,2020-09-04,Pneu,1
+Ohio,2020-09-05,Pneu,0.9
 Oregon,2020-07-11,Pneu,1.5
 Oregon,2020-07-12,Pneu,1.4
 Oregon,2020-07-13,Pneu,1.7
@@ -7519,14 +7518,14 @@ Oregon,2020-08-25,Pneu,1.6
 Oregon,2020-08-26,Pneu,1.4
 Oregon,2020-08-27,Pneu,1.4
 Oregon,2020-08-28,Pneu,1
-Oregon,2020-08-29,Pneu,1.2
+Oregon,2020-08-29,Pneu,1.1
 Oregon,2020-08-30,Pneu,1
 Oregon,2020-08-31,Pneu,1.2
 Oregon,2020-09-01,Pneu,1.3
 Oregon,2020-09-02,Pneu,1.5
 Oregon,2020-09-03,Pneu,1.2
 Oregon,2020-09-04,Pneu,1.3
-Pennsylvania,2020-07-10,Pneu,1.2
+Oregon,2020-09-05,Pneu,0.7
 Pennsylvania,2020-07-11,Pneu,1.3
 Pennsylvania,2020-07-12,Pneu,1
 Pennsylvania,2020-07-13,Pneu,1.2
@@ -7583,7 +7582,7 @@ Pennsylvania,2020-09-01,Pneu,0.9
 Pennsylvania,2020-09-02,Pneu,0.6
 Pennsylvania,2020-09-03,Pneu,0.9
 Pennsylvania,2020-09-04,Pneu,0.7
-Region 1,2020-07-10,Pneu,1
+Pennsylvania,2020-09-05,Pneu,0.8
 Region 1,2020-07-11,Pneu,1.1
 Region 1,2020-07-12,Pneu,0.9
 Region 1,2020-07-13,Pneu,1.2
@@ -7611,7 +7610,7 @@ Region 1,2020-08-03,Pneu,1.1
 Region 1,2020-08-04,Pneu,1.1
 Region 1,2020-08-05,Pneu,1.1
 Region 1,2020-08-06,Pneu,1.1
-Region 1,2020-08-07,Pneu,0.9
+Region 1,2020-08-07,Pneu,1
 Region 1,2020-08-08,Pneu,0.9
 Region 1,2020-08-09,Pneu,1
 Region 1,2020-08-10,Pneu,1.1
@@ -7627,7 +7626,7 @@ Region 1,2020-08-19,Pneu,1
 Region 1,2020-08-20,Pneu,1
 Region 1,2020-08-21,Pneu,1
 Region 1,2020-08-22,Pneu,1.1
-Region 1,2020-08-23,Pneu,1
+Region 1,2020-08-23,Pneu,1.1
 Region 1,2020-08-24,Pneu,1.1
 Region 1,2020-08-25,Pneu,0.8
 Region 1,2020-08-26,Pneu,1
@@ -7638,9 +7637,9 @@ Region 1,2020-08-30,Pneu,0.8
 Region 1,2020-08-31,Pneu,0.9
 Region 1,2020-09-01,Pneu,0.8
 Region 1,2020-09-02,Pneu,0.9
-Region 1,2020-09-03,Pneu,0.9
+Region 1,2020-09-03,Pneu,1
 Region 1,2020-09-04,Pneu,0.7
-Region 10,2020-07-10,Pneu,1.8
+Region 1,2020-09-05,Pneu,0.8
 Region 10,2020-07-11,Pneu,1.8
 Region 10,2020-07-12,Pneu,1.9
 Region 10,2020-07-13,Pneu,2.1
@@ -7673,7 +7672,7 @@ Region 10,2020-08-08,Pneu,1.7
 Region 10,2020-08-09,Pneu,1.6
 Region 10,2020-08-10,Pneu,1.8
 Region 10,2020-08-11,Pneu,1.8
-Region 10,2020-08-12,Pneu,1.6
+Region 10,2020-08-12,Pneu,1.7
 Region 10,2020-08-13,Pneu,1.9
 Region 10,2020-08-14,Pneu,1.8
 Region 10,2020-08-15,Pneu,1.7
@@ -7697,7 +7696,7 @@ Region 10,2020-09-01,Pneu,1.3
 Region 10,2020-09-02,Pneu,1.4
 Region 10,2020-09-03,Pneu,1.4
 Region 10,2020-09-04,Pneu,1.3
-Region 2,2020-07-10,Pneu,0.9
+Region 10,2020-09-05,Pneu,1.1
 Region 2,2020-07-11,Pneu,0.9
 Region 2,2020-07-12,Pneu,0.9
 Region 2,2020-07-13,Pneu,0.8
@@ -7754,7 +7753,7 @@ Region 2,2020-09-01,Pneu,0.8
 Region 2,2020-09-02,Pneu,0.6
 Region 2,2020-09-03,Pneu,0.8
 Region 2,2020-09-04,Pneu,0.8
-Region 3,2020-07-10,Pneu,1.5
+Region 2,2020-09-05,Pneu,0.8
 Region 3,2020-07-11,Pneu,1.5
 Region 3,2020-07-12,Pneu,1.5
 Region 3,2020-07-13,Pneu,1.5
@@ -7788,7 +7787,7 @@ Region 3,2020-08-09,Pneu,1.5
 Region 3,2020-08-10,Pneu,1.5
 Region 3,2020-08-11,Pneu,1.6
 Region 3,2020-08-12,Pneu,1.6
-Region 3,2020-08-13,Pneu,1.6
+Region 3,2020-08-13,Pneu,1.5
 Region 3,2020-08-14,Pneu,1.5
 Region 3,2020-08-15,Pneu,1.5
 Region 3,2020-08-16,Pneu,1.6
@@ -7811,7 +7810,7 @@ Region 3,2020-09-01,Pneu,1.3
 Region 3,2020-09-02,Pneu,1.2
 Region 3,2020-09-03,Pneu,1.2
 Region 3,2020-09-04,Pneu,1.1
-Region 4,2020-07-10,Pneu,3.3
+Region 3,2020-09-05,Pneu,1
 Region 4,2020-07-11,Pneu,3.4
 Region 4,2020-07-12,Pneu,3.5
 Region 4,2020-07-13,Pneu,3.4
@@ -7867,8 +7866,8 @@ Region 4,2020-08-31,Pneu,1.7
 Region 4,2020-09-01,Pneu,1.5
 Region 4,2020-09-02,Pneu,1.6
 Region 4,2020-09-03,Pneu,1.4
-Region 4,2020-09-04,Pneu,1.3
-Region 5,2020-07-10,Pneu,1.5
+Region 4,2020-09-04,Pneu,1.4
+Region 4,2020-09-05,Pneu,1.2
 Region 5,2020-07-11,Pneu,1.5
 Region 5,2020-07-12,Pneu,1.5
 Region 5,2020-07-13,Pneu,1.3
@@ -7914,18 +7913,18 @@ Region 5,2020-08-21,Pneu,1.4
 Region 5,2020-08-22,Pneu,1.4
 Region 5,2020-08-23,Pneu,1.5
 Region 5,2020-08-24,Pneu,1.3
-Region 5,2020-08-25,Pneu,1.3
+Region 5,2020-08-25,Pneu,1.4
 Region 5,2020-08-26,Pneu,1.3
 Region 5,2020-08-27,Pneu,1.3
 Region 5,2020-08-28,Pneu,1.4
 Region 5,2020-08-29,Pneu,1.2
 Region 5,2020-08-30,Pneu,1.2
-Region 5,2020-08-31,Pneu,1.4
+Region 5,2020-08-31,Pneu,1.5
 Region 5,2020-09-01,Pneu,1.3
 Region 5,2020-09-02,Pneu,1.2
 Region 5,2020-09-03,Pneu,1.3
 Region 5,2020-09-04,Pneu,1.2
-Region 6,2020-07-10,Pneu,3.1
+Region 5,2020-09-05,Pneu,1.2
 Region 6,2020-07-11,Pneu,3.2
 Region 6,2020-07-12,Pneu,3.3
 Region 6,2020-07-13,Pneu,3.4
@@ -7964,7 +7963,7 @@ Region 6,2020-08-14,Pneu,2.2
 Region 6,2020-08-15,Pneu,1.8
 Region 6,2020-08-16,Pneu,2.1
 Region 6,2020-08-17,Pneu,2
-Region 6,2020-08-18,Pneu,1.8
+Region 6,2020-08-18,Pneu,1.9
 Region 6,2020-08-19,Pneu,1.9
 Region 6,2020-08-20,Pneu,1.9
 Region 6,2020-08-21,Pneu,1.8
@@ -7978,11 +7977,11 @@ Region 6,2020-08-28,Pneu,1.5
 Region 6,2020-08-29,Pneu,1.5
 Region 6,2020-08-30,Pneu,1.5
 Region 6,2020-08-31,Pneu,1.5
-Region 6,2020-09-01,Pneu,1.2
+Region 6,2020-09-01,Pneu,1.3
 Region 6,2020-09-02,Pneu,1.3
 Region 6,2020-09-03,Pneu,1.3
-Region 6,2020-09-04,Pneu,1.1
-Region 7,2020-07-10,Pneu,0.8
+Region 6,2020-09-04,Pneu,1.2
+Region 6,2020-09-05,Pneu,1.2
 Region 7,2020-07-11,Pneu,0.7
 Region 7,2020-07-12,Pneu,0.7
 Region 7,2020-07-13,Pneu,0.8
@@ -8033,13 +8032,13 @@ Region 7,2020-08-26,Pneu,0.6
 Region 7,2020-08-27,Pneu,0.7
 Region 7,2020-08-28,Pneu,0.7
 Region 7,2020-08-29,Pneu,0.6
-Region 7,2020-08-30,Pneu,0.7
+Region 7,2020-08-30,Pneu,0.8
 Region 7,2020-08-31,Pneu,0.8
 Region 7,2020-09-01,Pneu,0.7
 Region 7,2020-09-02,Pneu,0.7
 Region 7,2020-09-03,Pneu,0.5
 Region 7,2020-09-04,Pneu,0.5
-Region 8,2020-07-10,Pneu,1.9
+Region 7,2020-09-05,Pneu,0.6
 Region 8,2020-07-11,Pneu,1.7
 Region 8,2020-07-12,Pneu,1.8
 Region 8,2020-07-13,Pneu,1.6
@@ -8094,9 +8093,9 @@ Region 8,2020-08-30,Pneu,1.6
 Region 8,2020-08-31,Pneu,1.5
 Region 8,2020-09-01,Pneu,1.3
 Region 8,2020-09-02,Pneu,1.5
-Region 8,2020-09-03,Pneu,1.3
+Region 8,2020-09-03,Pneu,1.4
 Region 8,2020-09-04,Pneu,1.2
-Region 9,2020-07-10,Pneu,4.1
+Region 8,2020-09-05,Pneu,1.3
 Region 9,2020-07-11,Pneu,4.2
 Region 9,2020-07-12,Pneu,3.9
 Region 9,2020-07-13,Pneu,4.2
@@ -8136,24 +8135,24 @@ Region 9,2020-08-15,Pneu,2.3
 Region 9,2020-08-16,Pneu,2.4
 Region 9,2020-08-17,Pneu,2.4
 Region 9,2020-08-18,Pneu,2.2
-Region 9,2020-08-19,Pneu,1.9
+Region 9,2020-08-19,Pneu,2
 Region 9,2020-08-20,Pneu,2
-Region 9,2020-08-21,Pneu,2.2
-Region 9,2020-08-22,Pneu,2.1
+Region 9,2020-08-21,Pneu,2.3
+Region 9,2020-08-22,Pneu,2.2
 Region 9,2020-08-23,Pneu,2.4
 Region 9,2020-08-24,Pneu,2
 Region 9,2020-08-25,Pneu,1.9
 Region 9,2020-08-26,Pneu,1.9
-Region 9,2020-08-27,Pneu,1.8
+Region 9,2020-08-27,Pneu,1.9
 Region 9,2020-08-28,Pneu,1.9
-Region 9,2020-08-29,Pneu,2.1
+Region 9,2020-08-29,Pneu,2.2
 Region 9,2020-08-30,Pneu,2
 Region 9,2020-08-31,Pneu,1.6
 Region 9,2020-09-01,Pneu,1.5
-Region 9,2020-09-02,Pneu,1.4
-Region 9,2020-09-03,Pneu,1.2
-Region 9,2020-09-04,Pneu,1.1
-Rhode Island,2020-07-10,Pneu,0.8
+Region 9,2020-09-02,Pneu,1.5
+Region 9,2020-09-03,Pneu,1.3
+Region 9,2020-09-04,Pneu,1.2
+Region 9,2020-09-05,Pneu,1.5
 Rhode Island,2020-07-11,Pneu,1.3
 Rhode Island,2020-07-12,Pneu,0.7
 Rhode Island,2020-07-13,Pneu,1.6
@@ -8205,12 +8204,12 @@ Rhode Island,2020-08-27,Pneu,1
 Rhode Island,2020-08-28,Pneu,1.2
 Rhode Island,2020-08-29,Pneu,0.7
 Rhode Island,2020-08-30,Pneu,0.9
-Rhode Island,2020-08-31,Pneu,1.3
+Rhode Island,2020-08-31,Pneu,1.4
 Rhode Island,2020-09-01,Pneu,0.5
-Rhode Island,2020-09-02,Pneu,0.9
+Rhode Island,2020-09-02,Pneu,1.1
 Rhode Island,2020-09-03,Pneu,0.9
 Rhode Island,2020-09-04,Pneu,1
-South Carolina,2020-07-10,Pneu,3.8
+Rhode Island,2020-09-05,Pneu,1.1
 South Carolina,2020-07-11,Pneu,3.6
 South Carolina,2020-07-12,Pneu,3.6
 South Carolina,2020-07-13,Pneu,3.3
@@ -8267,7 +8266,7 @@ South Carolina,2020-09-01,Pneu,1.7
 South Carolina,2020-09-02,Pneu,1.9
 South Carolina,2020-09-03,Pneu,1.5
 South Carolina,2020-09-04,Pneu,1.9
-Tennessee,2020-07-10,Pneu,2.9
+South Carolina,2020-09-05,Pneu,1.3
 Tennessee,2020-07-11,Pneu,2.8
 Tennessee,2020-07-12,Pneu,2.9
 Tennessee,2020-07-13,Pneu,3.3
@@ -8310,7 +8309,7 @@ Tennessee,2020-08-18,Pneu,2.4
 Tennessee,2020-08-19,Pneu,2.4
 Tennessee,2020-08-20,Pneu,2.8
 Tennessee,2020-08-21,Pneu,2.4
-Tennessee,2020-08-22,Pneu,2.4
+Tennessee,2020-08-22,Pneu,2.5
 Tennessee,2020-08-23,Pneu,2.1
 Tennessee,2020-08-24,Pneu,2.6
 Tennessee,2020-08-25,Pneu,2.1
@@ -8321,10 +8320,10 @@ Tennessee,2020-08-29,Pneu,1.9
 Tennessee,2020-08-30,Pneu,2
 Tennessee,2020-08-31,Pneu,2.1
 Tennessee,2020-09-01,Pneu,2
-Tennessee,2020-09-02,Pneu,2.1
-Tennessee,2020-09-03,Pneu,1.8
-Tennessee,2020-09-04,Pneu,1.4
-United States,2020-07-10,Pneu,2.3
+Tennessee,2020-09-02,Pneu,2.2
+Tennessee,2020-09-03,Pneu,1.9
+Tennessee,2020-09-04,Pneu,1.5
+Tennessee,2020-09-05,Pneu,1.4
 United States,2020-07-11,Pneu,2.3
 United States,2020-07-12,Pneu,2.3
 United States,2020-07-13,Pneu,2.3
@@ -8369,7 +8368,7 @@ United States,2020-08-20,Pneu,1.7
 United States,2020-08-21,Pneu,1.6
 United States,2020-08-22,Pneu,1.5
 United States,2020-08-23,Pneu,1.6
-United States,2020-08-24,Pneu,1.5
+United States,2020-08-24,Pneu,1.6
 United States,2020-08-25,Pneu,1.5
 United States,2020-08-26,Pneu,1.5
 United States,2020-08-27,Pneu,1.4
@@ -8378,10 +8377,10 @@ United States,2020-08-29,Pneu,1.4
 United States,2020-08-30,Pneu,1.3
 United States,2020-08-31,Pneu,1.4
 United States,2020-09-01,Pneu,1.3
-United States,2020-09-02,Pneu,1.2
+United States,2020-09-02,Pneu,1.3
 United States,2020-09-03,Pneu,1.2
 United States,2020-09-04,Pneu,1.1
-Utah,2020-07-10,Pneu,2.2
+United States,2020-09-05,Pneu,1.1
 Utah,2020-07-11,Pneu,2
 Utah,2020-07-12,Pneu,2.3
 Utah,2020-07-13,Pneu,2
@@ -8436,9 +8435,9 @@ Utah,2020-08-30,Pneu,1.8
 Utah,2020-08-31,Pneu,1.9
 Utah,2020-09-01,Pneu,1.3
 Utah,2020-09-02,Pneu,1.5
-Utah,2020-09-03,Pneu,1.4
+Utah,2020-09-03,Pneu,1.5
 Utah,2020-09-04,Pneu,1.3
-Vermont,2020-07-10,Pneu,1.4
+Utah,2020-09-05,Pneu,1.1
 Vermont,2020-07-11,Pneu,0.8
 Vermont,2020-07-12,Pneu,0.6
 Vermont,2020-07-13,Pneu,1.5
@@ -8495,7 +8494,7 @@ Vermont,2020-09-01,Pneu,1
 Vermont,2020-09-02,Pneu,0.5
 Vermont,2020-09-03,Pneu,0.5
 Vermont,2020-09-04,Pneu,0.3
-Virginia,2020-07-10,Pneu,1.6
+Vermont,2020-09-05,Pneu,0.4
 Virginia,2020-07-11,Pneu,1.8
 Virginia,2020-07-12,Pneu,1.7
 Virginia,2020-07-13,Pneu,1.5
@@ -8545,14 +8544,14 @@ Virginia,2020-08-25,Pneu,1.8
 Virginia,2020-08-26,Pneu,1.7
 Virginia,2020-08-27,Pneu,1.7
 Virginia,2020-08-28,Pneu,1.8
-Virginia,2020-08-29,Pneu,1.6
+Virginia,2020-08-29,Pneu,1.7
 Virginia,2020-08-30,Pneu,1.7
 Virginia,2020-08-31,Pneu,1.8
 Virginia,2020-09-01,Pneu,1.7
 Virginia,2020-09-02,Pneu,1.5
 Virginia,2020-09-03,Pneu,1.6
 Virginia,2020-09-04,Pneu,1.5
-Washington,2020-07-10,Pneu,2.2
+Virginia,2020-09-05,Pneu,1.5
 Washington,2020-07-11,Pneu,1.9
 Washington,2020-07-12,Pneu,2.1
 Washington,2020-07-13,Pneu,2.2
@@ -8607,9 +8606,9 @@ Washington,2020-08-30,Pneu,1.5
 Washington,2020-08-31,Pneu,1.6
 Washington,2020-09-01,Pneu,1.4
 Washington,2020-09-02,Pneu,1.5
-Washington,2020-09-03,Pneu,1.4
+Washington,2020-09-03,Pneu,1.5
 Washington,2020-09-04,Pneu,1.2
-West Virginia,2020-07-10,Pneu,1.6
+Washington,2020-09-05,Pneu,1.2
 West Virginia,2020-07-11,Pneu,1.5
 West Virginia,2020-07-12,Pneu,1.9
 West Virginia,2020-07-13,Pneu,1.1
@@ -8643,7 +8642,7 @@ West Virginia,2020-08-09,Pneu,1.5
 West Virginia,2020-08-10,Pneu,1.4
 West Virginia,2020-08-11,Pneu,1.6
 West Virginia,2020-08-12,Pneu,1.7
-West Virginia,2020-08-13,Pneu,1.2
+West Virginia,2020-08-13,Pneu,1.1
 West Virginia,2020-08-14,Pneu,1.8
 West Virginia,2020-08-15,Pneu,2.4
 West Virginia,2020-08-16,Pneu,2
@@ -8656,17 +8655,17 @@ West Virginia,2020-08-22,Pneu,1.7
 West Virginia,2020-08-23,Pneu,1.9
 West Virginia,2020-08-24,Pneu,1.4
 West Virginia,2020-08-25,Pneu,1.7
-West Virginia,2020-08-26,Pneu,1.4
-West Virginia,2020-08-27,Pneu,1.3
+West Virginia,2020-08-26,Pneu,1.3
+West Virginia,2020-08-27,Pneu,1.4
 West Virginia,2020-08-28,Pneu,1.4
 West Virginia,2020-08-29,Pneu,1.5
-West Virginia,2020-08-30,Pneu,1.1
+West Virginia,2020-08-30,Pneu,1.2
 West Virginia,2020-08-31,Pneu,1.5
-West Virginia,2020-09-01,Pneu,1.7
+West Virginia,2020-09-01,Pneu,1.8
 West Virginia,2020-09-02,Pneu,1.5
-West Virginia,2020-09-03,Pneu,0.7
+West Virginia,2020-09-03,Pneu,0.8
 West Virginia,2020-09-04,Pneu,1.4
-Wisconsin,2020-07-10,Pneu,1.3
+West Virginia,2020-09-05,Pneu,1.3
 Wisconsin,2020-07-11,Pneu,1.5
 Wisconsin,2020-07-12,Pneu,1.4
 Wisconsin,2020-07-13,Pneu,1.2
@@ -8722,8 +8721,8 @@ Wisconsin,2020-08-31,Pneu,1.1
 Wisconsin,2020-09-01,Pneu,0.9
 Wisconsin,2020-09-02,Pneu,1.1
 Wisconsin,2020-09-03,Pneu,1.1
-Wisconsin,2020-09-04,Pneu,1
-Alabama,2020-07-10,SoB,7.3
+Wisconsin,2020-09-04,Pneu,1.1
+Wisconsin,2020-09-05,Pneu,1.1
 Alabama,2020-07-11,SoB,7.6
 Alabama,2020-07-12,SoB,7.6
 Alabama,2020-07-13,SoB,9.1
@@ -8779,8 +8778,8 @@ Alabama,2020-08-31,SoB,6
 Alabama,2020-09-01,SoB,5.6
 Alabama,2020-09-02,SoB,6.5
 Alabama,2020-09-03,SoB,6.1
-Alabama,2020-09-04,SoB,5.5
-Alaska,2020-07-10,SoB,6.1
+Alabama,2020-09-04,SoB,5.6
+Alabama,2020-09-05,SoB,4.4
 Alaska,2020-07-11,SoB,4.4
 Alaska,2020-07-12,SoB,2.9
 Alaska,2020-07-13,SoB,3.4
@@ -8829,15 +8828,15 @@ Alaska,2020-08-24,SoB,5.7
 Alaska,2020-08-25,SoB,6.3
 Alaska,2020-08-26,SoB,5.1
 Alaska,2020-08-27,SoB,4.6
-Alaska,2020-08-28,SoB,3.4
+Alaska,2020-08-28,SoB,3.3
 Alaska,2020-08-29,SoB,3.5
 Alaska,2020-08-30,SoB,4.2
 Alaska,2020-08-31,SoB,4.6
 Alaska,2020-09-01,SoB,3.8
 Alaska,2020-09-02,SoB,7.4
-Alaska,2020-09-03,SoB,5.4
-Alaska,2020-09-04,SoB,3.7
-Arizona,2020-07-10,SoB,11.1
+Alaska,2020-09-03,SoB,5.3
+Alaska,2020-09-04,SoB,3.8
+Alaska,2020-09-05,SoB,3.2
 Arizona,2020-07-11,SoB,10.6
 Arizona,2020-07-12,SoB,11.2
 Arizona,2020-07-13,SoB,11
@@ -8880,7 +8879,7 @@ Arizona,2020-08-18,SoB,6
 Arizona,2020-08-19,SoB,5.1
 Arizona,2020-08-20,SoB,5.8
 Arizona,2020-08-21,SoB,5.8
-Arizona,2020-08-22,SoB,5.7
+Arizona,2020-08-22,SoB,5.8
 Arizona,2020-08-23,SoB,6.3
 Arizona,2020-08-24,SoB,6.7
 Arizona,2020-08-25,SoB,6.3
@@ -8893,8 +8892,8 @@ Arizona,2020-08-31,SoB,7
 Arizona,2020-09-01,SoB,5.7
 Arizona,2020-09-02,SoB,5.3
 Arizona,2020-09-03,SoB,5.7
-Arizona,2020-09-04,SoB,4.8
-Arkansas,2020-07-10,SoB,6.5
+Arizona,2020-09-04,SoB,5.5
+Arizona,2020-09-05,SoB,5.2
 Arkansas,2020-07-11,SoB,5.6
 Arkansas,2020-07-12,SoB,5.9
 Arkansas,2020-07-13,SoB,7.5
@@ -8951,7 +8950,7 @@ Arkansas,2020-09-01,SoB,7
 Arkansas,2020-09-02,SoB,6.7
 Arkansas,2020-09-03,SoB,6.5
 Arkansas,2020-09-04,SoB,6.1
-Connecticut,2020-07-10,SoB,4.5
+Arkansas,2020-09-05,SoB,5.4
 Connecticut,2020-07-11,SoB,4.5
 Connecticut,2020-07-12,SoB,4
 Connecticut,2020-07-13,SoB,5.5
@@ -9008,7 +9007,7 @@ Connecticut,2020-09-01,SoB,3.7
 Connecticut,2020-09-02,SoB,4.2
 Connecticut,2020-09-03,SoB,4.2
 Connecticut,2020-09-04,SoB,3.6
-Delaware,2020-07-10,SoB,3.1
+Connecticut,2020-09-05,SoB,3.4
 Delaware,2020-07-11,SoB,6
 Delaware,2020-07-12,SoB,5.1
 Delaware,2020-07-13,SoB,5
@@ -9065,7 +9064,7 @@ Delaware,2020-09-01,SoB,4.6
 Delaware,2020-09-02,SoB,5.2
 Delaware,2020-09-03,SoB,4
 Delaware,2020-09-04,SoB,5.5
-District of Columbia,2020-07-10,SoB,6.3
+Delaware,2020-09-05,SoB,3.8
 District of Columbia,2020-07-11,SoB,4.5
 District of Columbia,2020-07-12,SoB,4.4
 District of Columbia,2020-07-13,SoB,5.6
@@ -9122,7 +9121,7 @@ District of Columbia,2020-09-01,SoB,5
 District of Columbia,2020-09-02,SoB,4.6
 District of Columbia,2020-09-03,SoB,5.8
 District of Columbia,2020-09-04,SoB,5
-Florida,2020-07-10,SoB,6.5
+District of Columbia,2020-09-05,SoB,3.9
 Florida,2020-07-11,SoB,6.8
 Florida,2020-07-12,SoB,7
 Florida,2020-07-13,SoB,7
@@ -9179,7 +9178,7 @@ Florida,2020-09-01,SoB,4.6
 Florida,2020-09-02,SoB,4.7
 Florida,2020-09-03,SoB,4.6
 Florida,2020-09-04,SoB,4.4
-Georgia,2020-07-10,SoB,7.9
+Florida,2020-09-05,SoB,3.8
 Georgia,2020-07-11,SoB,7.3
 Georgia,2020-07-12,SoB,8
 Georgia,2020-07-13,SoB,8.1
@@ -9236,7 +9235,7 @@ Georgia,2020-09-01,SoB,6.5
 Georgia,2020-09-02,SoB,6.4
 Georgia,2020-09-03,SoB,6.1
 Georgia,2020-09-04,SoB,5.9
-Idaho,2020-07-10,SoB,6.5
+Georgia,2020-09-05,SoB,5.3
 Idaho,2020-07-11,SoB,5.8
 Idaho,2020-07-12,SoB,4.7
 Idaho,2020-07-13,SoB,6.6
@@ -9293,7 +9292,7 @@ Idaho,2020-09-01,SoB,5.1
 Idaho,2020-09-02,SoB,4.4
 Idaho,2020-09-03,SoB,4.9
 Idaho,2020-09-04,SoB,4.2
-Illinois,2020-07-10,SoB,5.7
+Idaho,2020-09-05,SoB,3.6
 Illinois,2020-07-11,SoB,5.7
 Illinois,2020-07-12,SoB,5.1
 Illinois,2020-07-13,SoB,6.1
@@ -9340,7 +9339,7 @@ Illinois,2020-08-22,SoB,5.3
 Illinois,2020-08-23,SoB,4.9
 Illinois,2020-08-24,SoB,6.5
 Illinois,2020-08-25,SoB,5.7
-Illinois,2020-08-26,SoB,6
+Illinois,2020-08-26,SoB,6.1
 Illinois,2020-08-27,SoB,5.7
 Illinois,2020-08-28,SoB,5.9
 Illinois,2020-08-29,SoB,5.2
@@ -9349,8 +9348,8 @@ Illinois,2020-08-31,SoB,6.6
 Illinois,2020-09-01,SoB,6
 Illinois,2020-09-02,SoB,6
 Illinois,2020-09-03,SoB,6.1
-Illinois,2020-09-04,SoB,5.7
-Kansas,2020-07-10,SoB,5.9
+Illinois,2020-09-04,SoB,5.9
+Illinois,2020-09-05,SoB,4.9
 Kansas,2020-07-11,SoB,5.4
 Kansas,2020-07-12,SoB,5.3
 Kansas,2020-07-13,SoB,6.5
@@ -9407,7 +9406,7 @@ Kansas,2020-09-01,SoB,5.3
 Kansas,2020-09-02,SoB,5.2
 Kansas,2020-09-03,SoB,4.7
 Kansas,2020-09-04,SoB,5
-Kentucky,2020-07-10,SoB,4.4
+Kansas,2020-09-05,SoB,3.7
 Kentucky,2020-07-11,SoB,5.1
 Kentucky,2020-07-12,SoB,4.9
 Kentucky,2020-07-13,SoB,4.7
@@ -9462,9 +9461,9 @@ Kentucky,2020-08-30,SoB,4.3
 Kentucky,2020-08-31,SoB,4.4
 Kentucky,2020-09-01,SoB,4.2
 Kentucky,2020-09-02,SoB,4.3
-Kentucky,2020-09-03,SoB,3.8
+Kentucky,2020-09-03,SoB,3.9
 Kentucky,2020-09-04,SoB,4.7
-Louisiana,2020-07-10,SoB,5.7
+Kentucky,2020-09-05,SoB,3.9
 Louisiana,2020-07-11,SoB,5.9
 Louisiana,2020-07-12,SoB,6.6
 Louisiana,2020-07-13,SoB,6.5
@@ -9520,8 +9519,8 @@ Louisiana,2020-08-31,SoB,5
 Louisiana,2020-09-01,SoB,4.9
 Louisiana,2020-09-02,SoB,4.6
 Louisiana,2020-09-03,SoB,5
-Louisiana,2020-09-04,SoB,4.4
-Maine,2020-07-10,SoB,4
+Louisiana,2020-09-04,SoB,4.5
+Louisiana,2020-09-05,SoB,4.5
 Maine,2020-07-11,SoB,3.9
 Maine,2020-07-12,SoB,3.3
 Maine,2020-07-13,SoB,4.5
@@ -9578,7 +9577,7 @@ Maine,2020-09-01,SoB,4.2
 Maine,2020-09-02,SoB,4.2
 Maine,2020-09-03,SoB,4.7
 Maine,2020-09-04,SoB,3.8
-Maryland,2020-07-10,SoB,6.4
+Maine,2020-09-05,SoB,3.3
 Maryland,2020-07-11,SoB,6
 Maryland,2020-07-12,SoB,6.9
 Maryland,2020-07-13,SoB,8.6
@@ -9635,7 +9634,7 @@ Maryland,2020-09-01,SoB,6.5
 Maryland,2020-09-02,SoB,7
 Maryland,2020-09-03,SoB,6.4
 Maryland,2020-09-04,SoB,7.5
-Massachusetts,2020-07-10,SoB,4.8
+Maryland,2020-09-05,SoB,5
 Massachusetts,2020-07-11,SoB,4.4
 Massachusetts,2020-07-12,SoB,3.9
 Massachusetts,2020-07-13,SoB,5.3
@@ -9692,7 +9691,7 @@ Massachusetts,2020-09-01,SoB,4.1
 Massachusetts,2020-09-02,SoB,4.2
 Massachusetts,2020-09-03,SoB,4.7
 Massachusetts,2020-09-04,SoB,4.2
-Michigan,2020-07-10,SoB,4.7
+Massachusetts,2020-09-05,SoB,3.4
 Michigan,2020-07-11,SoB,4
 Michigan,2020-07-12,SoB,3.9
 Michigan,2020-07-13,SoB,4.9
@@ -9746,10 +9745,10 @@ Michigan,2020-08-29,SoB,3.9
 Michigan,2020-08-30,SoB,3.6
 Michigan,2020-08-31,SoB,4.6
 Michigan,2020-09-01,SoB,4.3
-Michigan,2020-09-02,SoB,4.7
+Michigan,2020-09-02,SoB,4.6
 Michigan,2020-09-03,SoB,4.8
 Michigan,2020-09-04,SoB,4.1
-Mississippi,2020-07-10,SoB,6.8
+Michigan,2020-09-05,SoB,3.3
 Mississippi,2020-07-11,SoB,6.7
 Mississippi,2020-07-12,SoB,6.7
 Mississippi,2020-07-13,SoB,6.7
@@ -9806,7 +9805,7 @@ Mississippi,2020-09-01,SoB,5.1
 Mississippi,2020-09-02,SoB,5.4
 Mississippi,2020-09-03,SoB,4.6
 Mississippi,2020-09-04,SoB,5
-Missouri,2020-07-10,SoB,5.2
+Mississippi,2020-09-05,SoB,4.3
 Missouri,2020-07-11,SoB,4.7
 Missouri,2020-07-12,SoB,4.4
 Missouri,2020-07-13,SoB,5.4
@@ -9863,7 +9862,7 @@ Missouri,2020-09-01,SoB,5.1
 Missouri,2020-09-02,SoB,5.1
 Missouri,2020-09-03,SoB,5.1
 Missouri,2020-09-04,SoB,5.2
-Montana,2020-07-10,SoB,4.2
+Missouri,2020-09-05,SoB,4.3
 Montana,2020-07-11,SoB,4.3
 Montana,2020-07-12,SoB,5.4
 Montana,2020-07-13,SoB,4.8
@@ -9920,7 +9919,7 @@ Montana,2020-09-01,SoB,4.9
 Montana,2020-09-02,SoB,5.6
 Montana,2020-09-03,SoB,5.2
 Montana,2020-09-04,SoB,4.9
-Nebraska,2020-07-10,SoB,4.4
+Montana,2020-09-05,SoB,4.9
 Nebraska,2020-07-11,SoB,4.3
 Nebraska,2020-07-12,SoB,4
 Nebraska,2020-07-13,SoB,5.9
@@ -9977,7 +9976,7 @@ Nebraska,2020-09-01,SoB,5.4
 Nebraska,2020-09-02,SoB,5.7
 Nebraska,2020-09-03,SoB,6.1
 Nebraska,2020-09-04,SoB,4.2
-Nevada,2020-07-10,SoB,6.9
+Nebraska,2020-09-05,SoB,4.4
 Nevada,2020-07-11,SoB,6.5
 Nevada,2020-07-12,SoB,8.1
 Nevada,2020-07-13,SoB,7.9
@@ -10034,7 +10033,7 @@ Nevada,2020-09-01,SoB,5.6
 Nevada,2020-09-02,SoB,4.7
 Nevada,2020-09-03,SoB,4.7
 Nevada,2020-09-04,SoB,4.6
-New Jersey,2020-07-10,SoB,4.5
+Nevada,2020-09-05,SoB,4.9
 New Jersey,2020-07-11,SoB,4
 New Jersey,2020-07-12,SoB,4.4
 New Jersey,2020-07-13,SoB,4.9
@@ -10091,7 +10090,7 @@ New Jersey,2020-09-01,SoB,4.2
 New Jersey,2020-09-02,SoB,4.5
 New Jersey,2020-09-03,SoB,4.4
 New Jersey,2020-09-04,SoB,4
-New Mexico,2020-07-10,SoB,4.3
+New Jersey,2020-09-05,SoB,3.7
 New Mexico,2020-07-11,SoB,3
 New Mexico,2020-07-12,SoB,3.8
 New Mexico,2020-07-13,SoB,4.2
@@ -10148,7 +10147,7 @@ New Mexico,2020-09-01,SoB,3.1
 New Mexico,2020-09-02,SoB,3.2
 New Mexico,2020-09-03,SoB,3.3
 New Mexico,2020-09-04,SoB,2.9
-New York,2020-07-10,SoB,4.5
+New Mexico,2020-09-05,SoB,2.3
 New York,2020-07-11,SoB,4.6
 New York,2020-07-12,SoB,4.4
 New York,2020-07-13,SoB,4.5
@@ -10205,7 +10204,7 @@ New York,2020-09-01,SoB,4.6
 New York,2020-09-02,SoB,4.6
 New York,2020-09-03,SoB,4.5
 New York,2020-09-04,SoB,4.1
-North Carolina,2020-07-10,SoB,3.5
+New York,2020-09-05,SoB,3.8
 North Carolina,2020-07-11,SoB,3.2
 North Carolina,2020-07-12,SoB,3.4
 North Carolina,2020-07-13,SoB,3.9
@@ -10257,12 +10256,12 @@ North Carolina,2020-08-27,SoB,3
 North Carolina,2020-08-28,SoB,3.4
 North Carolina,2020-08-29,SoB,2.9
 North Carolina,2020-08-30,SoB,3.1
-North Carolina,2020-08-31,SoB,3.4
+North Carolina,2020-08-31,SoB,3.3
 North Carolina,2020-09-01,SoB,3.1
 North Carolina,2020-09-02,SoB,3.1
 North Carolina,2020-09-03,SoB,3.1
 North Carolina,2020-09-04,SoB,3.1
-North Dakota,2020-07-10,SoB,3.9
+North Carolina,2020-09-05,SoB,2.4
 North Dakota,2020-07-11,SoB,4.8
 North Dakota,2020-07-12,SoB,5.2
 North Dakota,2020-07-13,SoB,5.3
@@ -10319,7 +10318,7 @@ North Dakota,2020-09-01,SoB,4.9
 North Dakota,2020-09-02,SoB,5
 North Dakota,2020-09-03,SoB,3.8
 North Dakota,2020-09-04,SoB,4.1
-Ohio,2020-07-10,SoB,6.5
+North Dakota,2020-09-05,SoB,4.7
 Ohio,2020-07-11,SoB,5.7
 Ohio,2020-07-12,SoB,5.9
 Ohio,2020-07-13,SoB,6.7
@@ -10376,7 +10375,7 @@ Ohio,2020-09-01,SoB,5.6
 Ohio,2020-09-02,SoB,5.7
 Ohio,2020-09-03,SoB,5
 Ohio,2020-09-04,SoB,5
-Oregon,2020-07-10,SoB,5.5
+Ohio,2020-09-05,SoB,4.8
 Oregon,2020-07-11,SoB,4.6
 Oregon,2020-07-12,SoB,5.2
 Oregon,2020-07-13,SoB,5.3
@@ -10433,7 +10432,7 @@ Oregon,2020-09-01,SoB,4.9
 Oregon,2020-09-02,SoB,5.2
 Oregon,2020-09-03,SoB,5.1
 Oregon,2020-09-04,SoB,4.9
-Pennsylvania,2020-07-10,SoB,6
+Oregon,2020-09-05,SoB,4.1
 Pennsylvania,2020-07-11,SoB,5.3
 Pennsylvania,2020-07-12,SoB,5.8
 Pennsylvania,2020-07-13,SoB,6.4
@@ -10490,7 +10489,7 @@ Pennsylvania,2020-09-01,SoB,6
 Pennsylvania,2020-09-02,SoB,5.5
 Pennsylvania,2020-09-03,SoB,5.7
 Pennsylvania,2020-09-04,SoB,5.4
-Region 1,2020-07-10,SoB,4.4
+Pennsylvania,2020-09-05,SoB,4.4
 Region 1,2020-07-11,SoB,4.1
 Region 1,2020-07-12,SoB,3.8
 Region 1,2020-07-13,SoB,5.4
@@ -10547,7 +10546,7 @@ Region 1,2020-09-01,SoB,3.9
 Region 1,2020-09-02,SoB,4.1
 Region 1,2020-09-03,SoB,4.3
 Region 1,2020-09-04,SoB,4
-Region 10,2020-07-10,SoB,5.7
+Region 1,2020-09-05,SoB,3.3
 Region 10,2020-07-11,SoB,5
 Region 10,2020-07-12,SoB,5.1
 Region 10,2020-07-13,SoB,5.6
@@ -10604,7 +10603,7 @@ Region 10,2020-09-01,SoB,4.9
 Region 10,2020-09-02,SoB,5
 Region 10,2020-09-03,SoB,4.8
 Region 10,2020-09-04,SoB,4.7
-Region 2,2020-07-10,SoB,4.5
+Region 10,2020-09-05,SoB,4
 Region 2,2020-07-11,SoB,4.4
 Region 2,2020-07-12,SoB,4.4
 Region 2,2020-07-13,SoB,4.6
@@ -10661,7 +10660,7 @@ Region 2,2020-09-01,SoB,4.5
 Region 2,2020-09-02,SoB,4.5
 Region 2,2020-09-03,SoB,4.5
 Region 2,2020-09-04,SoB,4.1
-Region 3,2020-07-10,SoB,5.6
+Region 2,2020-09-05,SoB,3.8
 Region 3,2020-07-11,SoB,5.1
 Region 3,2020-07-12,SoB,5.6
 Region 3,2020-07-13,SoB,6.3
@@ -10718,7 +10717,7 @@ Region 3,2020-09-01,SoB,5.6
 Region 3,2020-09-02,SoB,5.5
 Region 3,2020-09-03,SoB,5.5
 Region 3,2020-09-04,SoB,5.5
-Region 4,2020-07-10,SoB,6.2
+Region 3,2020-09-05,SoB,4.4
 Region 4,2020-07-11,SoB,6.2
 Region 4,2020-07-12,SoB,6.5
 Region 4,2020-07-13,SoB,6.6
@@ -10768,14 +10767,14 @@ Region 4,2020-08-25,SoB,4.9
 Region 4,2020-08-26,SoB,4.8
 Region 4,2020-08-27,SoB,4.7
 Region 4,2020-08-28,SoB,4.9
-Region 4,2020-08-29,SoB,4.7
+Region 4,2020-08-29,SoB,4.6
 Region 4,2020-08-30,SoB,4.7
 Region 4,2020-08-31,SoB,5.1
 Region 4,2020-09-01,SoB,4.9
 Region 4,2020-09-02,SoB,4.9
 Region 4,2020-09-03,SoB,4.8
 Region 4,2020-09-04,SoB,4.6
-Region 5,2020-07-10,SoB,5.4
+Region 4,2020-09-05,SoB,3.8
 Region 5,2020-07-11,SoB,4.9
 Region 5,2020-07-12,SoB,5
 Region 5,2020-07-13,SoB,5.6
@@ -10831,8 +10830,8 @@ Region 5,2020-08-31,SoB,5.4
 Region 5,2020-09-01,SoB,5
 Region 5,2020-09-02,SoB,5.2
 Region 5,2020-09-03,SoB,5
-Region 5,2020-09-04,SoB,4.7
-Region 6,2020-07-10,SoB,6.9
+Region 5,2020-09-04,SoB,4.8
+Region 5,2020-09-05,SoB,4.2
 Region 6,2020-07-11,SoB,6.5
 Region 6,2020-07-12,SoB,6.7
 Region 6,2020-07-13,SoB,7.1
@@ -10880,7 +10879,7 @@ Region 6,2020-08-23,SoB,4.6
 Region 6,2020-08-24,SoB,5
 Region 6,2020-08-25,SoB,4.7
 Region 6,2020-08-26,SoB,5.1
-Region 6,2020-08-27,SoB,5
+Region 6,2020-08-27,SoB,5.1
 Region 6,2020-08-28,SoB,4.9
 Region 6,2020-08-29,SoB,4.4
 Region 6,2020-08-30,SoB,4.7
@@ -10889,7 +10888,7 @@ Region 6,2020-09-01,SoB,4.7
 Region 6,2020-09-02,SoB,4.4
 Region 6,2020-09-03,SoB,4.7
 Region 6,2020-09-04,SoB,4.1
-Region 7,2020-07-10,SoB,5.2
+Region 6,2020-09-05,SoB,4.2
 Region 7,2020-07-11,SoB,4.8
 Region 7,2020-07-12,SoB,4.6
 Region 7,2020-07-13,SoB,5.6
@@ -10945,8 +10944,8 @@ Region 7,2020-08-31,SoB,5.5
 Region 7,2020-09-01,SoB,5.1
 Region 7,2020-09-02,SoB,5.2
 Region 7,2020-09-03,SoB,5.1
-Region 7,2020-09-04,SoB,4.9
-Region 8,2020-07-10,SoB,5.3
+Region 7,2020-09-04,SoB,5
+Region 7,2020-09-05,SoB,4.1
 Region 8,2020-07-11,SoB,4.9
 Region 8,2020-07-12,SoB,5.1
 Region 8,2020-07-13,SoB,5.4
@@ -11003,7 +11002,7 @@ Region 8,2020-09-01,SoB,4.9
 Region 8,2020-09-02,SoB,5
 Region 8,2020-09-03,SoB,4.8
 Region 8,2020-09-04,SoB,4.4
-Region 9,2020-07-10,SoB,7.7
+Region 8,2020-09-05,SoB,4
 Region 9,2020-07-11,SoB,7.9
 Region 9,2020-07-12,SoB,8.2
 Region 9,2020-07-13,SoB,7.9
@@ -11059,8 +11058,8 @@ Region 9,2020-08-31,SoB,5.3
 Region 9,2020-09-01,SoB,4.5
 Region 9,2020-09-02,SoB,4.5
 Region 9,2020-09-03,SoB,4.3
-Region 9,2020-09-04,SoB,4
-Rhode Island,2020-07-10,SoB,2.1
+Region 9,2020-09-04,SoB,4.3
+Region 9,2020-09-05,SoB,4.6
 Rhode Island,2020-07-11,SoB,2.3
 Rhode Island,2020-07-12,SoB,3.3
 Rhode Island,2020-07-13,SoB,3.1
@@ -11114,10 +11113,10 @@ Rhode Island,2020-08-29,SoB,1.9
 Rhode Island,2020-08-30,SoB,2.2
 Rhode Island,2020-08-31,SoB,3.1
 Rhode Island,2020-09-01,SoB,2.4
-Rhode Island,2020-09-02,SoB,2.8
+Rhode Island,2020-09-02,SoB,2.7
 Rhode Island,2020-09-03,SoB,2.1
 Rhode Island,2020-09-04,SoB,3.5
-South Carolina,2020-07-10,SoB,7.2
+Rhode Island,2020-09-05,SoB,1.7
 South Carolina,2020-07-11,SoB,7.2
 South Carolina,2020-07-12,SoB,7.3
 South Carolina,2020-07-13,SoB,7.3
@@ -11174,7 +11173,7 @@ South Carolina,2020-09-01,SoB,5.8
 South Carolina,2020-09-02,SoB,5.7
 South Carolina,2020-09-03,SoB,5.1
 South Carolina,2020-09-04,SoB,4.7
-Tennessee,2020-07-10,SoB,6
+South Carolina,2020-09-05,SoB,4.8
 Tennessee,2020-07-11,SoB,6.4
 Tennessee,2020-07-12,SoB,6.7
 Tennessee,2020-07-13,SoB,6.5
@@ -11231,7 +11230,7 @@ Tennessee,2020-09-01,SoB,6
 Tennessee,2020-09-02,SoB,5.4
 Tennessee,2020-09-03,SoB,6.2
 Tennessee,2020-09-04,SoB,5.5
-United States,2020-07-10,SoB,5.8
+Tennessee,2020-09-05,SoB,4.6
 United States,2020-07-11,SoB,5.6
 United States,2020-07-12,SoB,5.7
 United States,2020-07-13,SoB,6.2
@@ -11288,7 +11287,7 @@ United States,2020-09-01,SoB,4.9
 United States,2020-09-02,SoB,4.9
 United States,2020-09-03,SoB,4.8
 United States,2020-09-04,SoB,4.6
-Utah,2020-07-10,SoB,7.1
+United States,2020-09-05,SoB,4
 Utah,2020-07-11,SoB,6.3
 Utah,2020-07-12,SoB,6
 Utah,2020-07-13,SoB,8.2
@@ -11330,7 +11329,7 @@ Utah,2020-08-17,SoB,6.2
 Utah,2020-08-18,SoB,5.3
 Utah,2020-08-19,SoB,6.8
 Utah,2020-08-20,SoB,7
-Utah,2020-08-21,SoB,6.1
+Utah,2020-08-21,SoB,6.2
 Utah,2020-08-22,SoB,5.2
 Utah,2020-08-23,SoB,5.5
 Utah,2020-08-24,SoB,7.2
@@ -11341,11 +11340,11 @@ Utah,2020-08-28,SoB,6.1
 Utah,2020-08-29,SoB,4.4
 Utah,2020-08-30,SoB,5.7
 Utah,2020-08-31,SoB,7.7
-Utah,2020-09-01,SoB,5.5
+Utah,2020-09-01,SoB,5.6
 Utah,2020-09-02,SoB,6.5
 Utah,2020-09-03,SoB,6.7
 Utah,2020-09-04,SoB,5.2
-Vermont,2020-07-10,SoB,5.1
+Utah,2020-09-05,SoB,4.6
 Vermont,2020-07-11,SoB,4.9
 Vermont,2020-07-12,SoB,5.3
 Vermont,2020-07-13,SoB,12.8
@@ -11402,7 +11401,7 @@ Vermont,2020-09-01,SoB,6.5
 Vermont,2020-09-02,SoB,4.2
 Vermont,2020-09-03,SoB,3.8
 Vermont,2020-09-04,SoB,6.5
-Virginia,2020-07-10,SoB,5.2
+Vermont,2020-09-05,SoB,3.7
 Virginia,2020-07-11,SoB,4.3
 Virginia,2020-07-12,SoB,4.9
 Virginia,2020-07-13,SoB,5.6
@@ -11459,7 +11458,7 @@ Virginia,2020-09-01,SoB,5.1
 Virginia,2020-09-02,SoB,5
 Virginia,2020-09-03,SoB,5.3
 Virginia,2020-09-04,SoB,4.9
-Washington,2020-07-10,SoB,5.7
+Virginia,2020-09-05,SoB,4.3
 Washington,2020-07-11,SoB,5.2
 Washington,2020-07-12,SoB,5.3
 Washington,2020-07-13,SoB,5.7
@@ -11512,11 +11511,11 @@ Washington,2020-08-28,SoB,4.6
 Washington,2020-08-29,SoB,3.9
 Washington,2020-08-30,SoB,4.6
 Washington,2020-08-31,SoB,5.8
-Washington,2020-09-01,SoB,5
+Washington,2020-09-01,SoB,4.9
 Washington,2020-09-02,SoB,4.8
 Washington,2020-09-03,SoB,4.5
 Washington,2020-09-04,SoB,4.7
-West Virginia,2020-07-10,SoB,4.8
+Washington,2020-09-05,SoB,4.2
 West Virginia,2020-07-11,SoB,4.9
 West Virginia,2020-07-12,SoB,5.4
 West Virginia,2020-07-13,SoB,5
@@ -11573,7 +11572,7 @@ West Virginia,2020-09-01,SoB,4.7
 West Virginia,2020-09-02,SoB,4.7
 West Virginia,2020-09-03,SoB,4.2
 West Virginia,2020-09-04,SoB,4.3
-Wisconsin,2020-07-10,SoB,4
+West Virginia,2020-09-05,SoB,4.3
 Wisconsin,2020-07-11,SoB,3.8
 Wisconsin,2020-07-12,SoB,4.2
 Wisconsin,2020-07-13,SoB,4.2
@@ -11630,3 +11629,4 @@ Wisconsin,2020-09-01,SoB,4
 Wisconsin,2020-09-02,SoB,3.9
 Wisconsin,2020-09-03,SoB,4.2
 Wisconsin,2020-09-04,SoB,3.5
+Wisconsin,2020-09-05,SoB,3.1
