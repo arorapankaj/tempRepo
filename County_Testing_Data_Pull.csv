@@ -1,8 +1,9 @@
 date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testing_method,cum_positive,daily_positives,cum_total_tests,daily_total_tests,cases_rate_per_100k,%_positivity,daily_tests_per_100k,comments
-12/04/2020,AZ,Arizona,Gila,,8,,,Specimens,,,,67,,11.9,,
-12/03/2020,AZ,Arizona,Gila,,13,,,Specimens,,,,135,,9.6,,
-12/02/2020,AZ,Arizona,Gila,,49,,,Specimens,,,,148,,33.1,,
-12/01/2020,AZ,Arizona,Gila,,51,,,Specimens,,,,141,,36.2,,
+12/05/2020,AZ,Arizona,Gila,,4,,,Specimens,,,,18,,22.2,,
+12/04/2020,AZ,Arizona,Gila,,50,,,Specimens,,,,162,,30.9,,
+12/03/2020,AZ,Arizona,Gila,,29,,,Specimens,,,,147,,19.7,,
+12/02/2020,AZ,Arizona,Gila,,59,,,Specimens,,,,154,,38.3,,
+12/01/2020,AZ,Arizona,Gila,,54,,,Specimens,,,,141,,38.3,,
 11/30/2020,AZ,Arizona,Gila,,61,,,Specimens,,,,149,,40.9,,
 11/29/2020,AZ,Arizona,Gila,,65,,,Specimens,,,,57,,114.0,,data error
 11/28/2020,AZ,Arizona,Gila,,58,,,Specimens,,,,60,,96.7,,
@@ -13,7 +14,7 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 11/23/2020,AZ,Arizona,Gila,,45,,,Specimens,,,,181,,24.9,,
 11/22/2020,AZ,Arizona,Gila,,31,,,Specimens,,,,56,,55.4,,
 11/21/2020,AZ,Arizona,Gila,,8,,,Specimens,,,,51,,15.7,,
-11/20/2020,AZ,Arizona,Gila,,37,,,Specimens,,,,456,,8.1,,
+11/20/2020,AZ,Arizona,Gila,,37,,,Specimens,,,,454,,8.1,,
 11/19/2020,AZ,Arizona,Gila,,31,,,Specimens,,,,192,,16.1,,
 11/18/2020,AZ,Arizona,Gila,,54,,,Specimens,,,,202,,26.7,,
 11/17/2020,AZ,Arizona,Gila,,64,,,Specimens,,,,153,,41.8,,
@@ -81,24 +82,25 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,AZ,Arizona,Gila,,11,,,Specimens,,,,77,,14.3,,
 09/15/2020,AZ,Arizona,Gila,,10,,,Specimens,,,,57,,17.5,,
 09/14/2020,AZ,Arizona,Gila,,8,,,Specimens,,,,74,,10.8,,
-12/06/2020,AZ,Arizona,Maricopa,,2,,,Specimens,,,,20,,10.0,,
-12/05/2020,AZ,Arizona,Maricopa,,6,,,Specimens,,,,966,,0.6,,
-12/04/2020,AZ,Arizona,Maricopa,,30,,,Specimens,,,,5011,,0.6,,
-12/03/2020,AZ,Arizona,Maricopa,,545,,,Specimens,,,,12976,,4.2,,
-12/02/2020,AZ,Arizona,Maricopa,,1949,,,Specimens,,,,15372,,12.7,,
-12/01/2020,AZ,Arizona,Maricopa,,3480,,,Specimens,,,,18353,,19.0,,
-11/30/2020,AZ,Arizona,Maricopa,,3983,,,Specimens,,,,17851,,22.3,,
-11/29/2020,AZ,Arizona,Maricopa,,2524,,,Specimens,,,,9341,,27.0,,
-11/28/2020,AZ,Arizona,Maricopa,,2422,,,Specimens,,,,9750,,24.8,,
-11/27/2020,AZ,Arizona,Maricopa,,2411,,,Specimens,,,,10191,,23.7,,
-11/26/2020,AZ,Arizona,Maricopa,,1251,,,Specimens,,,,4866,,25.7,,
-11/25/2020,AZ,Arizona,Maricopa,,3017,,,Specimens,,,,16666,,18.1,,
-11/24/2020,AZ,Arizona,Maricopa,,3332,,,Specimens,,,,17422,,19.1,,
-11/23/2020,AZ,Arizona,Maricopa,,3197,,,Specimens,,,,18295,,17.5,,
-11/22/2020,AZ,Arizona,Maricopa,,1732,,,Specimens,,,,10146,,17.1,,
-11/21/2020,AZ,Arizona,Maricopa,,2126,,,Specimens,,,,13691,,15.5,,
-11/20/2020,AZ,Arizona,Maricopa,,2582,,,Specimens,,,,15989,,16.1,,
-11/19/2020,AZ,Arizona,Maricopa,,2734,,,Specimens,,,,17110,,16.0,,
+12/07/2020,AZ,Arizona,Maricopa,,8,,,Specimens,,,,24,,33.3,,
+12/06/2020,AZ,Arizona,Maricopa,,57,,,Specimens,,,,1410,,4.0,,
+12/05/2020,AZ,Arizona,Maricopa,,890,,,Specimens,,,,5643,,15.8,,
+12/04/2020,AZ,Arizona,Maricopa,,1411,,,Specimens,,,,9627,,14.7,,
+12/03/2020,AZ,Arizona,Maricopa,,3345,,,Specimens,,,,15404,,21.7,,
+12/02/2020,AZ,Arizona,Maricopa,,3978,,,Specimens,,,,16629,,23.9,,
+12/01/2020,AZ,Arizona,Maricopa,,4318,,,Specimens,,,,18743,,23.0,,
+11/30/2020,AZ,Arizona,Maricopa,,4238,,,Specimens,,,,17875,,23.7,,
+11/29/2020,AZ,Arizona,Maricopa,,2537,,,Specimens,,,,9335,,27.2,,
+11/28/2020,AZ,Arizona,Maricopa,,2423,,,Specimens,,,,9714,,24.9,,
+11/27/2020,AZ,Arizona,Maricopa,,2410,,,Specimens,,,,10166,,23.7,,
+11/26/2020,AZ,Arizona,Maricopa,,1247,,,Specimens,,,,4864,,25.6,,
+11/25/2020,AZ,Arizona,Maricopa,,3018,,,Specimens,,,,16626,,18.2,,
+11/24/2020,AZ,Arizona,Maricopa,,3333,,,Specimens,,,,17396,,19.2,,
+11/23/2020,AZ,Arizona,Maricopa,,3200,,,Specimens,,,,18271,,17.5,,
+11/22/2020,AZ,Arizona,Maricopa,,1734,,,Specimens,,,,10138,,17.1,,
+11/21/2020,AZ,Arizona,Maricopa,,2127,,,Specimens,,,,13644,,15.6,,
+11/20/2020,AZ,Arizona,Maricopa,,2586,,,Specimens,,,,15962,,16.2,,
+11/19/2020,AZ,Arizona,Maricopa,,2734,,,Specimens,,,,17088,,16.0,,
 11/18/2020,AZ,Arizona,Maricopa,,2813,,,Specimens,,,,17615,,16.0,,
 11/17/2020,AZ,Arizona,Maricopa,,2589,,,Specimens,,,,16473,,15.7,,
 11/16/2020,AZ,Arizona,Maricopa,,2291,,,Specimens,,,,13948,,16.4,,
@@ -165,22 +167,24 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,AZ,Arizona,Maricopa,,344,,,Specimens,,,,4715,,7.3,,
 09/15/2020,AZ,Arizona,Maricopa,,318,,,Specimens,,,,4255,,7.5,,
 09/14/2020,AZ,Arizona,Maricopa,,334,,,Specimens,,,,4058,,8.2,,
-12/05/2020,AZ,Arizona,Pima,,37,,,Specimens,,,,388,,9.5,,
-12/04/2020,AZ,Arizona,Pima,,223,,,Specimens,,,,2369,,9.4,,
-12/03/2020,AZ,Arizona,Pima,,667,,,Specimens,,,,3720,,17.9,,
-12/02/2020,AZ,Arizona,Pima,,846,,,Specimens,,,,3944,,21.5,,
-12/01/2020,AZ,Arizona,Pima,,954,,,Specimens,,,,3821,,25.0,,
-11/30/2020,AZ,Arizona,Pima,,1073,,,Specimens,,,,4550,,23.6,,
-11/29/2020,AZ,Arizona,Pima,,453,,,Specimens,,,,1884,,24.0,,
-11/28/2020,AZ,Arizona,Pima,,495,,,Specimens,,,,2043,,24.2,,
-11/27/2020,AZ,Arizona,Pima,,497,,,Specimens,,,,2175,,22.9,,
-11/26/2020,AZ,Arizona,Pima,,143,,,Specimens,,,,569,,25.1,,
-11/25/2020,AZ,Arizona,Pima,,682,,,Specimens,,,,3985,,17.1,,
-11/24/2020,AZ,Arizona,Pima,,704,,,Specimens,,,,3989,,17.6,,
-11/23/2020,AZ,Arizona,Pima,,922,,,Specimens,,,,5093,,18.1,,
-11/22/2020,AZ,Arizona,Pima,,276,,,Specimens,,,,1764,,15.6,,
-11/21/2020,AZ,Arizona,Pima,,401,,,Specimens,,,,2116,,19.0,,
-11/20/2020,AZ,Arizona,Pima,,556,,,Specimens,,,,3975,,14.0,,
+12/07/2020,AZ,Arizona,Pima,,3,,,Specimens,,,,4,,75.0,,
+12/06/2020,AZ,Arizona,Pima,,9,,,Specimens,,,,373,,2.4,,
+12/05/2020,AZ,Arizona,Pima,,132,,,Specimens,,,,1004,,13.1,,
+12/04/2020,AZ,Arizona,Pima,,631,,,Specimens,,,,3952,,16.0,,
+12/03/2020,AZ,Arizona,Pima,,906,,,Specimens,,,,4185,,21.6,,
+12/02/2020,AZ,Arizona,Pima,,995,,,Specimens,,,,4055,,24.5,,
+12/01/2020,AZ,Arizona,Pima,,1021,,,Specimens,,,,3834,,26.6,,
+11/30/2020,AZ,Arizona,Pima,,1066,,,Specimens,,,,4548,,23.4,,
+11/29/2020,AZ,Arizona,Pima,,451,,,Specimens,,,,1883,,24.0,,
+11/28/2020,AZ,Arizona,Pima,,496,,,Specimens,,,,2037,,24.3,,
+11/27/2020,AZ,Arizona,Pima,,494,,,Specimens,,,,2172,,22.7,,
+11/26/2020,AZ,Arizona,Pima,,143,,,Specimens,,,,567,,25.2,,
+11/25/2020,AZ,Arizona,Pima,,678,,,Specimens,,,,4007,,16.9,,
+11/24/2020,AZ,Arizona,Pima,,704,,,Specimens,,,,4014,,17.5,,
+11/23/2020,AZ,Arizona,Pima,,921,,,Specimens,,,,5141,,17.9,,
+11/22/2020,AZ,Arizona,Pima,,275,,,Specimens,,,,1762,,15.6,,
+11/21/2020,AZ,Arizona,Pima,,401,,,Specimens,,,,2111,,19.0,,
+11/20/2020,AZ,Arizona,Pima,,556,,,Specimens,,,,3969,,14.0,,
 11/19/2020,AZ,Arizona,Pima,,770,,,Specimens,,,,4209,,18.3,,
 11/18/2020,AZ,Arizona,Pima,,656,,,Specimens,,,,3778,,17.4,,
 11/17/2020,AZ,Arizona,Pima,,577,,,Specimens,,,,3654,,15.8,,
@@ -248,22 +252,23 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,AZ,Arizona,Pima,,224,,,Specimens,,,,1514,,14.8,,
 09/15/2020,AZ,Arizona,Pima,,279,,,Specimens,,,,1550,,18.0,,
 09/14/2020,AZ,Arizona,Pima,,352,,,Specimens,,,,1581,,22.3,,
-12/05/2020,AZ,Arizona,Pinal,,6,,,Specimens,,,,53,,11.3,,
-12/04/2020,AZ,Arizona,Pinal,,41,,,Specimens,,,,447,,9.2,,
-12/03/2020,AZ,Arizona,Pinal,,152,,,Specimens,,,,1373,,11.1,,
-12/02/2020,AZ,Arizona,Pinal,,234,,,Specimens,,,,1620,,14.4,,
-12/01/2020,AZ,Arizona,Pinal,,430,,,Specimens,,,,2217,,19.4,,
-11/30/2020,AZ,Arizona,Pinal,,374,,,Specimens,,,,1684,,22.2,,
-11/29/2020,AZ,Arizona,Pinal,,219,,,Specimens,,,,911,,24.0,,
-11/28/2020,AZ,Arizona,Pinal,,211,,,Specimens,,,,1004,,21.0,,
-11/27/2020,AZ,Arizona,Pinal,,190,,,Specimens,,,,1008,,18.8,,
+12/06/2020,AZ,Arizona,Pinal,,14,,,Specimens,,,,79,,17.7,,
+12/05/2020,AZ,Arizona,Pinal,,64,,,Specimens,,,,513,,12.5,,
+12/04/2020,AZ,Arizona,Pinal,,206,,,Specimens,,,,903,,22.8,,
+12/03/2020,AZ,Arizona,Pinal,,371,,,Specimens,,,,1608,,23.1,,
+12/02/2020,AZ,Arizona,Pinal,,397,,,Specimens,,,,1719,,23.1,,
+12/01/2020,AZ,Arizona,Pinal,,451,,,Specimens,,,,2227,,20.3,,
+11/30/2020,AZ,Arizona,Pinal,,382,,,Specimens,,,,1684,,22.7,,
+11/29/2020,AZ,Arizona,Pinal,,217,,,Specimens,,,,910,,23.8,,
+11/28/2020,AZ,Arizona,Pinal,,210,,,Specimens,,,,1003,,20.9,,
+11/27/2020,AZ,Arizona,Pinal,,190,,,Specimens,,,,1007,,18.9,,
 11/26/2020,AZ,Arizona,Pinal,,76,,,Specimens,,,,415,,18.3,,
-11/25/2020,AZ,Arizona,Pinal,,268,,,Specimens,,,,1492,,18.0,,
-11/24/2020,AZ,Arizona,Pinal,,283,,,Specimens,,,,1692,,16.7,,
-11/23/2020,AZ,Arizona,Pinal,,333,,,Specimens,,,,1696,,19.6,,
-11/22/2020,AZ,Arizona,Pinal,,147,,,Specimens,,,,819,,17.9,,
-11/21/2020,AZ,Arizona,Pinal,,149,,,Specimens,,,,1126,,13.2,,
-11/20/2020,AZ,Arizona,Pinal,,228,,,Specimens,,,,1582,,14.4,,
+11/25/2020,AZ,Arizona,Pinal,,267,,,Specimens,,,,1488,,17.9,,
+11/24/2020,AZ,Arizona,Pinal,,280,,,Specimens,,,,1690,,16.6,,
+11/23/2020,AZ,Arizona,Pinal,,334,,,Specimens,,,,1692,,19.7,,
+11/22/2020,AZ,Arizona,Pinal,,148,,,Specimens,,,,819,,18.1,,
+11/21/2020,AZ,Arizona,Pinal,,149,,,Specimens,,,,1125,,13.2,,
+11/20/2020,AZ,Arizona,Pinal,,230,,,Specimens,,,,1582,,14.5,,
 11/19/2020,AZ,Arizona,Pinal,,352,,,Specimens,,,,1576,,22.3,,
 11/18/2020,AZ,Arizona,Pinal,,232,,,Specimens,,,,1507,,15.4,,
 11/17/2020,AZ,Arizona,Pinal,,249,,,Specimens,,,,1568,,15.9,,
@@ -331,20 +336,21 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,AZ,Arizona,Pinal,,10,,,Specimens,,,,374,,2.7,,
 09/15/2020,AZ,Arizona,Pinal,,14,,,Specimens,,,,410,,3.4,,
 09/14/2020,AZ,Arizona,Pinal,,23,,,Specimens,,,,405,,5.7,,
-12/05/2020,AZ,Arizona,Yavapai,,22,,,Specimens,,,,114,,19.3,,
-12/04/2020,AZ,Arizona,Yavapai,,42,,,Specimens,,,,333,,12.6,,
-12/03/2020,AZ,Arizona,Yavapai,,142,,,Specimens,,,,612,,23.2,,
-12/02/2020,AZ,Arizona,Yavapai,,204,,,Specimens,,,,776,,26.3,,
-12/01/2020,AZ,Arizona,Yavapai,,197,,,Specimens,,,,760,,25.9,,
-11/30/2020,AZ,Arizona,Yavapai,,315,,,Specimens,,,,973,,32.4,,
+12/06/2020,AZ,Arizona,Yavapai,,24,,,Specimens,,,,105,,22.9,,
+12/05/2020,AZ,Arizona,Yavapai,,47,,,Specimens,,,,161,,29.2,,
+12/04/2020,AZ,Arizona,Yavapai,,120,,,Specimens,,,,721,,16.6,,
+12/03/2020,AZ,Arizona,Yavapai,,197,,,Specimens,,,,750,,26.3,,
+12/02/2020,AZ,Arizona,Yavapai,,210,,,Specimens,,,,779,,27.0,,
+12/01/2020,AZ,Arizona,Yavapai,,198,,,Specimens,,,,758,,26.1,,
+11/30/2020,AZ,Arizona,Yavapai,,316,,,Specimens,,,,973,,32.5,,
 11/29/2020,AZ,Arizona,Yavapai,,89,,,Specimens,,,,292,,30.5,,
-11/28/2020,AZ,Arizona,Yavapai,,118,,,Specimens,,,,350,,33.7,,
+11/28/2020,AZ,Arizona,Yavapai,,116,,,Specimens,,,,349,,33.2,,
 11/27/2020,AZ,Arizona,Yavapai,,139,,,Specimens,,,,448,,31.0,,
 11/26/2020,AZ,Arizona,Yavapai,,30,,,Specimens,,,,82,,36.6,,
-11/25/2020,AZ,Arizona,Yavapai,,188,,,Specimens,,,,749,,25.1,,
-11/24/2020,AZ,Arizona,Yavapai,,189,,,Specimens,,,,861,,22.0,,
-11/23/2020,AZ,Arizona,Yavapai,,247,,,Specimens,,,,884,,27.9,,
-11/22/2020,AZ,Arizona,Yavapai,,70,,,Specimens,,,,240,,29.2,,
+11/25/2020,AZ,Arizona,Yavapai,,189,,,Specimens,,,,749,,25.2,,
+11/24/2020,AZ,Arizona,Yavapai,,193,,,Specimens,,,,861,,22.4,,
+11/23/2020,AZ,Arizona,Yavapai,,246,,,Specimens,,,,884,,27.8,,
+11/22/2020,AZ,Arizona,Yavapai,,69,,,Specimens,,,,240,,28.8,,
 11/21/2020,AZ,Arizona,Yavapai,,75,,,Specimens,,,,391,,19.2,,
 11/20/2020,AZ,Arizona,Yavapai,,159,,,Specimens,,,,870,,18.3,,
 11/19/2020,AZ,Arizona,Yavapai,,150,,,Specimens,,,,754,,19.9,,
@@ -414,23 +420,24 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,AZ,Arizona,Yavapai,,12,,,Specimens,,,,226,,5.3,,
 09/15/2020,AZ,Arizona,Yavapai,,10,,,Specimens,,,,339,,2.9,,
 09/14/2020,AZ,Arizona,Yavapai,,12,,,Specimens,,,,669,,1.8,,
-12/05/2020,AZ,Arizona,Yuma,,2,,,Specimens,,,,96,,2.1,,
-12/04/2020,AZ,Arizona,Yuma,,17,,,Specimens,,,,343,,5.0,,
-12/03/2020,AZ,Arizona,Yuma,,79,,,Specimens,,,,601,,13.1,,
-12/02/2020,AZ,Arizona,Yuma,,170,,,Specimens,,,,839,,20.3,,
-12/01/2020,AZ,Arizona,Yuma,,378,,,Specimens,,,,1054,,35.9,,
-11/30/2020,AZ,Arizona,Yuma,,418,,,Specimens,,,,979,,42.7,,
-11/29/2020,AZ,Arizona,Yuma,,90,,,Specimens,,,,186,,48.4,,
-11/28/2020,AZ,Arizona,Yuma,,77,,,Specimens,,,,165,,46.7,,
-11/27/2020,AZ,Arizona,Yuma,,194,,,Specimens,,,,504,,38.5,,
+12/06/2020,AZ,Arizona,Yuma,,1,,,Specimens,,,,47,,2.1,,
+12/05/2020,AZ,Arizona,Yuma,,59,,,Specimens,,,,602,,9.8,,
+12/04/2020,AZ,Arizona,Yuma,,91,,,Specimens,,,,721,,12.6,,
+12/03/2020,AZ,Arizona,Yuma,,220,,,Specimens,,,,779,,28.2,,
+12/02/2020,AZ,Arizona,Yuma,,543,,,Specimens,,,,848,,64.0,,
+12/01/2020,AZ,Arizona,Yuma,,447,,,Specimens,,,,1054,,42.4,,
+11/30/2020,AZ,Arizona,Yuma,,438,,,Specimens,,,,977,,44.8,,
+11/29/2020,AZ,Arizona,Yuma,,90,,,Specimens,,,,185,,48.6,,
+11/28/2020,AZ,Arizona,Yuma,,77,,,Specimens,,,,164,,47.0,,
+11/27/2020,AZ,Arizona,Yuma,,193,,,Specimens,,,,502,,38.4,,
 11/26/2020,AZ,Arizona,Yuma,,33,,,Specimens,,,,68,,48.5,,
-11/25/2020,AZ,Arizona,Yuma,,294,,,Specimens,,,,1104,,26.6,,
-11/24/2020,AZ,Arizona,Yuma,,480,,,Specimens,,,,1154,,41.6,,
-11/23/2020,AZ,Arizona,Yuma,,327,,,Specimens,,,,879,,37.2,,
+11/25/2020,AZ,Arizona,Yuma,,293,,,Specimens,,,,1102,,26.6,,
+11/24/2020,AZ,Arizona,Yuma,,481,,,Specimens,,,,1153,,41.7,,
+11/23/2020,AZ,Arizona,Yuma,,327,,,Specimens,,,,876,,37.3,,
 11/22/2020,AZ,Arizona,Yuma,,86,,,Specimens,,,,231,,37.2,,
-11/21/2020,AZ,Arizona,Yuma,,49,,,Specimens,,,,174,,28.2,,
-11/20/2020,AZ,Arizona,Yuma,,230,,,Specimens,,,,869,,26.5,,
-11/19/2020,AZ,Arizona,Yuma,,210,,,Specimens,,,,785,,26.8,,
+11/21/2020,AZ,Arizona,Yuma,,49,,,Specimens,,,,172,,28.5,,
+11/20/2020,AZ,Arizona,Yuma,,230,,,Specimens,,,,865,,26.6,,
+11/19/2020,AZ,Arizona,Yuma,,210,,,Specimens,,,,783,,26.8,,
 11/18/2020,AZ,Arizona,Yuma,,238,,,Specimens,,,,842,,28.3,,
 11/17/2020,AZ,Arizona,Yuma,,240,,,Specimens,,,,928,,25.9,,
 11/16/2020,AZ,Arizona,Yuma,,285,,,Specimens,,,,756,,37.7,,
@@ -497,8 +504,9 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,AZ,Arizona,Yuma,,34,,,Specimens,,,,204,,16.7,,
 09/15/2020,AZ,Arizona,Yuma,,28,,,Specimens,,,,429,,6.5,,
 09/14/2020,AZ,Arizona,Yuma,,27,,,Specimens,,,,210,,12.9,,
+12/08/2020,IL,Illinois,Cook,159452,1332,3132,14,Not Specified,,,1962997,16012,,8.3,,
 12/07/2020,IL,Illinois,Cook,158120,1828,3118,36,Not Specified,,,1946985,15465,,11.8,,
-12/08/2020,IL,Illinois,Cook,156292,1541,3082,10,Not Specified,,,1931520,14702,,10.5,,
+12/06/2020,IL,Illinois,Cook,156292,1541,3082,10,Not Specified,,,1931520,14702,,10.5,,
 12/05/2020,IL,Illinois,Cook,154751,1795,3072,34,Not Specified,,,1916818,17790,,10.1,,
 12/04/2020,IL,Illinois,Cook,152956,2041,3038,7,Not Specified,,,1899028,18371,,11.1,,
 12/03/2020,IL,Illinois,Cook,150915,1963,3031,32,Not Specified,,,1880657,17410,,11.3,,
@@ -521,8 +529,9 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 11/16/2020,IL,Illinois,Cook,119292,2065,2620,16,Not Specified,,,1594674,15548,,13.3,,
 11/15/2020,IL,Illinois,Cook,117227,2432,2604,7,Not Specified,,,1579126,16140,,15.1,,
 11/14/2020,IL,Illinois,Cook,114795,,2597,,Not Specified,,,1562986,,,,,
+12/08/2020,IL,Illinois,DuPage,51672,621,807,5,Not Specified,,,656446,5640,,11.0,,
 12/07/2020,IL,Illinois,DuPage,51051,567,802,1,Not Specified,,,650806,5125,,11.1,,
-12/08/2020,IL,Illinois,DuPage,50484,508,801,4,Not Specified,,,645681,4899,,10.4,,
+12/06/2020,IL,Illinois,DuPage,50484,508,801,4,Not Specified,,,645681,4899,,10.4,,
 12/05/2020,IL,Illinois,DuPage,49976,665,797,11,Not Specified,,,640782,6403,,10.4,,
 12/04/2020,IL,Illinois,DuPage,49311,812,786,11,Not Specified,,,634379,7250,,11.2,,
 12/03/2020,IL,Illinois,DuPage,48499,757,775,15,Not Specified,,,627129,6283,,12.0,,
@@ -545,8 +554,9 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 11/16/2020,IL,Illinois,DuPage,35878,594,662,1,Not Specified,,,523410,5627,,10.6,,
 11/15/2020,IL,Illinois,DuPage,35284,677,661,4,Not Specified,,,517783,4974,,13.6,,
 11/14/2020,IL,Illinois,DuPage,34607,,657,,Not Specified,,,512809,,,,,
+12/08/2020,IL,Illinois,Illinois,804174,7910,13487,144,Not Specified,,,11274608,95825,,8.3,,
 12/07/2020,IL,Illinois,Illinois,796264,8681,13343,88,Not Specified,,,11178783,77569,,11.2,,
-12/08/2020,IL,Illinois,Illinois,787583,7608,13255,76,Not Specified,,,11101214,79538,,9.6,,
+12/06/2020,IL,Illinois,Illinois,787583,7608,13255,76,Not Specified,,,11101214,79538,,9.6,,
 12/05/2020,IL,Illinois,Illinois,779975,9887,13179,208,Not Specified,,,11021676,102678,,9.6,,
 12/04/2020,IL,Illinois,Illinois,770088,10526,12971,145,Not Specified,,,10918998,112634,,9.3,,
 12/03/2020,IL,Illinois,Illinois,759562,10959,12826,187,Not Specified,,,10806364,106778,,10.3,,
@@ -569,8 +579,9 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 11/16/2020,IL,Illinois,Illinois,585248,11632,10779,37,Not Specified,,,9161453,90612,,12.8,,
 11/15/2020,IL,Illinois,Illinois,573616,10631,10742,72,Not Specified,,,9070841,84831,,12.5,,
 11/14/2020,IL,Illinois,Illinois,562985,,10670,,Not Specified,,,8986010,,,,,
+12/08/2020,IL,Illinois,Kane,35176,322,465,1,Not Specified,,,344913,2301,,14.0,,
 12/07/2020,IL,Illinois,Kane,34854,443,464,2,Not Specified,,,342612,2870,,15.4,,
-12/08/2020,IL,Illinois,Kane,34411,286,462,5,Not Specified,,,339742,2290,,12.5,,
+12/06/2020,IL,Illinois,Kane,34411,286,462,5,Not Specified,,,339742,2290,,12.5,,
 12/05/2020,IL,Illinois,Kane,34125,430,457,5,Not Specified,,,337452,2896,,14.8,,
 12/04/2020,IL,Illinois,Kane,33695,422,452,4,Not Specified,,,334556,2716,,15.5,,
 12/03/2020,IL,Illinois,Kane,33273,363,448,5,Not Specified,,,331840,2760,,13.2,,
@@ -593,8 +604,9 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 11/16/2020,IL,Illinois,Kane,26105,393,387,1,Not Specified,,,281771,2673,,14.7,,
 11/15/2020,IL,Illinois,Kane,25712,434,386,3,Not Specified,,,279098,2568,,16.9,,
 11/14/2020,IL,Illinois,Kane,25278,,383,,Not Specified,,,276530,,,,,
+12/08/2020,IL,Illinois,Lake,41303,371,653,4,Not Specified,,,500150,5158,,7.2,,
 12/07/2020,IL,Illinois,Lake,40932,639,649,2,Not Specified,,,494992,3824,,16.7,,
-12/08/2020,IL,Illinois,Lake,40293,366,647,4,Not Specified,,,491168,3726,,9.8,,
+12/06/2020,IL,Illinois,Lake,40293,366,647,4,Not Specified,,,491168,3726,,9.8,,
 12/05/2020,IL,Illinois,Lake,39927,364,643,5,Not Specified,,,487442,4352,,8.4,,
 12/04/2020,IL,Illinois,Lake,39563,512,638,5,Not Specified,,,483090,4948,,10.3,,
 12/03/2020,IL,Illinois,Lake,39051,413,633,5,Not Specified,,,478142,3954,,10.4,,
@@ -617,8 +629,9 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 11/16/2020,IL,Illinois,Lake,31079,547,551,1,Not Specified,,,404567,3336,,16.4,,
 11/15/2020,IL,Illinois,Lake,30532,501,550,2,Not Specified,,,401231,5163,,9.7,,
 11/14/2020,IL,Illinois,Lake,30031,,548,,Not Specified,,,396068,,,,,
+12/08/2020,IL,Illinois,Will,43578,386,590,6,Not Specified,,,434667,3448,,11.2,,
 12/07/2020,IL,Illinois,Will,43192,394,584,3,Not Specified,,,431219,3178,,12.4,,
-12/08/2020,IL,Illinois,Will,42798,418,581,3,Not Specified,,,428041,3320,,12.6,,
+12/06/2020,IL,Illinois,Will,42798,418,581,3,Not Specified,,,428041,3320,,12.6,,
 12/05/2020,IL,Illinois,Will,42380,554,578,13,Not Specified,,,424721,4196,,13.2,,
 12/04/2020,IL,Illinois,Will,41826,622,565,8,Not Specified,,,420525,4323,,14.4,,
 12/03/2020,IL,Illinois,Will,41204,593,557,11,Not Specified,,,416202,3527,,16.8,,
@@ -641,8 +654,9 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 11/16/2020,IL,Illinois,Will,30384,659,486,1,Not Specified,,,348919,4014,,16.4,,
 11/15/2020,IL,Illinois,Will,29725,633,485,2,Not Specified,,,344905,3461,,18.3,,
 11/14/2020,IL,Illinois,Will,29092,,483,,Not Specified,,,341444,,,,,
+12/08/2020,IL,Illinois,Chicago,175752,1179,3645,18,Not Specified,,,2202676,15891,,7.4,,
 12/07/2020,IL,Illinois,Chicago,174573,1862,3627,25,Not Specified,,,2186785,15948,,11.7,,
-12/08/2020,IL,Illinois,Chicago,172711,1649,3602,13,Not Specified,,,2170837,15159,,10.9,,
+12/06/2020,IL,Illinois,Chicago,172711,1649,3602,13,Not Specified,,,2170837,15159,,10.9,,
 12/05/2020,IL,Illinois,Chicago,171062,1896,3589,30,Not Specified,,,2155678,18440,,10.3,,
 12/04/2020,IL,Illinois,Chicago,169166,1757,3559,19,Not Specified,,,2137238,19663,,8.9,,
 12/03/2020,IL,Illinois,Chicago,167409,2227,3540,11,Not Specified,,,2117575,18147,,12.3,,
@@ -822,6 +836,7 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,KS,Kansas,Wyandotte,,,,,Specimens,,35,,514,,6.8,,
 09/15/2020,KS,Kansas,Wyandotte,,,,,Specimens,,36,,462,,7.8,,
 09/14/2020,KS,Kansas,Wyandotte,,,,,Specimens,,23,,375,,6.1,,
+12/07/2020,MD,Maryland,Anne Arundel,,,,,Specimens,,,,,41.61,7.0,,
 12/06/2020,MD,Maryland,Anne Arundel,,,,,Specimens,,,,,39.66,7.0,,
 12/05/2020,MD,Maryland,Anne Arundel,,,,,Specimens,,,,,38.33,7.0,,
 12/04/2020,MD,Maryland,Anne Arundel,,,,,Specimens,,,,,32.8,6.8,,
@@ -906,6 +921,7 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,MD,Maryland,Anne Arundel,,,,,Specimens,,,,,12.48,3.8,,
 09/15/2020,MD,Maryland,Anne Arundel,,,,,Specimens,,,,,10.98,3.8,,
 09/14/2020,MD,Maryland,Anne Arundel,,,,,Specimens,,,,,9.15,4.1,,
+12/07/2020,MD,Maryland,Baltimore,,,,,Specimens,,,,,41.32,6.5,,
 12/06/2020,MD,Maryland,Baltimore,,,,,Specimens,,,,,41.58,7.1,,
 12/05/2020,MD,Maryland,Baltimore,,,,,Specimens,,,,,40.14,7.5,,
 12/04/2020,MD,Maryland,Baltimore,,,,,Specimens,,,,,37.42,7.3,,
@@ -990,6 +1006,7 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,MD,Maryland,Baltimore,,,,,Specimens,,,,,13.52,2.9,,
 09/15/2020,MD,Maryland,Baltimore,,,,,Specimens,,,,,9.63,3.1,,
 09/14/2020,MD,Maryland,Baltimore,,,,,Specimens,,,,,8.55,3.4,,
+12/07/2020,MD,Maryland,Carroll,,,,,Specimens,,,,,34.01,6.7,,
 12/06/2020,MD,Maryland,Carroll,,,,,Specimens,,,,,33.08,6.6,,
 12/05/2020,MD,Maryland,Carroll,,,,,Specimens,,,,,28.83,6.8,,
 12/04/2020,MD,Maryland,Carroll,,,,,Specimens,,,,,25.02,6.3,,
@@ -1074,6 +1091,7 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,MD,Maryland,Carroll,,,,,Specimens,,,,,6.28,2.1,,
 09/15/2020,MD,Maryland,Carroll,,,,,Specimens,,,,,6.36,2.3,,
 09/14/2020,MD,Maryland,Carroll,,,,,Specimens,,,,,6.36,2.6,,
+12/07/2020,MD,Maryland,Frederick,,,,,Specimens,,,,,6.6,54.0,,
 12/06/2020,MD,Maryland,Frederick,,,,,Specimens,,,,,52.07,8.1,,
 12/05/2020,MD,Maryland,Frederick,,,,,Specimens,,,,,50.47,7.9,,
 12/04/2020,MD,Maryland,Frederick,,,,,Specimens,,,,,46.78,8.0,,
@@ -1158,6 +1176,7 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,MD,Maryland,Frederick,,,,,Specimens,,,,,9.3,2.4,,
 09/15/2020,MD,Maryland,Frederick,,,,,Specimens,,,,,8.09,2.6,,
 09/14/2020,MD,Maryland,Frederick,,,,,Specimens,,,,,7.38,2.8,,
+12/07/2020,MD,Maryland,Harford,,,,,Specimens,,,,,6.81,29.9,,
 12/06/2020,MD,Maryland,Harford,,,,,Specimens,,,,,30.65,7.0,,
 12/05/2020,MD,Maryland,Harford,,,,,Specimens,,,,,32.38,7.4,,
 12/04/2020,MD,Maryland,Harford,,,,,Specimens,,,,,29.64,7.6,,
@@ -1242,6 +1261,7 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,MD,Maryland,Harford,,,,,Specimens,,,,,10.01,3.4,,
 09/15/2020,MD,Maryland,Harford,,,,,Specimens,,,,,9.51,3.9,,
 09/14/2020,MD,Maryland,Harford,,,,,Specimens,,,,,9.45,4.4,,
+12/07/2020,MD,Maryland,Howard,,,,,Specimens,,,,,6.23,33.2,,
 12/06/2020,MD,Maryland,Howard,,,,,Specimens,,,,,32.77,6.2,,
 12/05/2020,MD,Maryland,Howard,,,,,Specimens,,,,,33.25,6.6,,
 12/04/2020,MD,Maryland,Howard,,,,,Specimens,,,,,23.25,6.8,,
@@ -1326,6 +1346,7 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,MD,Maryland,Howard,,,,,Specimens,,,,,8.38,2.7,,
 09/15/2020,MD,Maryland,Howard,,,,,Specimens,,,,,7.98,2.8,,
 09/14/2020,MD,Maryland,Howard,,,,,Specimens,,,,,7.98,3.1,,
+12/07/2020,MD,Maryland,Montgomery,,,,,Specimens,,,,,5.98,41.5,,
 12/06/2020,MD,Maryland,Montgomery,,,,,Specimens,,,,,39.36,6.5,,
 12/05/2020,MD,Maryland,Montgomery,,,,,Specimens,,,,,37.36,6.6,,
 12/04/2020,MD,Maryland,Montgomery,,,,,Specimens,,,,,33.38,6.4,,
@@ -2188,7 +2209,11 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,NV,Nevada,Clark,,,,,Not Specified,,,,,314,7.1,208,
 09/15/2020,NV,Nevada,Clark,,,,,Not Specified,,,,,314,7.1,208,
 09/14/2020,NV,Nevada,Clark,,,,,Not Specified,,,,,390,8.6,210,
-12/02/2020,NC,North Carolina,Mecklenburg,,,,,Specimens,,,,1564,,10.4,,
+12/06/2020,NC,North Carolina,Mecklenburg,,,,,Specimens,,,,1899,,9.8,,
+12/05/2020,NC,North Carolina,Mecklenburg,,,,,Specimens,,,,4153,,10.9,,
+12/04/2020,NC,North Carolina,Mecklenburg,,,,,Specimens,,,,5168,,10.0,,
+12/03/2020,NC,North Carolina,Mecklenburg,,,,,Specimens,,,,5321,,10.9,,
+12/02/2020,NC,North Carolina,Mecklenburg,,,,,Specimens,,,,3925,,11.1,,
 12/01/2020,NC,North Carolina,Mecklenburg,,,,,Specimens,,,,4511,,11.2,,
 11/30/2020,NC,North Carolina,Mecklenburg,,,,,Specimens,,,,3078,,13.2,,
 11/29/2020,NC,North Carolina,Mecklenburg,,,,,Specimens,,,,2762,,11.5,,
@@ -2344,81 +2369,169 @@ date,state_code,state,county,cum_cases,daily_cases,cum_deaths,daily_deaths,testi
 09/16/2020,OH,Ohio,Cuyahoga,,,,,Specimens,,,,2693,,3.4,,
 09/15/2020,OH,Ohio,Cuyahoga,,,,,Specimens,,,,2693,,3.4,,
 09/14/2020,OH,Ohio,Cuyahoga,,,,,Specimens,,,,2693,,3.4,,
-11/30/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,18.1,85,Case Rate per 100k is approx
-11/29/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,14.9,181,Case Rate per 100k is approx
-11/28/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,22.9,231,Case Rate per 100k is approx
-11/27/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,16.7,306,Case Rate per 100k is approx
-11/26/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,14.5,368,Case Rate per 100k is approx
-11/25/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,13.1,71,Case Rate per 100k is approx
-11/24/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,15.9,156,Case Rate per 100k is approx
-11/23/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,14.5,280,Case Rate per 100k is approx
-11/22/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,12.7,330,Case Rate per 100k is approx
-11/21/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,13.4,330,Case Rate per 100k is approx
-11/20/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,11.2,280,Case Rate per 100k is approx
-11/19/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,13.3,303,Case Rate per 100k is approx
-11/18/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,13.1,110,Case Rate per 100k is approx
-11/17/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,18.4,130,Case Rate per 100k is approx
-11/16/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,11.9,280,Case Rate per 100k is approx
-11/15/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,13.2,259,Case Rate per 100k is approx
-11/14/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,13.8,265,Case Rate per 100k is approx
-11/13/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,14.6,323,Case Rate per 100k is approx
-11/12/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,10.7,306,Case Rate per 100k is approx
-11/11/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,12.4,85,Case Rate per 100k is approx
-11/10/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,14.4,112,Case Rate per 100k is approx
-11/09/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,10.5,276,Case Rate per 100k is approx
-11/08/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,9.4,242,Case Rate per 100k is approx
-11/07/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,10.5,245,Case Rate per 100k is approx
-11/06/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,9.8,200,Case Rate per 100k is approx
-11/05/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,9.3,231,Case Rate per 100k is approx
-11/04/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,10.2,71,Case Rate per 100k is approx
-11/03/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,11.6,64,Case Rate per 100k is approx
-11/02/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,8.2,279,Case Rate per 100k is approx
-11/01/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,6.9,201,Case Rate per 100k is approx
-10/31/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,7.0,255,Case Rate per 100k is approx
-10/30/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,7.6,238,Case Rate per 100k is approx
-10/29/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,6.3,252,Case Rate per 100k is approx
-10/28/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,6.3,64,Case Rate per 100k is approx
-10/27/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,7.7,88,Case Rate per 100k is approx
-10/26/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,7.4,225,Case Rate per 100k is approx
-10/25/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,7.2,211,Case Rate per 100k is approx
-10/24/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,7.6,194,Case Rate per 100k is approx
-10/23/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,6.4,180,Case Rate per 100k is approx
-10/22/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,5.8,61,Case Rate per 100k is approx
-10/21/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,6.7,85,Case Rate per 100k is approx
-10/20/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,7.0,207,Case Rate per 100k is approx
-10/19/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.9,180,Case Rate per 100k is approx
-10/18/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,4.5,225,Case Rate per 100k is approx
-10/17/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,5.7,177,Case Rate per 100k is approx
-10/16/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,4.4,201,Case Rate per 100k is approx
-10/15/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,6.0,85,Case Rate per 100k is approx
-10/14/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,6.4,92,Case Rate per 100k is approx
-10/13/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.2,280,Case Rate per 100k is approx
-10/12/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.5,187,Case Rate per 100k is approx
-10/11/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,4.9,214,Case Rate per 100k is approx
-10/10/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,4.6,228,Case Rate per 100k is approx
-10/09/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.3,214,Case Rate per 100k is approx
-10/08/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,4.2,58,Case Rate per 100k is approx
-10/07/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,1.9,78,Case Rate per 100k is approx
-10/06/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,1.6,184,Case Rate per 100k is approx
-10/05/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.3,177,Case Rate per 100k is approx
-10/04/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,4.8,129,Case Rate per 100k is approx
-10/03/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.3,129,Case Rate per 100k is approx
-10/02/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.6,180,Case Rate per 100k is approx
-10/01/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.4,40,Case Rate per 100k is approx
-09/30/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.0,64,Case Rate per 100k is approx
-09/29/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.2,211,Case Rate per 100k is approx
-09/28/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,1.0,132,Case Rate per 100k is approx
-09/27/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.1,136,Case Rate per 100k is approx
-09/26/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.8,207,Case Rate per 100k is approx
-09/25/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,1.9,218,Case Rate per 100k is approx
-09/24/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,1.9,51,Case Rate per 100k is approx
-09/23/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.1,71,Case Rate per 100k is approx
-09/22/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,1.4,194,Case Rate per 100k is approx
-09/21/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,1.9,150,Case Rate per 100k is approx
-09/20/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.4,184,Case Rate per 100k is approx
-09/19/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,1.2,136,Case Rate per 100k is approx
-09/18/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.5,218,Case Rate per 100k is approx
-09/17/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.6,58,Case Rate per 100k is approx
-09/16/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.2,88,Case Rate per 100k is approx
-09/15/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.7,214,Case Rate per 100k is approx
-09/14/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.0,156,Case Rate per 100k is approx
+12/04/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,15.7,190,All values are approx
+12/03/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,15.1,190,All values are approx
+12/02/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,13.8,285,All values are approx
+12/01/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,14.2,292,All values are approx
+11/30/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,17.1,292,All values are approx
+11/29/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,19.6,80,All values are approx
+11/28/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,17.9,100,All values are approx
+11/27/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,15.0,200,All values are approx
+11/26/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,23.0,29,All values are approx
+11/25/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,16.7,256,All values are approx
+11/24/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,14.4,300,All values are approx
+11/23/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,13.2,380,All values are approx
+11/22/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,16.3,80,All values are approx
+11/21/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,15.4,153,All values are approx
+11/20/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,13.2,285,All values are approx
+11/19/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,13.6,343,All values are approx
+11/18/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,11.6,330,All values are approx
+11/17/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,13.2,285,All values are approx
+11/16/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,13.2,300,All values are approx
+11/15/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,18.6,100,All values are approx
+11/14/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,12.1,130,All values are approx
+11/13/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,13.2,285,All values are approx
+11/12/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,14.0,270,All values are approx
+11/11/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,14.6,270,All values are approx
+11/10/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,10.9,300,All values are approx
+11/09/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,12.6,300,All values are approx
+11/08/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,14.4,300,All values are approx
+11/07/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,10.3,87,All values are approx
+11/06/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,9.7,100,All values are approx
+11/05/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,10.7,278,All values are approx
+11/04/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,10.0,248,All values are approx
+11/03/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,9.5,248,All values are approx
+11/02/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,10.3,200,All values are approx
+11/01/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,11.6,240,All values are approx
+10/31/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,8.4,73,All values are approx
+10/30/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,7.2,73,All values are approx
+10/29/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,7.2,285,All values are approx
+10/28/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,7.8,219,All values are approx
+10/27/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,6.4,256,All values are approx
+10/26/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,6.4,241,All values are approx
+10/25/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,8.0,256,All values are approx
+10/24/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,7.6,73,All values are approx
+10/23/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,7.6,87,All values are approx
+10/22/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,8.0,212,All values are approx
+10/21/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,6.8,204,All values are approx
+10/20/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,5.9,197,All values are approx
+10/19/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,6.8,190,All values are approx
+10/18/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,7.2,182,All values are approx
+10/17/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,4.1,73,All values are approx
+10/16/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,4.7,80,All values are approx
+10/15/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,5.7,200,All values are approx
+10/14/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,4.7,226,All values are approx
+10/13/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,4.9,190,All values are approx
+10/12/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,5.9,197,All values are approx
+10/11/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,6.6,87,All values are approx
+10/10/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.5,87,All values are approx
+10/09/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.9,285,All values are approx
+10/08/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,5.2,190,All values are approx
+10/07/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,4.9,200,All values are approx
+10/06/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.5,219,All values are approx
+10/05/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,4.5,212,All values are approx
+10/04/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.2,51,All values are approx
+10/03/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,1.9,65,All values are approx
+10/02/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.5,175,All values are approx
+10/01/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,4.7,175,All values are approx
+09/30/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.6,153,All values are approx
+09/29/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.0,160,All values are approx
+09/28/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.7,175,All values are approx
+09/27/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.2,51,All values are approx
+09/26/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.5,73,All values are approx
+09/25/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,1.1,200,All values are approx
+09/24/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.4,153,All values are approx
+09/23/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.0,153,All values are approx
+09/22/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.0,200,All values are approx
+09/21/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.0,219,All values are approx
+09/20/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,3.0,51,All values are approx
+09/19/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,1.6,73,All values are approx
+09/18/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.2,197,All values are approx
+09/17/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.5,168,All values are approx
+09/16/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,1.4,182,All values are approx
+09/15/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.6,168,All values are approx
+09/14/2020,OH,Ohio,Hamilton,,,,,Specimens,,,,,,2.8,226,All values are approx
+12/06/2020,CA,California,Ventura,,,,,Specimens,,3,,54,,5.6,,
+12/05/2020,CA,California,Ventura,,,,,Specimens,,15,,260,,5.8,,
+12/04/2020,CA,California,Ventura,,,,,Specimens,,126,,1337,,9.4,,
+12/03/2020,CA,California,Ventura,,,,,Specimens,,165,,1528,,10.8,,
+12/02/2020,CA,California,Ventura,,,,,Specimens,,366,,2667,,13.7,,
+12/01/2020,CA,California,Ventura,,,,,Specimens,,780,,4671,,16.7,,
+11/30/2020,CA,California,Ventura,,,,,Specimens,,717,,4259,,16.8,,
+11/29/2020,CA,California,Ventura,,,,,Specimens,,269,,1671,,16.1,,
+11/28/2020,CA,California,Ventura,,,,,Specimens,,286,,1893,,15.1,,
+11/27/2020,CA,California,Ventura,,,,,Specimens,,508,,3018,,16.8,,
+11/26/2020,CA,California,Ventura,,,,,Specimens,,22,,161,,13.7,,
+11/25/2020,CA,California,Ventura,,,,,Specimens,,342,,2865,,11.9,,
+11/24/2020,CA,California,Ventura,,,,,Specimens,,393,,3990,,9.8,,
+11/23/2020,CA,California,Ventura,,,,,Specimens,,359,,4138,,8.7,,
+11/22/2020,CA,California,Ventura,,,,,Specimens,,154,,1615,,9.5,,
+11/21/2020,CA,California,Ventura,,,,,Specimens,,139,,1946,,7.1,,
+11/20/2020,CA,California,Ventura,,,,,Specimens,,361,,4042,,8.9,,
+11/19/2020,CA,California,Ventura,,,,,Specimens,,343,,3522,,9.7,,
+11/18/2020,CA,California,Ventura,,,,,Specimens,,265,,3124,,8.5,,
+11/17/2020,CA,California,Ventura,,,,,Specimens,,348,,3617,,9.6,,
+11/16/2020,CA,California,Ventura,,,,,Specimens,,339,,3411,,9.9,,
+11/15/2020,CA,California,Ventura,,,,,Specimens,,87,,1222,,7.1,,
+11/14/2020,CA,California,Ventura,,,,,Specimens,,142,,1406,,10.1,,
+11/13/2020,CA,California,Ventura,,,,,Specimens,,252,,3009,,8.4,,
+11/12/2020,CA,California,Ventura,,,,,Specimens,,200,,2327,,8.6,,
+11/11/2020,CA,California,Ventura,,,,,Specimens,,146,,1844,,7.9,,
+11/10/2020,CA,California,Ventura,,,,,Specimens,,202,,2372,,8.5,,
+11/09/2020,CA,California,Ventura,,,,,Specimens,,203,,2244,,9.0,,
+11/08/2020,CA,California,Ventura,,,,,Specimens,,39,,648,,6.0,,
+11/07/2020,CA,California,Ventura,,,,,Specimens,,72,,910,,7.9,,
+11/06/2020,CA,California,Ventura,,,,,Specimens,,181,,2087,,8.7,,
+11/05/2020,CA,California,Ventura,,,,,Specimens,,143,,1835,,7.8,,
+11/04/2020,CA,California,Ventura,,,,,Specimens,,116,,1550,,7.5,,
+11/03/2020,CA,California,Ventura,,,,,Specimens,,117,,1665,,7.0,,
+11/02/2020,CA,California,Ventura,,,,,Specimens,,177,,2218,,8.0,,
+11/01/2020,CA,California,Ventura,,,,,Specimens,,39,,588,,6.6,,
+10/31/2020,CA,California,Ventura,,,,,Specimens,,51,,652,,7.8,,
+10/30/2020,CA,California,Ventura,,,,,Specimens,,79,,1611,,4.9,,
+10/29/2020,CA,California,Ventura,,,,,Specimens,,77,,1274,,6.0,,
+10/28/2020,CA,California,Ventura,,,,,Specimens,,57,,1394,,4.1,,
+10/27/2020,CA,California,Ventura,,,,,Specimens,,85,,1537,,5.5,,
+10/26/2020,CA,California,Ventura,,,,,Specimens,,94,,1443,,6.5,,
+10/25/2020,CA,California,Ventura,,,,,Specimens,,26,,413,,6.3,,
+10/24/2020,CA,California,Ventura,,,,,Specimens,,32,,684,,4.7,,
+10/23/2020,CA,California,Ventura,,,,,Specimens,,37,,993,,3.7,,
+10/22/2020,CA,California,Ventura,,,,,Specimens,,70,,1271,,5.5,,
+10/21/2020,CA,California,Ventura,,,,,Specimens,,71,,1258,,5.6,,
+10/20/2020,CA,California,Ventura,,,,,Specimens,,68,,1347,,5.0,,
+10/19/2020,CA,California,Ventura,,,,,Specimens,,84,,1721,,4.9,,
+10/18/2020,CA,California,Ventura,,,,,Specimens,,30,,451,,6.7,,
+10/17/2020,CA,California,Ventura,,,,,Specimens,,27,,602,,4.5,,
+10/16/2020,CA,California,Ventura,,,,,Specimens,,62,,1211,,5.1,,
+10/15/2020,CA,California,Ventura,,,,,Specimens,,58,,1078,,5.4,,
+10/14/2020,CA,California,Ventura,,,,,Specimens,,55,,1412,,3.9,,
+10/13/2020,CA,California,Ventura,,,,,Specimens,,57,,1420,,4.0,,
+10/12/2020,CA,California,Ventura,,,,,Specimens,,59,,1540,,3.8,,
+10/11/2020,CA,California,Ventura,,,,,Specimens,,14,,419,,3.3,,
+10/10/2020,CA,California,Ventura,,,,,Specimens,,21,,714,,2.9,,
+10/09/2020,CA,California,Ventura,,,,,Specimens,,60,,1360,,4.4,,
+10/08/2020,CA,California,Ventura,,,,,Specimens,,53,,1293,,4.1,,
+10/07/2020,CA,California,Ventura,,,,,Specimens,,64,,1430,,4.5,,
+10/06/2020,CA,California,Ventura,,,,,Specimens,,72,,1321,,5.5,,
+10/05/2020,CA,California,Ventura,,,,,Specimens,,75,,1791,,4.2,,
+10/04/2020,CA,California,Ventura,,,,,Specimens,,32,,468,,6.8,,
+10/03/2020,CA,California,Ventura,,,,,Specimens,,33,,812,,4.1,,
+10/02/2020,CA,California,Ventura,,,,,Specimens,,52,,1447,,3.6,,
+10/01/2020,CA,California,Ventura,,,,,Specimens,,39,,975,,4.0,,
+09/30/2020,CA,California,Ventura,,,,,Specimens,,53,,1118,,4.7,,
+09/29/2020,CA,California,Ventura,,,,,Specimens,,98,,1181,,8.3,,
+09/28/2020,CA,California,Ventura,,,,,Specimens,,84,,1495,,5.6,,
+09/27/2020,CA,California,Ventura,,,,,Specimens,,20,,392,,5.1,,
+09/26/2020,CA,California,Ventura,,,,,Specimens,,41,,648,,6.3,,
+09/25/2020,CA,California,Ventura,,,,,Specimens,,99,,1302,,7.6,,
+09/24/2020,CA,California,Ventura,,,,,Specimens,,42,,1173,,3.6,,
+09/23/2020,CA,California,Ventura,,,,,Specimens,,39,,1137,,3.4,,
+09/22/2020,CA,California,Ventura,,,,,Specimens,,75,,1319,,5.7,,
+09/21/2020,CA,California,Ventura,,,,,Specimens,,74,,1570,,4.7,,
+09/20/2020,CA,California,Ventura,,,,,Specimens,,22,,422,,5.2,,
+09/19/2020,CA,California,Ventura,,,,,Specimens,,51,,1156,,4.4,,
+09/18/2020,CA,California,Ventura,,,,,Specimens,,97,,1379,,7.0,,
+09/17/2020,CA,California,Ventura,,,,,Specimens,,78,,1176,,6.6,,
+09/16/2020,CA,California,Ventura,,,,,Specimens,,59,,1274,,4.6,,
+09/15/2020,CA,California,Ventura,,,,,Specimens,,96,,1471,,6.5,,
+09/14/2020,CA,California,Ventura,,,,,Specimens,,119,,1607,,7.4,,
