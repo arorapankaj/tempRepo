@@ -7,3 +7,4 @@ Manual File upload URL's:
 - https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard
 - http://dashboard.publichealth.lacounty.gov/covid19_surveillance_dashboard/
 - https://covid19.ncdhhs.gov/dashboard/about-data
+- https://datos.covid-19.conacyt.mx/#DownZCSV
